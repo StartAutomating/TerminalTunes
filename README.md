@@ -16,7 +16,7 @@ Import-Module TerminalTunes
 🎶StarWarsImperialMarch🎶
 ~~~
 
-### List of Tunes:
+### List of Tunes
 
 You can get the list of tunes in TerminalTunes with Get-Tune.
 
@@ -25,8 +25,19 @@ You can get the list of tunes in TerminalTunes with Get-Tune.
 |--------------------------------|------------------------------|-----------|
 |In the Hall of the Mountain King|🎶IntheHalloftheMountainKing🎶|False      |
 |Ms Pacman Theme                 |🎶MsPacmanTheme🎶             |False      |
-|Note                            |🎶Note🎶                      |True       |
-|Scale                           |🎶Scale🎶                     |True       |
+|Star Wars Imperial March        |🎶StarWarsImperialMarch🎶     |False      |
+
+
+
+### Tune Generators
+
+TerminalTunes also includes a few small scripts to make your own music.
+
+
+|Title                           |Alias                         |IsGenerator|
+|--------------------------------|------------------------------|-----------|
+|In the Hall of the Mountain King|🎶IntheHalloftheMountainKing🎶|False      |
+|Ms Pacman Theme                 |🎶MsPacmanTheme🎶             |False      |
 |Star Wars Imperial March        |🎶StarWarsImperialMarch🎶     |False      |
 
 
