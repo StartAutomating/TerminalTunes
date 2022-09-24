@@ -24,6 +24,7 @@ You can get the list of tunes in TerminalTunes with Get-Tune.
 |Title                           |Alias                         |IsGenerator|
 |--------------------------------|------------------------------|-----------|
 |Calvary Charge                  |🎶CalvaryCharge🎶             |False      |
+|Happy Birthday                  |🎶HappyBirthday🎶             |False      |
 |Harry Potter Theme              |🎶HarryPotterTheme🎶          |False      |
 |In the Hall of the Mountain King|🎶IntheHalloftheMountainKing🎶|False      |
 |Ms Pacman Theme                 |🎶MsPacmanTheme🎶             |False      |
