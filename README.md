@@ -27,7 +27,9 @@ You can get the list of tunes in TerminalTunes with Get-Tune.
 |Happy Birthday                  |🎶HappyBirthday🎶             |False      |
 |Harry Potter Theme              |🎶HarryPotterTheme🎶          |False      |
 |In the Hall of the Mountain King|🎶IntheHalloftheMountainKing🎶|False      |
+|Jingle Bells                    |🎶JingleBells🎶               |False      |
 |Ms Pacman Theme                 |🎶MsPacmanTheme🎶             |False      |
+|Reveille                        |🎶Reveille🎶                  |False      |
 |Star Wars Imperial March        |🎶StarWarsImperialMarch🎶     |False      |
 
 
