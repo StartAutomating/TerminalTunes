@@ -39,10 +39,11 @@ You can get the list of tunes in TerminalTunes with Get-Tune.
 TerminalTunes also includes a few small scripts to make your own music.
 
 
-|Title|Alias    |IsGenerator|
-|-----|---------|-----------|
-|Note |🎶Note🎶 |True       |
-|Scale|🎶Scale🎶|True       |
+|Title         |Alias             |IsGenerator|
+|--------------|------------------|-----------|
+|CircleOfFifths|🎶CircleOfFifths🎶|True       |
+|Note          |🎶Note🎶          |True       |
+|Scale         |🎶Scale🎶         |True       |
 
 
 
