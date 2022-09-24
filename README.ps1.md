@@ -16,14 +16,28 @@ Import-Module TerminalTunes
 🎶StarWarsImperialMarch🎶
 ~~~
 
-### List of Tunes:
+### List of Tunes
 
 You can get the list of tunes in TerminalTunes with Get-Tune.
 
 ~~~PipeScript {
     Import-Module ./TerminalTunes.psd1 -Global
     [PSCustomObject]@{
-        Table = Get-Tune | 
+        Table = Get-Tune | Where-Object -not IsGenerator 
+            .Title .Alias {
+                "🎶$($_.Title -replace '\W')🎶"
+            } .IsGenerator
+    }
+}
+~~~
+
+### Tune Generators
+
+TerminalTunes also includes a few small scripts to make your own music.
+
+~~~PipeScript {    
+    [PSCustomObject]@{
+        Table = Get-Tune | Where-Object IsGenerator 
             .Title .Alias {
                 "🎶$($_.Title -replace '\W')🎶"
             } .IsGenerator
