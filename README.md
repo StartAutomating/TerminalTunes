@@ -34,11 +34,10 @@ You can get the list of tunes in TerminalTunes with Get-Tune.
 TerminalTunes also includes a few small scripts to make your own music.
 
 
-|Title                           |Alias                         |IsGenerator|
-|--------------------------------|------------------------------|-----------|
-|In the Hall of the Mountain King|🎶IntheHalloftheMountainKing🎶|False      |
-|Ms Pacman Theme                 |🎶MsPacmanTheme🎶             |False      |
-|Star Wars Imperial March        |🎶StarWarsImperialMarch🎶     |False      |
+|Title|Alias    |IsGenerator|
+|-----|---------|-----------|
+|Note |🎶Note🎶 |True       |
+|Scale|🎶Scale🎶|True       |
 
 
 
