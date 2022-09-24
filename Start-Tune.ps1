@@ -7,7 +7,7 @@ function Start-Tune {
         If the Tune contains escape sequences, will attempt to play the tune at the terminal.
     .EXAMPLE
         # You can start any tune by title
-        Start-Tune -Title "MsPacManTheme"
+        Start-Tune -Title "Ms PacMan Theme"
         # You can also use the emoji for notes surrounding any title (minus whitespace)
         🎶MsPacmanTheme🎶
     #>
@@ -69,6 +69,9 @@ function Start-Tune {
                 Write-Error "Must provide -Title or use an alias, for example 🎶MsPacMan🎶"
                 return
             }
+        }
+        elseif ($script:TuneShortTitleToLongTitle[$title]) {
+            $Title = $script:TuneShortTitleToLongTitle[$title]
         }
         # Get a list of tunes with that title.
         $tuneList = Get-Tune -Title $Title
