@@ -25,6 +25,7 @@ You can get the list of tunes in TerminalTunes with Get-Tune.
 |--------------------------------|------------------------------|-----------|
 |In the Hall of the Mountain King|🎶IntheHalloftheMountainKing🎶|False      |
 |Ms Pacman Theme                 |🎶MsPacmanTheme🎶             |False      |
+|Note                            |🎶Note🎶                      |True       |
 |Star Wars Imperial March        |🎶StarWarsImperialMarch🎶     |False      |
 
 
