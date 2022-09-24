@@ -3,4 +3,7 @@ describe TerminalTunes {
         $tunes = Get-Tune
         $tunes.Title | Should -Not -Be $null
     }
+    it 'Can carry a tune' {
+        🎶StarWarsImperialMarch🎶
+    }
 }
