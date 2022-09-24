@@ -10,13 +10,6 @@ body:
       value: |
         Want this module to include a new command?  Tell us more.
   - type: input
-    id: Name
-    attributes:
-      label: Name
-      description: The name of the command.
-    validations:
-      required: false
-  - type: input
     id: Synopsis
     attributes:
       label: Synopsis
@@ -45,6 +38,3 @@ body:
       description: Any related links.      
     validations:
       required: false
-
-  
-
