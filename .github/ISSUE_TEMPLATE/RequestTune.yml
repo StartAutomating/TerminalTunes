@@ -9,13 +9,6 @@ body:
     attributes:
       value: |
         Know a song?  Want to hear it to hear in in all of it's 8-bit glory?
-  - type: input
-    id: TuneTitle
-    attributes:
-      label: Tune Title
-      description: What's the tune called?      
-    validations:
-      required: true
   - type: textarea
     id: TuneSequence
     attributes:
@@ -23,6 +16,7 @@ body:
       description: The Tune Itself.  Please include escape sequences.
     validations:
       required: true
+    render: PowerShell
   - type: input
     id: TuneSource
     attributes:
