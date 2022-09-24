@@ -21,10 +21,11 @@ Import-Module TerminalTunes
 You can get the list of tunes in TerminalTunes with Get-Tune.
 
 
-|Title                   |Alias                    |IsGenerator|
-|------------------------|-------------------------|-----------|
-|Ms Pacman Theme         |🎶MsPacmanTheme🎶        |False      |
-|Star Wars Imperial March|🎶StarWarsImperialMarch🎶|False      |
+|Title                           |Alias                         |IsGenerator|
+|--------------------------------|------------------------------|-----------|
+|In the Hall of the Mountain King|🎶IntheHalloftheMountainKing🎶|False      |
+|Ms Pacman Theme                 |🎶MsPacmanTheme🎶             |False      |
+|Star Wars Imperial March        |🎶StarWarsImperialMarch🎶     |False      |
 
 
 
