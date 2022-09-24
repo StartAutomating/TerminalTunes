@@ -1,5 +1,5 @@
-name: Tune Submission
-description: Submit a Tune for TerminalTunes
+name: Submit Tune
+description: Submit a Tune to TerminalTunes
 title: "[tune]: "
 labels: ["tune"]
 assignees:
