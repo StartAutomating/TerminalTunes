@@ -1,0 +1,1 @@
+$this.Name -replace '\.tune\.ps1$' -replace '[-_]', ' '
