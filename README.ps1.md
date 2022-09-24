@@ -27,7 +27,7 @@ You can get the list of tunes in TerminalTunes with Get-Tune.
             Where-Object -not IsGenerator |
             .Title .Alias {
                 "🎶$($_.Title -replace '\W')🎶"
-            } .IsGenerator
+            }
     }
 }
 ~~~
@@ -42,7 +42,7 @@ TerminalTunes also includes a few small scripts to make your own music.
             Where-Object IsGenerator |
             .Title .Alias {
                 "🎶$($_.Title -replace '\W')🎶"
-            } .IsGenerator
+            }
     }
 }
 ~~~
