@@ -1,0 +1,25 @@
+name: Tune Submission
+description: Submit a Tune for TerminalTunes
+title: "[tune]: "
+labels: ["tune"]
+assignees:
+  - startautomating
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Know a song?  Want to hear it to hear in in all of it's 8-bit glory?
+  - type: input
+    id: TuneTitle
+    attributes:
+      label: Tune Title
+      description: What's the tune called?      
+    validations:
+      required: true
+  - type: textarea
+    id: TuneSequence
+    attributes:
+      label: Tune
+      description: The Tune Itself.  Please include escape sequences.
+    validations:
+      required: true
