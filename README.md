@@ -21,16 +21,16 @@ Import-Module TerminalTunes
 You can get the list of tunes in TerminalTunes with Get-Tune.
 
 
-|Title                           |Alias                         |IsGenerator|
-|--------------------------------|------------------------------|-----------|
-|Calvary Charge                  |🎶CalvaryCharge🎶             |False      |
-|Happy Birthday                  |🎶HappyBirthday🎶             |False      |
-|Harry Potter Theme              |🎶HarryPotterTheme🎶          |False      |
-|In the Hall of the Mountain King|🎶IntheHalloftheMountainKing🎶|False      |
-|Jingle Bells                    |🎶JingleBells🎶               |False      |
-|Ms Pacman Theme                 |🎶MsPacmanTheme🎶             |False      |
-|Reveille                        |🎶Reveille🎶                  |False      |
-|Star Wars Imperial March        |🎶StarWarsImperialMarch🎶     |False      |
+|Title                           |Alias                         |
+|--------------------------------|------------------------------|
+|Calvary Charge                  |🎶CalvaryCharge🎶             |
+|Happy Birthday                  |🎶HappyBirthday🎶             |
+|Harry Potter Theme              |🎶HarryPotterTheme🎶          |
+|In the Hall of the Mountain King|🎶IntheHalloftheMountainKing🎶|
+|Jingle Bells                    |🎶JingleBells🎶               |
+|Ms Pacman Theme                 |🎶MsPacmanTheme🎶             |
+|Reveille                        |🎶Reveille🎶                  |
+|Star Wars Imperial March        |🎶StarWarsImperialMarch🎶     |
 
 
 
@@ -39,11 +39,11 @@ You can get the list of tunes in TerminalTunes with Get-Tune.
 TerminalTunes also includes a few small scripts to make your own music.
 
 
-|Title         |Alias             |IsGenerator|
-|--------------|------------------|-----------|
-|CircleOfFifths|🎶CircleOfFifths🎶|True       |
-|Note          |🎶Note🎶          |True       |
-|Scale         |🎶Scale🎶         |True       |
+|Title         |Alias             |
+|--------------|------------------|
+|CircleOfFifths|🎶CircleOfFifths🎶|
+|Note          |🎶Note🎶          |
+|Scale         |🎶Scale🎶         |
 
 
 
