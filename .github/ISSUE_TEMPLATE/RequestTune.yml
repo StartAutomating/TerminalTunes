@@ -23,3 +23,10 @@ body:
       description: The Tune Itself.  Please include escape sequences.
     validations:
       required: true
+  - type: input
+    id: TuneSource
+    attributes:
+      label: Tune Source
+      description: The URL where you found the tune.
+    validations:
+      required: false
