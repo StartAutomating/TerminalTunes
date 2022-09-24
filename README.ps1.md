@@ -39,7 +39,7 @@ TerminalTunes also includes a few small scripts to make your own music.
 ~~~PipeScript {    
     [PSCustomObject]@{
         Table = Get-Tune | 
-            Where-Object -not IsGenerator |
+            Where-Object IsGenerator |
             .Title .Alias {
                 "🎶$($_.Title -replace '\W')🎶"
             } .IsGenerator
