@@ -23,7 +23,8 @@ You can get the list of tunes in TerminalTunes with Get-Tune.
 ~~~PipeScript {
     Import-Module ./TerminalTunes.psd1 -Global
     [PSCustomObject]@{
-        Table = Get-Tune | Where-Object -not IsGenerator 
+        Table = Get-Tune | 
+            Where-Object -not IsGenerator |
             .Title .Alias {
                 "🎶$($_.Title -replace '\W')🎶"
             } .IsGenerator
@@ -37,7 +38,8 @@ TerminalTunes also includes a few small scripts to make your own music.
 
 ~~~PipeScript {    
     [PSCustomObject]@{
-        Table = Get-Tune | Where-Object IsGenerator 
+        Table = Get-Tune | 
+            Where-Object -not IsGenerator |
             .Title .Alias {
                 "🎶$($_.Title -replace '\W')🎶"
             } .IsGenerator
