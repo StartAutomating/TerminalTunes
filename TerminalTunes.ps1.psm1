@@ -2,7 +2,7 @@
 
 $Script:TuneShortTitleToLongTitle = [Ordered]@{}
 $script:TuneLongtitleToShortTitle = [Ordered]@{}
-Get-Tune | 
+Get-Tune -TunePath $psScriptRoot | 
     ForEach-Object {
         $shortTitle = $_.Title -replace '\W'
         $script:TuneLongtitleToShortTitle[$_.Title] = $shortTitle
