@@ -23,6 +23,7 @@ You can get the list of tunes in TerminalTunes with Get-Tune.
 
 |Title                           |Alias                         |IsGenerator|
 |--------------------------------|------------------------------|-----------|
+|Calvary Charge                  |🎶CalvaryCharge🎶             |False      |
 |In the Hall of the Mountain King|🎶IntheHalloftheMountainKing🎶|False      |
 |Ms Pacman Theme                 |🎶MsPacmanTheme🎶             |False      |
 |Star Wars Imperial March        |🎶StarWarsImperialMarch🎶     |False      |
