@@ -1,10 +1,13 @@
 function Get-Tune {
+
     <#
     .SYNOPSIS
         Gets tunes
     .DESCRIPTION
         Gets musical tunes that can be played.
+
         Tunes can be stored in:
+
         |Format                    |Extension                |
         |--------------------------|-------------------------|
         |Tune Clixml               |```.tune.clixml```       |
@@ -22,6 +25,7 @@ function Get-Tune {
     [Alias('Fullname')]
     [string[]]
     $TunePath,
+
     # The title of a tune.  Can include wildcards.
     [Parameter(ValueFromPipelineByPropertyName)]    
     [ArgumentCompleter({
@@ -41,10 +45,12 @@ function Get-Tune {
     })]
     [string]
     $Title,
+
     # If set, will invalidate the cache of tunes and reload any tunes.
     [switch]
     $Force
     )
+
     begin {
         # If we do not have a tune cache, create one.
         if (-not $script:TuneCache) {
@@ -55,6 +61,7 @@ function Get-Tune {
         # create a regex that will match any of them.
         $tuneFilePattern = "\.tune\.(?>$($tuneExtensions -replace '^\.' -join '|'))"
     }
+
     process {
         # If a -TunePath was not provided
         if (-not $TunePath) {            
@@ -64,7 +71,9 @@ function Get-Tune {
             # Any the module paths of any modules that Tag 'TerminalTunes'
             $relatedModulePaths = @(
                 
+                
                 @(
+                
                 $MyModuleName, $myModule = 
                     if ($MyModuleInfo -is [string]) {
                         $MyModuleInfo, (Get-Module $MyModuleInfo)
@@ -73,6 +82,8 @@ function Get-Tune {
                     } else {
                         Write-Error "$MyModuleInfo must be a [string] or [Management.Automation.PSModuleInfo]"    
                     }
+                
+                
                 #region Search for Module Relationships
                 if ($myModule -and $MyModuleName) {
                     foreach ($loadedModule in Get-Module) { # Walk over all modules.
@@ -99,11 +110,14 @@ function Get-Tune {
                     }
                 }
                 #endregion Search for Module Relationships
+                
                 )
+                
                 
             ) | 
                 Select-Object -ExpandProperty RelatedModule | 
                 Split-Path
+
             $TunePath = @($myModulePath) + @($relatedModulePaths)
         }
         
@@ -188,6 +202,7 @@ function Get-Tune {
                 }
             }
         })
+
         # If -Title was provided
         if ($Title) {
             # filter the tunes by title
@@ -198,5 +213,6 @@ function Get-Tune {
             $tuneList
         }
     }   
+
 }
 
