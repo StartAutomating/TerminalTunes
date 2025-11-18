@@ -16,10 +16,10 @@ $Collections = @("app.bsky.feed.post"),
 $Dids = @(),
 
 [TimeSpan]
-$Since = [TimeSpan]::FromMinutes(120),
+$Since = [TimeSpan]::FromMinutes(240),
 
 [TimeSpan]
-$TimeOut = [TimeSpan]::FromMinutes(20),
+$TimeOut = [TimeSpan]::FromMinutes(30),
 
 [Collections.IDictionary]
 $AtPattern = [Ordered]@{    
