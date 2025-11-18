@@ -1,13 +1,16 @@
 function Start-Tune {
+
     <#
     .SYNOPSIS
         Starts a Tune
     .DESCRIPTION
         Starts a Tune.
+
         If the Tune contains escape sequences, will attempt to play the tune at the terminal.
     .EXAMPLE
         # You can start any tune by title
         Start-Tune -Title "Ms PacMan Theme"
+
         # You can also use the emoji for notes surrounding any title (minus whitespace)
         🎶MsPacmanTheme🎶
     #>
@@ -33,6 +36,7 @@ function Start-Tune {
     [string]
     $Title
     )
+
     dynamicParam {
         # If we were called with an alias
         if ($MyInvocation.InvocationName -like '🎶*🎶') {
@@ -44,6 +48,7 @@ function Start-Tune {
             if (-not $tuneList) { return }
             # If there was not a generator, there are no dynamic parameters.
             if (-not $tuneList.IsGenerator) { return }
+
             # Return dynamic parameters for every parameter in the generator.
             $DynamicParameters = [Management.Automation.RuntimeDefinedParameterDictionary]::new()            
             :nextInputParameter foreach ($in in ([Management.Automation.CommandMetaData]$tuneList).Parameters.Keys) {
@@ -57,6 +62,7 @@ function Start-Tune {
             $DynamicParameters
         }
     }
+
     process {
         # Check to see that a title was provided or inferred
         if (-not $title) {
@@ -73,8 +79,10 @@ function Start-Tune {
         elseif ($script:TuneShortTitleToLongTitle[$title]) {
             $Title = $script:TuneShortTitleToLongTitle[$title]
         }
+
         # Get a list of tunes with that title.
         $tuneList = Get-Tune -Title $Title
+
         # If there were none, return
         if (-not $tuneList) { 
             return
@@ -93,5 +101,6 @@ function Start-Tune {
             }            
         }
     }
+
 }
 
