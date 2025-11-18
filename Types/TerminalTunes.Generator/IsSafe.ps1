@@ -10,11 +10,13 @@ $included = [Int32],[Math],[TimeSpan],[DateTime],[String],[String[]],[Int32[]],[
 $excluded = '*'
 if ($ast -is [Management.Automation.Language.TypeExpressionAst] -or    
     $ast -is [Management.Automation.Language.TypeConstraintAst]) {
+
     $astType = $ast.TypeName
     $reflectionType = if ($astType) {
         $astType.GetReflectionType()
     }
     
+
     foreach ($inc in $included) {
         if ($inc -is [string] -and $astType -like $inc) {
             return $true
@@ -35,6 +37,8 @@ if ($ast -is [Management.Automation.Language.TypeExpressionAst] -or
             }            
         }
     }
+
+
     $throwMessage = "[$($ast.Typename)] is not allowed" 
     foreach ($exc in $excluded) {
         if ($exc -is [string] -and $astType -like $exc) {
@@ -58,6 +62,8 @@ if ($ast -is [Management.Automation.Language.TypeExpressionAst] -or
             }            
         }
     }
+
+
 }
 return $true} , {
 param($ast)
