@@ -2,10 +2,10 @@
 name: AtProtoSync
 on: 
   schedule: 
-    - cron: '0,15,30,45 0-23 * * *'
+    - cron: '0,30 0-23 * * *'
   workflow_dispatch: 
 jobs: 
-  SyncAtPowerShellSummit: 
+  SyncAtProto: 
     runs-on: ubuntu-latest
     steps: 
       - name: Check out repository
