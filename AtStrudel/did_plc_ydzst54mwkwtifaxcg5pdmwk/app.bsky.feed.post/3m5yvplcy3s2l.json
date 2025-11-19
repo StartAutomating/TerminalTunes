@@ -1,0 +1,52 @@
+{
+  "did": "did:plc:ydzst54mwkwtifaxcg5pdmwk",
+  "time_us": 1763577665170216,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m5yvq2nuwv2e",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m5yvplcy3s2l",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-11-19T18:40:45.268Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "",
+          "title": "",
+          "uri": "https://strudel.cc/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/"
+            }
+          ],
+          "index": {
+            "byteEnd": 97,
+            "byteStart": 87
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreielx2lg5kaek5m3zq7qthcg5jo7g4stlb2wco7ln22cqjqpakxzta",
+          "uri": "at://did:plc:bmfo2wmi734ss4gxiju3bjze/app.bsky.feed.post/3m5ysngaq222v"
+        },
+        "root": {
+          "cid": "bafyreielx2lg5kaek5m3zq7qthcg5jo7g4stlb2wco7ln22cqjqpakxzta",
+          "uri": "at://did:plc:bmfo2wmi734ss4gxiju3bjze/app.bsky.feed.post/3m5ysngaq222v"
+        }
+      },
+      "text": "get on the strudel train imo\n\nwith a bit of messaround you can get it running locally\n\nstrudel.cc"
+    },
+    "cid": "bafyreibjt7js46mdg3jgr6cnuxwddmvf3edc65gcsbxderaxy5tjn5xame"
+  }
+}
