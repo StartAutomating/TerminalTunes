@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:hql7mxmnfvg4zx2xnyfpgagp",
+  "time_us": 1763568738046243,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m5yng4obzz25",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m5ynfzkozc2b",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-11-19T16:12:14.722Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#Ly8gIkRpbm9mdW5rIgovLyBAbGljZW5zZSBDQyBCWS1OQy1TQSA0LjAgaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC8KLy8gQGJ5IEZlbGl4IFJvb3MKCnNldGNwcygxKQoKc2FtcGxlcyh7YmFzczonaHR0cHM6Ly9jZG4uZnJlZXNvdW5kLm9yZy9wcmV2aWV3cy82MTQvNjE0NjM3XzI0MzQ5MjctaHEubXAzJywKZGlubzp7YjQ6J2h0dHBzOi8vY2RuLmZyZWVzb3VuZC5vcmcvcHJldmlld3MvMzE2LzMxNjQwM181MTIzODUxLWhxLm1wMyd9fSkKc2V0Vm9pY2luZ1JhbmdlKCdsZWZ0aGFuZCcsIFsnYzMnLCdhNCddKQoKc3RhY2soCnMoJ2Jhc3MnKS5sb29wQXQoOCkuY2xpcCgxKSwKcygiYmQqMiwgfiBzZCxoaCo0IiksCmNob3JkKCJBYm03IikKICAubW9kZSgiYmVsb3c6RzQiKQogIC5kaWN0KCdsZWZ0aGFuZCcpCiAgLnZvaWNpbmcoKQogIC5zdHJ1Y3QoIngoMyw4LDEpIi5zbG93KDIpKSwKIjAgMSAyIDMiLnNjYWxlKCdhYjQgbWlub3IgcGVudGF0b25pYycpCi5zdXBlcmltcG9zZSh4PT54LmFkZCguMSkpCi5zb21ldGltZXMoeD0%2BeC5hZGQoMTIpKQoubm90ZSgpLnMoJ3Nhd3Rvb3RoJykKLmN1dG9mZihzaW5lLnJhbmdlKDQwMCwyMDAwKS5zbG93KDE2KSkuZ2FpbiguOCkKLmRlY2F5KHBlcmxpbi5yYW5nZSguMDUsLjIpKS5zdXN0YWluKDApCi5kZWxheShzaW5lLnJhbmdlKDAsLjUpLnNsb3coMzIpKQouZGVncmFkZUJ5KC40KS5yb29tKDEpLApub3RlKCI8YjQgZWI0PiIpLnMoJ2Rpbm8nKS5kZWxheSguOCkuc2xvdyg4KS5yb29tKC41KQop"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/#Ly8gIkRpbm9mdW5rIgovLyBAbGljZW5zZSBDQyBCWS1OQy1TQSA0LjAgaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC8KLy8gQGJ5IEZlbGl4IFJvb3MKCnNldGNwcygxKQoKc2FtcGxlcyh7YmFzczonaHR0cHM6Ly9jZG4uZnJlZXNvdW5kLm9yZy9wcmV2aWV3cy82MTQvNjE0NjM3XzI0MzQ5MjctaHEubXAzJywKZGlubzp7YjQ6J2h0dHBzOi8vY2RuLmZyZWVzb3VuZC5vcmcvcHJldmlld3MvMzE2LzMxNjQwM181MTIzODUxLWhxLm1wMyd9fSkKc2V0Vm9pY2luZ1JhbmdlKCdsZWZ0aGFuZCcsIFsnYzMnLCdhNCddKQoKc3RhY2soCnMoJ2Jhc3MnKS5sb29wQXQoOCkuY2xpcCgxKSwKcygiYmQqMiwgfiBzZCxoaCo0IiksCmNob3JkKCJBYm03IikKICAubW9kZSgiYmVsb3c6RzQiKQogIC5kaWN0KCdsZWZ0aGFuZCcpCiAgLnZvaWNpbmcoKQogIC5zdHJ1Y3QoIngoMyw4LDEpIi5zbG93KDIpKSwKIjAgMSAyIDMiLnNjYWxlKCdhYjQgbWlub3IgcGVudGF0b25pYycpCi5zdXBlcmltcG9zZSh4PT54LmFkZCguMSkpCi5zb21ldGltZXMoeD0%2BeC5hZGQoMTIpKQoubm90ZSgpLnMoJ3Nhd3Rvb3RoJykKLmN1dG9mZihzaW5lLnJhbmdlKDQwMCwyMDAwKS5zbG93KDE2KSkuZ2FpbiguOCkKLmRlY2F5KHBlcmxpbi5yYW5nZSguMDUsLjIpKS5zdXN0YWluKDApCi5kZWxheShzaW5lLnJhbmdlKDAsLjUpLnNsb3coMzIpKQouZGVncmFkZUJ5KC40KS5yb29tKDEpLApub3RlKCI8YjQgZWI0PiIpLnMoJ2Rpbm8nKS5kZWxheSguOCkuc2xvdyg4KS5yb29tKC41KQop"
+            }
+          ],
+          "index": {
+            "byteEnd": 103,
+            "byteStart": 77
+          }
+        }
+      ],
+      "langs": [
+        "fr"
+      ],
+      "text": "Mais c'est une tuerie ce site. Ça donne envie de savoir faire de la musique\nstrudel.cc#Ly8gIkRpbm9m..."
+    },
+    "cid": "bafyreig5waygbbsvyt7dv6e4trbarvvequyjwaxfm463qg7tfbzqc543mu"
+  }
+}
