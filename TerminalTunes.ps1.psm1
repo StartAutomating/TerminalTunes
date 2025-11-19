@@ -1,4 +1,5 @@
-﻿[Include('*-*')]$psScriptRoot
+﻿$CommandsPath = Join-Path $PSScriptRoot Commands
+[Include('*-*')]$CommandsPath
 
 $Script:TuneShortTitleToLongTitle = [Ordered]@{}
 $script:TuneLongtitleToShortTitle = [Ordered]@{}
