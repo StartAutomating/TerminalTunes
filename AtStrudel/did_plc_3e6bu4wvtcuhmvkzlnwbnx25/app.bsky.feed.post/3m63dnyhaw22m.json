@@ -1,0 +1,52 @@
+{
+  "did": "did:plc:3e6bu4wvtcuhmvkzlnwbnx25",
+  "time_us": 1763661345251423,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m63do2sd332u",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m63dnyhaw22m",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-11-20T17:55:43.793Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/"
+            }
+          ],
+          "index": {
+            "byteEnd": 19,
+            "byteStart": 9
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreidjlstneaxaktcqtx5mank62qf5z2cs3xcbcriwdadw4lp27e5wom",
+          "uri": "at://did:plc:ayxddeedn3do7evhxiyxsssu/app.bsky.feed.post/3m63bsnqybc2l"
+        },
+        "root": {
+          "cid": "bafyreidjlstneaxaktcqtx5mank62qf5z2cs3xcbcriwdadw4lp27e5wom",
+          "uri": "at://did:plc:ayxddeedn3do7evhxiyxsssu/app.bsky.feed.post/3m63bsnqybc2l"
+        }
+      },
+      "text": "Strudel (strudel.cc) is worth a look if you’d like to try sound design with code. You can bring in and use your own samples."
+    },
+    "cid": "bafyreiaslebmciqmycdimvf5jnm4cn75w2m5hnzjachxr3tluaoqv5exu4"
+  }
+}
