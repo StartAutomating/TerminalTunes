@@ -4,6 +4,12 @@
     <Name>Strudel</Name>
     <Members>
       <ScriptMethod>
+        <Name>DefaultDisplay</Name>
+        <Script>
+                        Strudel
+                    </Script>
+      </ScriptMethod>
+      <ScriptMethod>
         <Name>GetANSINoteRegex</Name>
         <Script>
                         [Regex]::new(@'
@@ -74,6 +80,12 @@
 )
 '@, 'IgnoreCase,IgnorePatternWhitespace')
 
+                    </Script>
+      </ScriptMethod>
+      <ScriptMethod>
+        <Name>ToString</Name>
+        <Script>
+                        return "$($this.Strudel)"
                     </Script>
       </ScriptMethod>
       <ScriptProperty>
