@@ -89,6 +89,14 @@
                     </Script>
       </ScriptMethod>
       <ScriptProperty>
+        <Name>Comment</Name>
+        <GetScriptBlock>
+                        foreach ($match in [Regex]::Matches("$($this.Strudel)", "/\*(?&lt;comment&gt;[\s\S]+?)\*/")) {
+    $match.Groups['comment'].Value
+}
+                    </GetScriptBlock>
+      </ScriptProperty>
+      <ScriptProperty>
         <Name>StrudelUrl</Name>
         <GetScriptBlock>
                         &lt;#
