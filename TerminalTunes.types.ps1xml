@@ -1,6 +1,102 @@
 <!-- Generated with EZOut 2.0.6: Install-Module EZOut or https://github.com/StartAutomating/EZOut -->
 <Types>
   <Type>
+    <Name>Strudel</Name>
+    <Members>
+      <ScriptMethod>
+        <Name>GetANSINoteRegex</Name>
+        <Script>
+                        [Regex]::new(@'
+(?&lt;ANSI_Note&gt;
+\e                          # An Escape
+\[                          # Followed by a bracket
+(?&gt;
+  (?&lt;Volume&gt;(?&lt;VolumeOff&gt;0) # 0 is no volume
+    |
+    (?&lt;VolumeLow&gt;[1-3])     # 1-3 is low volume
+    |
+    (?&lt;VolumeHigh&gt;[4-7])    # 4-7 is high volume
+))\;                        # A semicolon separated the volume from the duration
+# Duration is measured in 1/32 of a second
+(?&lt;Duration&gt;\d+)\;          # A semicolon separates the duration from the note
+# One or more notes will follow
+(?&lt;Notes&gt;(?:(?&gt;
+  (?&lt;C5&gt;25)                 # 25 is C in the 6th octave (MIDI 96)
+  |
+  (?&lt;B5&gt;24)                 # 24 is B in the 5th octave (MIDI 95)
+  |
+  (?&lt;ASharp5&gt;23)            # 23 is A Sharp in the 5th octave (MIDI 94)
+  |
+  (?&lt;A5&gt;22)                 # 22 is A in the 5th octave (MIDI 93)
+  |
+  (?&lt;GSharp5&gt;21)            # 21 is G Sharp in the 5th octave (MIDI 92)
+  |
+  (?&lt;G5&gt;20)                 # 20 is G in the 5th octave (MIDI 91)
+  |
+  (?&lt;FSharp5&gt;19)            # 19 is F Sharp in the 5th octave (MIDI 90)
+  |
+  (?&lt;F5&gt;18)                 # 18 is F in the 5th octave (MIDI 89)
+  |
+  (?&lt;E5&gt;17)                 # 17 is F in the 5th octave (MIDI 88)
+  |
+  (?&lt;DSharp5&gt;16)            # 16 is D Sharp in the 5th octave (MIDI 87)
+  |
+  (?&lt;D5&gt;15)                 # 15 is D in the 5th octave (MIDI 86)
+  |
+  (?&lt;CSharp5&gt;14)            # 14 is C Sharp in the 5th octave (MIDI 85)
+  |
+  (?&lt;C5&gt;13)                 # 13 is C in the 5th octave (MIDI 84)
+  |
+  (?&lt;B4&gt;12)                 # 12 is B in the 4th octave (MIDI 83)
+  |
+  (?&lt;ASharp4&gt;11)            # 11 is A Sharp in the 4th octave (MIDI 82)
+  |
+  (?&lt;A4&gt;10)                 # 10 is A in the 4th octave (MIDI 81)
+  |
+  (?&lt;GSharp4&gt;9)             # 9 is G Sharp in the 4th octave (MIDI 80)
+  |
+  (?&lt;G4&gt;8)                  # 8 is G in the 4th octave (MIDI 79)
+  |
+  (?&lt;FSharp4&gt;7)             # 7 is F Sharp in the 4th octave (MIDI 78)
+  |
+  (?&lt;F4&gt;6)                  # 6 is F in the 4th octave (MIDI 77)
+  |
+  (?&lt;E4&gt;5)                  # 5 is E in the 4th octave (MIDI 76)
+  |
+  (?&lt;DSharp4&gt;4)             # 4 is D Sharp in the 4th octave (MIDI 75)
+  |
+  (?&lt;D4&gt;3)                  # 3 is D in the 4th octave (MIDI 74)
+  |
+  (?&lt;CSharp4&gt;2)             # 2 is C Sharp in the 4th octave (MIDI 73)
+  |
+  (?&lt;C4&gt;1)                  # 1 is C in the 4th octave (MIDI 72)
+)\;?){0,}),~                # A command and a tilda end the sequence
+)
+'@, 'IgnoreCase,IgnorePatternWhitespace')
+
+                    </Script>
+      </ScriptMethod>
+      <ScriptProperty>
+        <Name>StrudelUrl</Name>
+        <GetScriptBlock>
+                        &lt;#
+.SYNOPSIS
+    Gets the Strudel Url
+.DESCRIPTION
+    Gets the Strudel as a Url
+#&gt;
+return "https://strudel.cc/#" + (
+    [Web.HttpUtility]::UrlEncode(
+        [Convert]::ToBase64String(
+            $utf8.GetBytes("$($this.Strudel)")
+        )
+    ) -replace '\+', '%20'
+)
+                    </GetScriptBlock>
+      </ScriptProperty>
+    </Members>
+  </Type>
+  <Type>
     <Name>TerminalTunes.Generator</Name>
     <Members>
       <ScriptMethod>
