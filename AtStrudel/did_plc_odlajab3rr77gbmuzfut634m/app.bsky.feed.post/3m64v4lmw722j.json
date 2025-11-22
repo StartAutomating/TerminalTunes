@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:odlajab3rr77gbmuzfut634m",
+  "time_us": 1763714449229718,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m64v4n7rlj2a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m64v4lmw722j",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-11-21T08:40:47.012Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Switch Angel",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia4rigkegfmjgxk2sosjnk5qcoeyrpqjp4nnb6tbhte2vjtna3zdy"
+            },
+            "mimeType": "image/jpeg",
+            "size": 370213
+          },
+          "title": "Coding Trance Music from Scratch (Again )",
+          "uri": "https://www.youtube.com/watch?v=iu5rnQkfO6M"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=iu5rnQkfO6M"
+            }
+          ],
+          "index": {
+            "byteEnd": 39,
+            "byteStart": 8
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "strudel www.youtube.com/watch?v=iu5r..."
+    },
+    "cid": "bafyreidve4rgbqirz5wlbth37pg7ptfsxtgrebzz6qp6djbjmgclvi3lmq"
+  }
+}
