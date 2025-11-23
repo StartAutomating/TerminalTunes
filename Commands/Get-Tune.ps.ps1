@@ -67,15 +67,8 @@ function Get-Tune
         if (-not $TunePath) {            
             $MyModuleInfo = $MyInvocation.MyCommand.Module
             # We will use the TerminalTunes module path
-            $myModulePath = $MyModuleInfo | Split-Path
-            # Any the module paths of any modules that Tag 'TerminalTunes'
-            $relatedModulePaths = @(
-                [ModuleRelationships()]$MyModuleInfo
-            ) | 
-                Select-Object -ExpandProperty RelatedModule | 
-                Split-Path
-
-            $TunePath = @($myModulePath) + @($relatedModulePaths)
+            $myModulePath = $MyModuleInfo | Split-Path            
+            $TunePath = @($myModulePath) 
         }
         
         # Now, create the tune list by walking thru each tune path
