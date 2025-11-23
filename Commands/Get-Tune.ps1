@@ -67,58 +67,8 @@ function Get-Tune {
         if (-not $TunePath) {            
             $MyModuleInfo = $MyInvocation.MyCommand.Module
             # We will use the TerminalTunes module path
-            $myModulePath = $MyModuleInfo | Split-Path
-            # Any the module paths of any modules that Tag 'TerminalTunes'
-            $relatedModulePaths = @(
-                
-                
-                @(
-                
-                $MyModuleName, $myModule = 
-                    if ($MyModuleInfo -is [string]) {
-                        $MyModuleInfo, (Get-Module $MyModuleInfo)
-                    } elseif ($MyModuleInfo -is [Management.Automation.PSModuleInfo]) {
-                        $MyModuleInfo.Name, $MyModuleInfo
-                    } else {
-                        Write-Error "$MyModuleInfo must be a [string] or [Management.Automation.PSModuleInfo]"    
-                    }
-                
-                
-                #region Search for Module Relationships
-                if ($myModule -and $MyModuleName) {
-                    foreach ($loadedModule in Get-Module) { # Walk over all modules.
-                        if ( # If the module has PrivateData keyed to this module
-                            $loadedModule.PrivateData.$myModuleName
-                        ) {
-                            # Determine the root of the module with private data.            
-                            $relationshipData = $loadedModule.PrivateData.$myModuleName
-                            [PSCustomObject][Ordered]@{
-                                PSTypeName     = 'Module.Relationship'
-                                Module        = $myModule
-                                RelatedModule = $loadedModule
-                                PrivateData   = $loadedModule.PrivateData.$myModuleName
-                            }
-                        }
-                        elseif ($loadedModule.PrivateData.PSData.Tags -contains $myModuleName) {
-                            [PSCustomObject][Ordered]@{
-                                PSTypeName     = 'Module.Relationship'
-                                Module        = $myModule
-                                RelatedModule = $loadedModule
-                                PrivateData   = @{}
-                            }
-                        }
-                    }
-                }
-                #endregion Search for Module Relationships
-                
-                )
-                
-                
-            ) | 
-                Select-Object -ExpandProperty RelatedModule | 
-                Split-Path
-
-            $TunePath = @($myModulePath) + @($relatedModulePaths)
+            $myModulePath = $MyModuleInfo | Split-Path            
+            $TunePath = @($myModulePath) 
         }
         
         # Now, create the tune list by walking thru each tune path
