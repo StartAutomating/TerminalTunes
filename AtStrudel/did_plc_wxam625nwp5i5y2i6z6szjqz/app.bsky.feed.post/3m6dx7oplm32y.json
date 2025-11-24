@@ -1,0 +1,52 @@
+{
+  "did": "did:plc:wxam625nwp5i5y2i6z6szjqz",
+  "time_us": 1763957217632000,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m6dx7opycd2y",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m6dx7oplm32y",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-11-24T04:06:56.35Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Consumer Time Capsule",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreigrr6uggzqteozxinp6n2syrnauznqe35zxsrcfcdh24rpt6kxk3q"
+            },
+            "mimeType": "image/jpeg",
+            "size": 18786
+          },
+          "title": "1989 - Kellogg's Pop Tarts - So Cool, They're Hot Commercial",
+          "uri": "https://www.youtube.com/watch?v=Cj0H1MrTN9M"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=Cj0H1MrTN9M"
+            }
+          ],
+          "index": {
+            "byteEnd": 240,
+            "byteStart": 209
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "tags": [],
+      "text": "My mom doesn't remember how much I liked Pop-Tarts. She remembers Toaster Strudels (which was later). Sharing commercials for that era. I REALLLLLLY love the late 80s/early 90s aesthetic, stlll, so very much. www.youtube.com/watch?v=Cj0H...\n\nAlso get the girl trope in commercials back then: RAMPANT."
+    },
+    "cid": "bafyreicqzx7jbxrww6aavjdpfru6srchfiyfx36wmvlf7ybtjzfcq47hhu"
+  }
+}
