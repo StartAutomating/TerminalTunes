@@ -1,0 +1,36 @@
+{
+  "did": "did:plc:vqhc7u6ingqhsslzs6j7fsa4",
+  "time_us": 1764012840849298,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m6fkzfp3ng2v",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m6fkzbuv2s2a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-11-24T19:33:56.352Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by ThePrimeTime",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibevn3b6okumuplduqr4hleze3jfopwziw3qh7qk5b3uyirhzxpha"
+            },
+            "mimeType": "image/jpeg",
+            "size": 852344
+          },
+          "title": "THIS IS THE REAL VIBE CODING",
+          "uri": "https://www.youtube.com/watch?v=tKHEEC-CBYY"
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "i've seen clips and tiktoks of strudel and i kinda want to play around with it but I don't know anything about music except how to play mary had a little lamb because my piano teacher was a useless nazi."
+    },
+    "cid": "bafyreih4xmaukz7zoygnze3tudrmna34375q3jnslpyf4htph5zhxivavq"
+  }
+}
