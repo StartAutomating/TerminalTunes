@@ -1,0 +1,74 @@
+{
+  "did": "did:plc:jpky2vd3n7ubx3qs4uc2oerh",
+  "time_us": 1764150175043519,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m6jkwbnjqp23",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m6jkw4rje22q",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-11-26T09:42:49.285Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by DJ_Dave",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiegwh2i7nnxj2gj4ydacglzyzocg44goixrnjglwykxitzoue345m"
+            },
+            "mimeType": "image/jpeg",
+            "size": 819122
+          },
+          "title": "DJ_Dave - Airglow (Visualizer)",
+          "uri": "https://www.youtube.com/watch?v=ure6OT0LwtM"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=ure6OT0LwtM"
+            }
+          ],
+          "index": {
+            "byteEnd": 106,
+            "byteStart": 75
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 116,
+            "byteStart": 108
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "dj_dave"
+            }
+          ],
+          "index": {
+            "byteEnd": 125,
+            "byteStart": 117
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I currently have to listen to this multiple times a day. It's so good! <3\n\nwww.youtube.com/watch?v=ure6...\n\n#strudel #dj_dave"
+    },
+    "cid": "bafyreigf655lh2fs5rhropykx25p7zwddrofof7gvpedel2fxep3stgcbm"
+  }
+}
