@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:qx34qcemurhl5gg77at4q3he",
+  "time_us": 1764338908143041,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m6p2oxgdgv2j",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m6p2ouf4ic2a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-11-28T14:08:24.173Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Switch Angel",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreihaxjce7dnpy7hmgn7tnmedtliqmwvcmwicz6g6s4gcaxq2s463na"
+            },
+            "mimeType": "image/jpeg",
+            "size": 736699
+          },
+          "title": "Coding Trance Music from Scratch (Again )",
+          "uri": "https://www.youtube.com/watch?v=iu5rnQkfO6M"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=iu5rnQkfO6M"
+            }
+          ],
+          "index": {
+            "byteEnd": 97,
+            "byteStart": 66
+          }
+        }
+      ],
+      "langs": [
+        "ja"
+      ],
+      "text": "strudel って初めて知った！すごいパフォーマンス\nwww.youtube.com/watch?v=iu5r..."
+    },
+    "cid": "bafyreidjwya4oqw4yjzsvgytgotqlzijemaqh5j3mkaj4etwobmy4gokqy"
+  }
+}
