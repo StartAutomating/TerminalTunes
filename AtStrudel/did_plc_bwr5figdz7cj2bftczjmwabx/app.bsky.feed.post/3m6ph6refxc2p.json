@@ -1,0 +1,98 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1764352325976259,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m6ph6u5qai2d",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m6ph6refxc2p",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-11-28T17:52:02.777Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreihkhxgqkjhioppqyhmbrpkugjtblw2zetcihqfekw36todtkx54da"
+            },
+            "mimeType": "image/jpeg",
+            "size": 536101
+          },
+          "title": "GoSuraj - There's No Time (Radio Edit)",
+          "uri": "https://www.youtube.com/watch?v=saoSX0x8B8M"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 48,
+            "byteStart": 40
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "music"
+            }
+          ],
+          "index": {
+            "byteEnd": 55,
+            "byteStart": 49
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 64,
+            "byteStart": 56
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "electronicmusic"
+            }
+          ],
+          "index": {
+            "byteEnd": 81,
+            "byteStart": 65
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=saoSX0x8B8M"
+            }
+          ],
+          "index": {
+            "byteEnd": 114,
+            "byteStart": 83
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "GoSuraj - There's No Time (Radio Edit)\n\n#gosuraj #music #strudel #electronicmusic\n\nwww.youtube.com/watch?v=saoS..."
+    },
+    "cid": "bafyreihesuxzmg3x55kd36t43squ6neqisp2saomvqena2uczanepub43q"
+  }
+}
