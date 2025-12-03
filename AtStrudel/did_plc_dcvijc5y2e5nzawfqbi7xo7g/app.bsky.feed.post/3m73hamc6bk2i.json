@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:dcvijc5y2e5nzawfqbi7xo7g",
+  "time_us": 1764764706339951,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m73hanpikt2u",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m73hamc6bk2i",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-03T12:25:01.43Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding editor that brings TidalCycles to the browser.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibulmheazutngennhvwdszhyhgc5oahma3m2jbftwqxumxzcasjka"
+            },
+            "mimeType": "image/jpeg",
+            "size": 400503
+          },
+          "title": "Getting Started 🚀 Strudel",
+          "uri": "https://strudel.cc/workshop/getting-started/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/workshop/getting-started/"
+            }
+          ],
+          "index": {
+            "byteEnd": 161,
+            "byteStart": 135
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Completely off-topic for this account, but if you like music and writing code, then you'll probably love Strudel.\n\nThis demo is sick!\n\nstrudel.cc/workshop/get..."
+    },
+    "cid": "bafyreiejqxihotn2xsq2flicwgfmkhtuutghv2mu4bjdm5fgnyzrzrw7tu"
+  }
+}
