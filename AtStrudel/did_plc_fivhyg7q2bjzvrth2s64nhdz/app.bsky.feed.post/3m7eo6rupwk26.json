@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:fivhyg7q2bjzvrth2s64nhdz",
+  "time_us": 1765081394939418,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m7eo6sgsvx2x",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m7eo6rupwk26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-07T04:23:14.011Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc"
+            }
+          ],
+          "index": {
+            "byteEnd": 85,
+            "byteStart": 75
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "learning Strudel, I just can't believe they really did Terraform for music strudel.cc"
+    },
+    "cid": "bafyreih6yvwxiy6lqrbw7yixtmmrbovebuedcxxrus6wbdxs3gfkuzhhwu"
+  }
+}
