@@ -1,0 +1,36 @@
+{
+  "did": "did:plc:xylp7g7y5fx5rfleoo2dixlx",
+  "time_us": 1765300773647890,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m7l2irqerz25",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m7l2ipptgc26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-09T17:19:30.629Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Switch Angel",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidbninnyvxuuncsughv3yyynsv4i4pswv44r2dqo2d5y56v2wceca"
+            },
+            "mimeType": "image/jpeg",
+            "size": 735221
+          },
+          "title": "Coding Trance Music from Scratch (Again )",
+          "uri": "https://www.youtube.com/watch?v=iu5rnQkfO6M"
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "Live programming trance with Strudel - with the performer's live commentary topping it nicely.\n\nThink trackers were not geeky enough ? There you go !\n\nThat densely expressive language encodes trance wonderfully."
+    },
+    "cid": "bafyreigjwojszyytoic7mjwtzchzrxqcx6f4jfr2soonjpgprdika2qfve"
+  }
+}
