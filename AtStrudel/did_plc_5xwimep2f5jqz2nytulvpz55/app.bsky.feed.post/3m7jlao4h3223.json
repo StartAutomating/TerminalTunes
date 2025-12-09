@@ -1,0 +1,74 @@
+{
+  "did": "did:plc:5xwimep2f5jqz2nytulvpz55",
+  "time_us": 1765250036529013,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m7jlapfpz62p",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m7jlao4h3223",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-09T03:13:54.644Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Switch Angel",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreic7si456wsckjvqinsse5mhn2fqxzqo6dpdimonp4u5zrzdem67wa"
+            },
+            "mimeType": "image/jpeg",
+            "size": 351061
+          },
+          "title": "Switch Angel - In the beginning, there was Trance (Official)",
+          "uri": "https://www.youtube.com/watch?v=hFSwWzxrqUA"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 34,
+            "byteStart": 26
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 46,
+            "byteStart": 35
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=hFSwWzxrqUA"
+            }
+          ],
+          "index": {
+            "byteEnd": 79,
+            "byteStart": 48
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Switch Angel is awesome.  #strudel #livecoding \nwww.youtube.com/watch?v=hFSw..."
+    },
+    "cid": "bafyreibrsdlodhojk2ccsuaecm3fscboe52t3whjdop3pv3ftfok5q42nm"
+  }
+}
