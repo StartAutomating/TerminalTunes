@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:iuk433sj23ncu2oo2pfnw7fw",
+  "time_us": 1765350306744550,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m7mimyvfmx26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m7mimyq2gs2w",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-10T07:05:06.416Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#CnNldGNwbSgxMjAvNCkKc3RhY2soCiAgbigiMCAzIDEgMiIpCiAgLm9jdGF2ZSgtMSkKICAuY2hvcmQoIjxDIEFiIEUgRiM%2BIikKICAudm9pY2luZygpCiAgLmNsaXAoIjQgMyAyIDEiKQogIC5yb29tKC41KQogIC5zb3VuZCgid3RfZGlzdG9ydGVkIikKICAuZWFybHkoMi84KQogIC5zb21ldGltZXMobXVsKHNwZWVkKCIxLjUiKSkpCiAgLmxwZig0MDApLmxwZW52KDQpCiAgLmp1eChwcmVzcyksCiAgc291bmQoImhoIGhoLCBiZCByaW0gW34gbWlzY10gb2giKS5iYW5rKCJSb2xhbmRTeXN0ZW0xMDAiKS5wbHkoMiksCiAgbigiMCAzIDEgMiIpCiAgLmNob3JkKCI8QyBBYiBFIEYjPiIpCiAgLnZvaWNpbmcoKQogIC5jbGlwKCIxIDMgMiA0IikKICAucm9vbSguMjUpCiAgLnNvdW5kKCJ3dF9kaWdpdGFsX2N1cnNlcyIpCiAgLmVhcmx5KDQvOCkKKS5jb2xvcigiPGdyZWVuIG1hZ2VudGEgdGVhbCBvcmFuZ2U%2BIikuZ2FpbigwLjUpLnBpYW5vcm9sbCgp"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/#CnNldGNwbSgxMjAvNCkKc3RhY2soCiAgbigiMCAzIDEgMiIpCiAgLm9jdGF2ZSgtMSkKICAuY2hvcmQoIjxDIEFiIEUgRiM%2BIikKICAudm9pY2luZygpCiAgLmNsaXAoIjQgMyAyIDEiKQogIC5yb29tKC41KQogIC5zb3VuZCgid3RfZGlzdG9ydGVkIikKICAuZWFybHkoMi84KQogIC5zb21ldGltZXMobXVsKHNwZWVkKCIxLjUiKSkpCiAgLmxwZig0MDApLmxwZW52KDQpCiAgLmp1eChwcmVzcyksCiAgc291bmQoImhoIGhoLCBiZCByaW0gW34gbWlzY10gb2giKS5iYW5rKCJSb2xhbmRTeXN0ZW0xMDAiKS5wbHkoMiksCiAgbigiMCAzIDEgMiIpCiAgLmNob3JkKCI8QyBBYiBFIEYjPiIpCiAgLnZvaWNpbmcoKQogIC5jbGlwKCIxIDMgMiA0IikKICAucm9vbSguMjUpCiAgLnNvdW5kKCJ3dF9kaWdpdGFsX2N1cnNlcyIpCiAgLmVhcmx5KDQvOCkKKS5jb2xvcigiPGdyZWVuIG1hZ2VudGEgdGVhbCBvcmFuZ2U%2BIikuZ2FpbigwLjUpLnBpYW5vcm9sbCgp"
+            }
+          ],
+          "index": {
+            "byteEnd": 66,
+            "byteStart": 40
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Just what I needed: another new hobby!\n\nstrudel.cc#CnNldGNwbSgx..."
+    },
+    "cid": "bafyreidvyjqq7rox2l2kd2lkogvintuin7pfvupx55oep7ntjpcrncucxa"
+  }
+}
