@@ -1,0 +1,60 @@
+{
+  "did": "did:plc:65q5yxfxuvux3b5pdgo52iv2",
+  "time_us": 1765544133839901,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m7s55i5box23",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m7s55dirhk2l",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-12T12:55:28.11Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by pezzyy9999",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifkbv353v2ib2t6rq7wwdsydxhmtfitfqbivmzjiyjr6q5whw4wea"
+            },
+            "mimeType": "image/jpeg",
+            "size": 977623
+          },
+          "title": "Franz und Ferdl Kasermandln Was is heit für Tag",
+          "uri": "https://www.youtube.com/watch?v=As02A-XOrCY"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=As02A-XOrCY"
+            }
+          ],
+          "index": {
+            "byteEnd": 234,
+            "byteStart": 203
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreihfykgfob5zluhx5bo7esfxjsyuich4thikn563u2bpkeyjwygrxe",
+          "uri": "at://did:plc:yori2dlcpkc5ercg7jyxanjz/app.bsky.feed.post/3m7s46giwyl2k"
+        },
+        "root": {
+          "cid": "bafyreihfykgfob5zluhx5bo7esfxjsyuich4thikn563u2bpkeyjwygrxe",
+          "uri": "at://did:plc:yori2dlcpkc5ercg7jyxanjz/app.bsky.feed.post/3m7s46giwyl2k"
+        }
+      },
+      "text": "Bei uns geht das so:\n\nMontag ist Knödeltag\nDienstag ist Nudeltag\nMittwoch ist Strudeltag\nDonnerstag ist Fleischtag\nFreitag ist Fasttag\nSamstag ist Zahltag\nSonntag ist Lumpentag (lumpen = feiern gehen)\n\nwww.youtube.com/watch?v=As02..."
+    },
+    "cid": "bafyreia2yzbgus5xny4vfalbiioaxykjeg3husygao6infrqxp6vjehxs4"
+  }
+}
