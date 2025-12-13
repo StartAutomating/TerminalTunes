@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:3qxpuyugoel4svgub7ywotmz",
+  "time_us": 1765663410351604,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m7vma7s4h22q",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m7vma7gnn22a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-13T22:03:29.853Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by lynn",
+          "title": "2025 12 13 22 56 47",
+          "uri": "https://www.youtube.com/watch?v=Fxq-_nMBqwk"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=Fxq-_nMBqwk"
+            }
+          ],
+          "index": {
+            "byteEnd": 48,
+            "byteStart": 17
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "learning strudel www.youtube.com/watch?v=Fxq-..."
+    },
+    "cid": "bafyreiegf5fbvh4vdqxjbamikni2aoo66gfti3lijqxshs74qnlyi7s4sm"
+  }
+}
