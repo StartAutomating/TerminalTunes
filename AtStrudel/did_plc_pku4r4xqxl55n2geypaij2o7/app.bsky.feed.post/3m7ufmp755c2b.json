@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:pku4r4xqxl55n2geypaij2o7",
+  "time_us": 1765621955336272,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m7ufmqukd52e",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m7ufmp755c2b",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-13T10:32:33.105Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Switch Angel",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreievmsfm6rlr42ugluiqyympt22iplox2cez57hj6o2eifmok7skpi"
+            },
+            "mimeType": "image/jpeg",
+            "size": 718303
+          },
+          "title": "2 Minute Deep Acid in Strudel (from scratch)",
+          "uri": "https://www.youtube.com/watch?v=HkgV_-nJOuE"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=iu5rnQkfO6M"
+            }
+          ],
+          "index": {
+            "byteEnd": 77,
+            "byteStart": 46
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "live music coding in strudel is cool as heck! www.youtube.com/watch?v=iu5r..."
+    },
+    "cid": "bafyreifco67ea7h3shoevgow6icyklpsgd6gq56npdz4rx6kxozkmli5im"
+  }
+}
