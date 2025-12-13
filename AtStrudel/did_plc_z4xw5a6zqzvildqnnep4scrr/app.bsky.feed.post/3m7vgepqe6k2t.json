@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:z4xw5a6zqzvildqnnep4scrr",
+  "time_us": 1765657119252249,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m7vgeq5giz2o",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m7vgepqe6k2t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-13T20:18:38.709Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc"
+            }
+          ],
+          "index": {
+            "byteEnd": 10,
+            "byteStart": 0
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "strudel.cc is honestly a lot of fun..."
+    },
+    "cid": "bafyreihssn6vjb5feshprhpnap6sicxtnnzsrkbl6loevvvgrlk6kn3bvm"
+  }
+}
