@@ -1,0 +1,62 @@
+{
+  "did": "did:plc:zw4u25hdakkf7nfs46dkjhig",
+  "time_us": 1765785629238494,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m7z62mdarc2w",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m7z62lq72c2w",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-15T08:00:27.99Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Lynx Winters",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiarawzcpa4afhefcyje4rknnxudrn72htws67fh5ativ4y7c5hyuu"
+            },
+            "mimeType": "image/jpeg",
+            "size": 686793
+          },
+          "title": "jamming a little bit in #strudel",
+          "uri": "https://www.youtube.com/watch?v=3p1DQqeFndM"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 40,
+            "byteStart": 32
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=3p1DQqeFndM"
+            }
+          ],
+          "index": {
+            "byteEnd": 73,
+            "byteStart": 42
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "a little bit of jamming in code\n#strudel\n\nwww.youtube.com/watch?v=3p1D..."
+    },
+    "cid": "bafyreiawrlftren7h65tbzst5bdb5jpqy4yiitspfc3itauqhf4dm27lca"
+  }
+}
