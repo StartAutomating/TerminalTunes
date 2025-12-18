@@ -1,0 +1,62 @@
+{
+  "did": "did:plc:zw4u25hdakkf7nfs46dkjhig",
+  "time_us": 1766045059735635,
+  "kind": "commit",
+  "commit": {
+    "rev": "3maapoacdps2p",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3maapo7zni22t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-18T08:04:18.585Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Lynx Winters",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreico3bchzuzigfjbs2y437mkesweozqtrt6bp57nsqnatm4wkm6b6y"
+            },
+            "mimeType": "image/jpeg",
+            "size": 804476
+          },
+          "title": "what does the future hold | #strudel #lynxwinters on #Twitch",
+          "uri": "https://www.youtube.com/watch?v=qZwfZV0feKU"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=qZwfZV0feKU"
+            }
+          ],
+          "index": {
+            "byteEnd": 31,
+            "byteStart": 0
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 118,
+            "byteStart": 110
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "www.youtube.com/watch?v=qZwf...\n\nI want to keep working on this but I feel like I've got something happening\n\n#strudel"
+    },
+    "cid": "bafyreibna7dh6n3736evs2r562t2jz5cm2hkcyzbbbxviiggkftyrpvbhm"
+  }
+}
