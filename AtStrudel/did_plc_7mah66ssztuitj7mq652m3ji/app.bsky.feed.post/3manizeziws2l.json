@@ -1,0 +1,60 @@
+{
+  "did": "did:plc:7mah66ssztuitj7mq652m3ji",
+  "time_us": 1766484594534208,
+  "kind": "commit",
+  "commit": {
+    "rev": "3manizflm5v2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3manizeziws2l",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-23T10:09:53.328Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by The Midwest TV Guys",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreieucexujd2krumol4ht7zup6vbpqznqbdz4ungai6lrs2nicn6bk4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 56405
+          },
+          "title": "Hans Strudel   Welcome to Breakfürg",
+          "uri": "https://m.youtube.com/watch?v=CQQPms3EL8A"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://m.youtube.com/watch?v=CQQPms3EL8A"
+            }
+          ],
+          "index": {
+            "byteEnd": 60,
+            "byteStart": 31
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreidmbcm2z2gcdaua6juojcd7jvvyzlsqui52np75f6pxats5rpen5q",
+          "uri": "at://did:plc:wceu42no3rogognhbm2yxdql/app.bsky.feed.post/3mamlxp5kt22w"
+        },
+        "root": {
+          "cid": "bafyreidmbcm2z2gcdaua6juojcd7jvvyzlsqui52np75f6pxats5rpen5q",
+          "uri": "at://did:plc:wceu42no3rogognhbm2yxdql/app.bsky.feed.post/3mamlxp5kt22w"
+        }
+      },
+      "text": "Hans Strudel > Billy Stroodel \nm.youtube.com/watch?v=CQQP..."
+    },
+    "cid": "bafyreihn3vhbtgh364mnrazgkymyk7pdc3gl5bsnkavp75cca6nltv4zhi"
+  }
+}
