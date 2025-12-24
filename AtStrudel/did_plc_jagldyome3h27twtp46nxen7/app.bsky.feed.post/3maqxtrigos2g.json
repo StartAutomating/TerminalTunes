@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:jagldyome3h27twtp46nxen7",
+  "time_us": 1766603594932470,
+  "kind": "commit",
+  "commit": {
+    "rev": "3maqxtv47z32a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3maqxtrigos2g",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-24T19:13:10.415Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by glossing",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibtme2lj5xnro5a6wwyg2ntrmdvfbmzxxsrihkvckdui35rykfhri"
+            },
+            "mimeType": "image/jpeg",
+            "size": 929618
+          },
+          "title": "How many FMs can we bake into a strudel?",
+          "uri": "https://www.youtube.com/watch?v=8ruLuZv1ju8"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=8ruLuZv1ju8"
+            }
+          ],
+          "index": {
+            "byteEnd": 153,
+            "byteStart": 122
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "A Strudel dev named Glossing is developing an eight voice FM feature\n\nit is super. Richly textured frequency modulations\n\nwww.youtube.com/watch?v=8ruL..."
+    },
+    "cid": "bafyreihyqgnruchrjpoimqttmndt23pxq23d3s5porfmyggp7mxhonu2ty"
+  }
+}
