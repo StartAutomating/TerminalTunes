@@ -1,0 +1,110 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1767037607528371,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mb5m2hvfva2f",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mb5m2fe7w22d",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-29T19:46:44.272Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifbxg2kmoj47zixrzm52hsrmfjxoim7wgk4peuo2oszqx7pykutym"
+            },
+            "mimeType": "image/jpeg",
+            "size": 765570
+          },
+          "title": "Bronski Beat - Smalltown Boy (Strudel Mini Cover)",
+          "uri": "https://www.youtube.com/watch?v=liNVxH9Ldyo"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 59,
+            "byteStart": 51
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 71,
+            "byteStart": 60
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "algorave"
+            }
+          ],
+          "index": {
+            "byteEnd": 81,
+            "byteStart": 72
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "synth"
+            }
+          ],
+          "index": {
+            "byteEnd": 88,
+            "byteStart": 82
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 97,
+            "byteStart": 89
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=liNVxH9Ldyo"
+            }
+          ],
+          "index": {
+            "byteEnd": 137,
+            "byteStart": 106
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Bronski Beat - Smalltown Boy (Strudel Mini Cover)\n\n#strudel #livecoding #algorave #synth #gosuraj\n\nVideo: www.youtube.com/watch?v=liNV..."
+    },
+    "cid": "bafyreibebvo2erokmasa57rkjposzhetsjg4ffdx6rs4nidln5w2vqapq4"
+  }
+}
