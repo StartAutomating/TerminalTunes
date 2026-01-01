@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:z4yzhhsdetqfkq6hneiwc3cv",
+  "time_us": 1767277490339151,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mbelhjw6kw2e",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mbelhfzecs25",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-01T14:24:45.599Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding editor that brings TidalCycles to the browser.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiabu6voer7zgxo4l5zmq42yj2pwlbppchojnxric74glfuclliufy"
+            },
+            "mimeType": "image/jpeg",
+            "size": 444382
+          },
+          "title": "First Sounds 🚀 Strudel",
+          "uri": "https://strudel.cc/workshop/first-sounds/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/workshop/first-sounds/"
+            }
+          ],
+          "index": {
+            "byteEnd": 187,
+            "byteStart": 161
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Starting out the year learning to play some music with Strudel. Way too much fun messing around with the live editor in the workshops and seeing what comes out\n\nstrudel.cc/workshop/fir..."
+    },
+    "cid": "bafyreiamnodfv5dcrhif6hksy7fdai7sfmkulxciuzwktmucq3pdpxypgm"
+  }
+}
