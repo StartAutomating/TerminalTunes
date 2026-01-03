@@ -1,0 +1,60 @@
+{
+  "did": "did:plc:m23mqen6vrz4deypznjfy43n",
+  "time_us": 1767457343055025,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mbjsxkzrhz25",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mbjsxhut4s2e",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-03T16:22:19.303Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Switch Angel",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreigefylsvu3qazjcnoy5okkdiw6mcceajunab45qvajmdhpddfbfma"
+            },
+            "mimeType": "image/jpeg",
+            "size": 872291
+          },
+          "title": "Livecoding melodic DNB music in Strudel",
+          "uri": "https://www.youtube.com/watch?v=aPsq5nqvhxg"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=aPsq5nqvhxg"
+            }
+          ],
+          "index": {
+            "byteEnd": 171,
+            "byteStart": 140
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreifftuxnk55sgyssuetrypyl2w7v6ab6ykuw7eniqr3tbibeyg3sqa",
+          "uri": "at://did:plc:hpjse36yorgmic7iv625ehub/app.bsky.feed.post/3mbjskqqczc2v"
+        },
+        "root": {
+          "cid": "bafyreiarw2ujuohp6gxs74lx7zhajrsezttik4litoyp4fsanbkf4xx7cy",
+          "uri": "at://did:plc:hpjse36yorgmic7iv625ehub/app.bsky.feed.post/3mbjibchlvs2q"
+        }
+      },
+      "text": "Have you tried VCV rack at all?\nFun virtual modular synth AND you can turn the lights down on the UI for fresh moods.\n\nThere's also Strudel\nwww.youtube.com/watch?v=aPsq..."
+    },
+    "cid": "bafyreieogsghanv7wqgtoeqkgpvrhswsz62pyhtjshbk4olgly2x5xdipm"
+  }
+}
