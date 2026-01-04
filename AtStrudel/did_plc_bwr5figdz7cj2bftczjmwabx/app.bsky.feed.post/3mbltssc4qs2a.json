@@ -1,0 +1,122 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1767526980238670,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mbltsw5vkb2p",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mbltssc4qs2a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-04T11:42:55.671Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiaujymh7lsamap7zymk5sr4kbxljkrhrsy3t2rq6ikss4ugmyikam"
+            },
+            "mimeType": "image/jpeg",
+            "size": 902846
+          },
+          "title": "Where Are The Dragons? (#strudel Coding Music)",
+          "uri": "https://www.youtube.com/watch?v=6mJHs2ZmkkU"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 39,
+            "byteStart": 31
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 51,
+            "byteStart": 40
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "algorave"
+            }
+          ],
+          "index": {
+            "byteEnd": 61,
+            "byteStart": 52
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "electropop"
+            }
+          ],
+          "index": {
+            "byteEnd": 73,
+            "byteStart": 62
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 82,
+            "byteStart": 74
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=6mJHs2ZmkkU"
+            }
+          ],
+          "index": {
+            "byteEnd": 123,
+            "byteStart": 92
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.gosuraj.com/contact"
+            }
+          ],
+          "index": {
+            "byteEnd": 156,
+            "byteStart": 133
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Song: Where Are The Dragons? \n\n#strudel #livecoding #algorave #electropop #gosuraj \n\nVideo: www.youtube.com/watch?v=6mJH...\nSocials: www.gosuraj.com/contact"
+    },
+    "cid": "bafyreihfaq7agailqzcctqwjhkhqwkvr2xe76lvgvbqugiomsylm3uxeyi"
+  }
+}
