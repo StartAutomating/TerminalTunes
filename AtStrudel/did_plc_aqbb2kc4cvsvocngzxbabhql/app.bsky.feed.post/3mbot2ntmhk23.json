@@ -1,0 +1,90 @@
+{
+  "did": "did:plc:aqbb2kc4cvsvocngzxbabhql",
+  "time_us": 1767629244551463,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mbot2nfk6x2a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mbot2ntmhk23",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-05T16:07:24.909Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "",
+          "title": "",
+          "uri": "https://youtube.com/shorts/QWY9nQH…"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 79,
+            "byteStart": 71
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 91,
+            "byteStart": 80
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "shorts"
+            }
+          ],
+          "index": {
+            "byteEnd": 99,
+            "byteStart": 92
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "algorave"
+            }
+          ],
+          "index": {
+            "byteEnd": 109,
+            "byteStart": 100
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://youtube.com/shorts/QWY9nQHnigM?si=QD9q3UeoMMqwPUQc"
+            }
+          ],
+          "index": {
+            "byteEnd": 154,
+            "byteStart": 127
+          }
+        }
+      ],
+      "langs": [
+        "ja"
+      ],
+      "text": "プログラミングでFuturebassっぽいものを作りたかった #strudel #livecoding #shorts #algorave  \n@YouTubeより youtube.com/shorts/QWY9n..."
+    },
+    "cid": "bafyreieck436ag4bjztsaj3jiow53hmtewzxu7mfieau5fbeuhc6qrmj5a"
+  }
+}
