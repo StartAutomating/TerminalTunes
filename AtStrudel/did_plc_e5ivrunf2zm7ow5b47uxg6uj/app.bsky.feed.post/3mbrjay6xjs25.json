@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:e5ivrunf2zm7ow5b47uxg6uj",
+  "time_us": 1767721800495331,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mbrjaza6su2l",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mbrjay6xjs25",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-06T17:49:58.892Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Switch Angel",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreig5b3yydepioxhla6mi5ex3chy4tpzkloenlsaehawnjhwqeiuhxm"
+            },
+            "mimeType": "image/jpeg",
+            "size": 975413
+          },
+          "title": "Coding Trance Music from Scratch (Again )",
+          "uri": "https://www.youtube.com/watch?v=iu5rnQkfO6M"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=iu5rnQkfO6M"
+            }
+          ],
+          "index": {
+            "byteEnd": 178,
+            "byteStart": 147
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "i've recently become obsessed with artists coding music in strudel REPL and this track with the narration is SO CUNTY. CAPITAL C. CUNT CUNT CUNT.\n\nwww.youtube.com/watch?v=iu5r..."
+    },
+    "cid": "bafyreiacf7eruz2yx2jlw3qxrwzou7xcambwsykazfmnfvgxf6njdr4pwa"
+  }
+}
