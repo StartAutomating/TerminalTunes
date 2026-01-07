@@ -1,0 +1,74 @@
+{
+  "did": "did:plc:lovemlyb7wlsonhsija6z3pc",
+  "time_us": 1767799745794969,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mbtrtxknnv24",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mbtrtwwh4c2n",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-07T15:29:04.509Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Prof. Jean Fan",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreig3gi3fraokpmvokclquhqze2borpj5z7m3oe5uyaei3qdccb5bx4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 399265
+          },
+          "title": "Fun With Code: cover of Teardrop by Massive Attack using TidalCycles on Strudel",
+          "uri": "https://youtube.com/shorts/CnH51WmCAdY"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc"
+            }
+          ],
+          "index": {
+            "byteEnd": 55,
+            "byteStart": 45
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://youtube.com/shorts/CnH51WmCAdY"
+            }
+          ],
+          "index": {
+            "byteEnd": 267,
+            "byteStart": 240
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "FunWithCode"
+            }
+          ],
+          "index": {
+            "byteEnd": 281,
+            "byteStart": 269
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I tried to vibe code music in TidalCycles on strudel.cc but got hallucinated garbage (maybe TidalCycles is not well represented in the training data)\n\nSo I read the documentation and manually coded this cover of Teardrop by Massive Attack: youtube.com/shorts/CnH51...\n\n#FunWithCode"
+    },
+    "cid": "bafyreiartv3afrfmsvvetrjbxcafoazidpiwqlkffbauxwbhn6lazsj2xq"
+  }
+}
