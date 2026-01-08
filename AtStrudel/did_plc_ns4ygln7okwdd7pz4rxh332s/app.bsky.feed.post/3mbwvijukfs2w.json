@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:ns4ygln7okwdd7pz4rxh332s",
+  "time_us": 1767906738153421,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mbwviloufp2t",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mbwvijukfs2w",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-08T21:12:15.898Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by sluncan",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibeefse3kltaymkbe6yosmbro3h5bch4timgideqkatvy2sxc5s3y"
+            },
+            "mimeType": "image/jpeg",
+            "size": 82879
+          },
+          "title": "NYE 2025/2026 - Rachel Presentation",
+          "uri": "https://www.youtube.com/watch?v=mUmfGUmWek4"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:2rfkzyjiwrmanp2z5m5xkhpg"
+            }
+          ],
+          "index": {
+            "byteEnd": 45,
+            "byteStart": 21
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=mUmfGUmWek4"
+            }
+          ],
+          "index": {
+            "byteEnd": 170,
+            "byteStart": 139
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "i was so inspired by @switchangel.bsky.social that i did my own live presentation of strudel at my NYE powerpoint party. It was super fun!\nwww.youtube.com/watch?v=mUmf..."
+    },
+    "cid": "bafyreicssuupd6mtfoamqxsztdqa5vszhthgojr5dpwyl5v2377jpqzy5y"
+  }
+}
