@@ -1,0 +1,123 @@
+{
+  "did": "did:plc:4ddlx5lpg5hkcfg3furb5hvn",
+  "time_us": 1767880880658331,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mbw5fxunxe2g",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mbw5fxubb42g",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-08T14:01:18Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Humanity has done a lot of questionable things, but this might be the most impressive. From self-appointed messiahs and DIY religions to doomsday countdowns that never worked and “enlightenment” that somehow involved branding, poison, or fire. \n\nThese are the weirdest cults in history, and all the proof you need that confidence beats critical thinking every single time.\n\n--- \n\nIf you liked this video, it wouldn't hurt to subscribe so you don't miss the next one... that would be a shame.\n\n--- \n\nChapters: \n\n00:00 Intro\n00:21 Scientology\n04:00 Ant Hill Kids\n07:28 Rajneesh\n11:12 Order of the Solar Temple\n14:04 10 Commandments Cult",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiefbrswayg44zjkeel5aqwiyje27jc5d2hyyyvjwttuvxfnpyhpba"
+            },
+            "mimeType": "image/jpeg",
+            "size": 169492
+          },
+          "title": "The Weirdest Cults In History... (Part 2)",
+          "uri": "https://www.youtube.com/watch?v=0bfFT5bKg_Q"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://s.cultpodcasts.com/_gm6mYiwKU6Tryqd5uzpkw"
+            }
+          ],
+          "index": {
+            "byteEnd": 196,
+            "byteStart": 147
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Cult"
+            }
+          ],
+          "index": {
+            "byteEnd": 146,
+            "byteStart": 141
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Scientology"
+            }
+          ],
+          "index": {
+            "byteEnd": 140,
+            "byteStart": 128
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "SolarTemple"
+            }
+          ],
+          "index": {
+            "byteEnd": 91,
+            "byteStart": 79
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "STOPQuotingOSHO"
+            }
+          ],
+          "index": {
+            "byteEnd": 127,
+            "byteStart": 111
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AntHillKids"
+            }
+          ],
+          "index": {
+            "byteEnd": 104,
+            "byteStart": 92
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "OSHO"
+            }
+          ],
+          "index": {
+            "byteEnd": 110,
+            "byteStart": 105
+          }
+        }
+      ],
+      "langs": [
+        "en",
+        "en-US"
+      ],
+      "text": "\"The Weirdest Cults in History... (Part 2)\"\nStrudel & Co.\n7 Jan 2026 [0:18:26]\n#SolarTemple #AntHillKids #OSHO #STOPQuotingOSHO #Scientology #Cult\nhttps://s.cultpodcasts.com/_gm6mYiwKU6Tryqd5uzpkw\n"
+    },
+    "cid": "bafyreib4qbj5na2cluhn4qwwxeoyuv5tt4fbhsdjjz4nmun66ex252mb3i"
+  }
+}
