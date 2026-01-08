@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:azerxr7cdzw6j7oeuexvj3n7",
+  "time_us": 1767913959533139,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mbx47sh2oj23",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mbx47rfaoc2t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-08T23:12:37.989Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Emestella",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreignqrtszitcf53njdbrtr4rfvuckkq2mclrqpuhrqbuamoqe6wv3q"
+            },
+            "mimeType": "image/jpeg",
+            "size": 49965
+          },
+          "title": "[STRUDEL] ...Et on laisse s'éteindre",
+          "uri": "https://m.youtube.com/watch?v=eSYgMJNWNck"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://m.youtube.com/watch?v=eSYgMJNWNck"
+            }
+          ],
+          "index": {
+            "byteEnd": 64,
+            "byteStart": 35
+          }
+        }
+      ],
+      "langs": [
+        "fr"
+      ],
+      "text": "Franchement STRUDEL c'est sympa !\n\nm.youtube.com/watch?v=eSYg..."
+    },
+    "cid": "bafyreigvq4fkirvzbwysciudxor4ti2a2xcx5j6qbsvkw4c5ugybbaxns4"
+  }
+}
