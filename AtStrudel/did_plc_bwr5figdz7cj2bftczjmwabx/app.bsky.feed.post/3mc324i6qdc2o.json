@@ -1,0 +1,122 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1768049142437461,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mc324kqrqg2h",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mc324i6qdc2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-10T12:45:39.145Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifiape5y62pnyrv6srhcoccatp6s6ztef7byfcnlgo7iqnzaoidpm"
+            },
+            "mimeType": "image/jpeg",
+            "size": 503477
+          },
+          "title": "Making a Techno Bass in Strudel",
+          "uri": "https://www.youtube.com/watch?v=ghnEOss_8_A"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecode"
+            }
+          ],
+          "index": {
+            "byteEnd": 42,
+            "byteStart": 33
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 54,
+            "byteStart": 43
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "algorave"
+            }
+          ],
+          "index": {
+            "byteEnd": 64,
+            "byteStart": 55
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "edm"
+            }
+          ],
+          "index": {
+            "byteEnd": 69,
+            "byteStart": 65
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "electronicmusic"
+            }
+          ],
+          "index": {
+            "byteEnd": 86,
+            "byteStart": 70
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 95,
+            "byteStart": 87
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=ghnEOss_8_A"
+            }
+          ],
+          "index": {
+            "byteEnd": 135,
+            "byteStart": 104
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Making a Techno Bass in Strudel\n\n#livecode #livecoding #algorave #edm #electronicmusic #gosuraj\n\nVideo: www.youtube.com/watch?v=ghnE..."
+    },
+    "cid": "bafyreigrrz7r4vjkezhwvzpdnhvlpy2k3uza42u6zqhrf7wxcribdqj5ae"
+  }
+}
