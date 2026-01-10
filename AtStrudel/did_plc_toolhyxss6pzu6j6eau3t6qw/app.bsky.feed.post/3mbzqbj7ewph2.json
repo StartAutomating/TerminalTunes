@@ -1,0 +1,135 @@
+{
+  "did": "did:plc:toolhyxss6pzu6j6eau3t6qw",
+  "time_us": 1768004215652099,
+  "kind": "commit",
+  "commit": {
+    "rev": "222223chfy722",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mbzqbj7ewph2",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "bridgyOriginalText": "<p>Apparently this was performed in <a href=\"https://strudel.cc/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">strudel.cc/</span><span class=\"invisible\"></span></a> a live coding REPL in the browser, based on  <a href=\"https://tidalcycles.org/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">tidalcycles.org/</span><span class=\"invisible\"></span></a> a Haskell based language for algorithmic music.</p><p><a href=\"https://mastodon.social/tags/music\" class=\"mention hashtag\" rel=\"tag\">#<span>music</span></a> <a href=\"https://mastodon.social/tags/haskell\" class=\"mention hashtag\" rel=\"tag\">#<span>haskell</span></a> <a href=\"https://mastodon.social/tags/strudel\" class=\"mention hashtag\" rel=\"tag\">#<span>strudel</span></a> <a href=\"https://mastodon.social/tags/tidalcycles\" class=\"mention hashtag\" rel=\"tag\">#<span>tidalcycles</span></a> <a href=\"https://mastodon.social/tags/tidal\" class=\"mention hashtag\" rel=\"tag\">#<span>tidal</span></a></p>",
+      "bridgyOriginalUrl": "https://mastodon.social/@safest_integer/115867923421073906",
+      "createdAt": "2026-01-10T00:16:42Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "$type": "app.bsky.embed.external#external",
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "music"
+            }
+          ],
+          "index": {
+            "byteEnd": 177,
+            "byteStart": 171
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "haskell"
+            }
+          ],
+          "index": {
+            "byteEnd": 186,
+            "byteStart": 178
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 195,
+            "byteStart": 187
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "tidalcycles"
+            }
+          ],
+          "index": {
+            "byteEnd": 208,
+            "byteStart": 196
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "tidal"
+            }
+          ],
+          "index": {
+            "byteEnd": 215,
+            "byteStart": 209
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/"
+            }
+          ],
+          "index": {
+            "byteEnd": 52,
+            "byteStart": 33
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://tidalcycles.org/"
+            }
+          ],
+          "index": {
+            "byteEnd": 121,
+            "byteStart": 97
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "$type": "app.bsky.feed.post#replyRef",
+        "parent": {
+          "cid": "bafyreibu6xczreoes7rihmaxxck3xayaqtpudtr6ivm7weoc3qexkowcxu",
+          "uri": "at://did:plc:toolhyxss6pzu6j6eau3t6qw/app.bsky.feed.post/3mbzoux3nl632"
+        },
+        "root": {
+          "cid": "bafyreibu6xczreoes7rihmaxxck3xayaqtpudtr6ivm7weoc3qexkowcxu",
+          "uri": "at://did:plc:toolhyxss6pzu6j6eau3t6qw/app.bsky.feed.post/3mbzoux3nl632"
+        }
+      },
+      "text": "Apparently this was performed in https://strudel.cc/ a live coding REPL in the browser, based on https://tidalcycles.org/ a Haskell based language for algorithmic music.\n\n#music #haskell #strudel #tidalcycles #tidal"
+    },
+    "cid": "bafyreidscnigo4fedybqlszoal6x52iksah7t7p2sqlpqrz5hkqalhpzcy"
+  }
+}
