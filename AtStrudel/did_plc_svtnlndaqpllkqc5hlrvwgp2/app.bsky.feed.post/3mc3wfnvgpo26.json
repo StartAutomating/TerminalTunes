@@ -1,0 +1,65 @@
+{
+  "did": "did:plc:svtnlndaqpllkqc5hlrvwgp2",
+  "time_us": 1768079512353878,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mc3wfnvojo26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mc3wfnvgpo26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-10T21:11:51.851Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Switch Angel",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiehg3pub2pjisfevpmrnohpszbzq6ioictkkfhbfcosvehofdpfvq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 12615
+          },
+          "title": "Coding Trance Music: in the beginning",
+          "uri": "https://www.youtube.com/shorts/YFQm8Hk73ug"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/"
+            }
+          ],
+          "index": {
+            "byteEnd": 56,
+            "byteStart": 46
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/shorts/YFQm8Hk73ug"
+            }
+          ],
+          "index": {
+            "byteEnd": 110,
+            "byteStart": 79
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "tags": [],
+      "text": "I love this channel, she live codes edm using strudel.cc and its pretty sick.\n\nwww.youtube.com/shorts/YFQm8..."
+    },
+    "cid": "bafyreib4zduvz5g46rw7fdd3itui22lbh7g5ushwg4p2winczvs7cz3waq"
+  }
+}
