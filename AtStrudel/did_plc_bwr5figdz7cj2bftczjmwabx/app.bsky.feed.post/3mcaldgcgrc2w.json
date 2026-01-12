@@ -1,0 +1,134 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1768239427655555,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mcaldivvdx24",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mcaldgcgrc2w",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-12T17:37:04.354Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia4l7qycp6m2fn6rpvmzg52o2nmeofbcivcgjzp2cndisv5bsczgu"
+            },
+            "mimeType": "image/jpeg",
+            "size": 566063
+          },
+          "title": "The Time Is Now (Strudel Coding Music)",
+          "uri": "https://www.youtube.com/watch?v=N5y_xEoqJIs"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 48,
+            "byteStart": 40
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 60,
+            "byteStart": 49
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "trance"
+            }
+          ],
+          "index": {
+            "byteEnd": 68,
+            "byteStart": 61
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "house"
+            }
+          ],
+          "index": {
+            "byteEnd": 75,
+            "byteStart": 69
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "edm"
+            }
+          ],
+          "index": {
+            "byteEnd": 80,
+            "byteStart": 76
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "electronicmusic"
+            }
+          ],
+          "index": {
+            "byteEnd": 97,
+            "byteStart": 81
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 106,
+            "byteStart": 98
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=N5y_xEoqJIs"
+            }
+          ],
+          "index": {
+            "byteEnd": 146,
+            "byteStart": 115
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "The Time Is Now (Strudel Coding Music)\n\n#strudel #livecoding #trance #house #edm #electronicmusic #gosuraj\n\nVideo: www.youtube.com/watch?v=N5y_..."
+    },
+    "cid": "bafyreicoivhuxprfghltvwolm47qgsh6p3tvdkiae7ojwwkdvgfp7mcldi"
+  }
+}
