@@ -1,0 +1,110 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1768408045563059,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mcfiepggbv24",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mcfien47pk2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-14T16:27:22.51Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibuilwcjaawnf3ieg36dxqvh2xgrnx3b4vd7fulhj56lyouohhilu"
+            },
+            "mimeType": "image/jpeg",
+            "size": 467880
+          },
+          "title": "Livecoding A Happy Bass",
+          "uri": "https://www.youtube.com/watch?v=5lZTMvhnNlI"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 33,
+            "byteStart": 25
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 45,
+            "byteStart": 34
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "algorave"
+            }
+          ],
+          "index": {
+            "byteEnd": 55,
+            "byteStart": 46
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "electronicmusic"
+            }
+          ],
+          "index": {
+            "byteEnd": 72,
+            "byteStart": 56
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 81,
+            "byteStart": 73
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=5lZTMvhnNlI"
+            }
+          ],
+          "index": {
+            "byteEnd": 121,
+            "byteStart": 90
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Livecoding A Happy Bass\n\n#strudel #livecoding #algorave #electronicmusic #gosuraj\n\nVideo: www.youtube.com/watch?v=5lZT..."
+    },
+    "cid": "bafyreiegjf4mccexjvt2bj3nms7war7ler6t4y7hpwrr6bdbouicrqcefa"
+  }
+}
