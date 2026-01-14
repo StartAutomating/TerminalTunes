@@ -1,0 +1,65 @@
+{
+  "did": "did:plc:3qxpuyugoel4svgub7ywotmz",
+  "time_us": 1768403479694378,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mcfe4nkhfk2f",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mcfe4mtsw22j",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-14T15:11:18.832Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#c2FtcGxlcygnaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2x5bm4vc291bmRzL3JlZnMvaGVhZHMvbWFpbi92b2NhbG9pZC9zdHJ1ZGVsLmpzb24nKQoKc2V0Y3BtKDMyKQokOiBzKCJiZCBiZCBiZCBiZCIpLm4oNCkuZHVja29yYml0KCIyOjMiKS5kdWNrYXR0YWNrKDAuMikuZHVja2RlcHRoKDAuOCkKJDogcygifiBbY2xhcDoyLHNkOjRdIH4gW2NsYXA6MSxzZDo0XSIpLnBhbigwLjYpCl8kOiBzKCJbaGggaGggaGggfiBoaCB%2BIGhoIDxoaCB%2BPl0qMiIpLnBlbnYocmFuZCkuc3dpbmdCeSgwLjIsIDgpLmdhaW4oIlswLjUgMV0qNCIpLnBhbigwLjQpCiQ6IHNvdW5kKCJ0ZXRvIikuc2xpY2UoMTYsICI8OSAyIDw2IDYgMC44IDY%2BIDEyKjQgNCBAIDwxIDQuNSoyPiA8MTEuNTEgMTIuOSAxMS41MSAxMS41MT4%2BKjQiKS5jbGlwKDAuOSkuZ2FpbigwLjcpLm9yYml0KDMpLnJvb20oMC41KS5jb2xvcigiI2YzNSIpLl9zcGlyYWwoeyBzdGVhZHk6IDAuNywgc2l6ZTogMjMwIH0pCl8kOiBjaG9yZCgiPEVeOSBbQV45QDUgRyM5IzVAM10gRV45IFtBXjkgRzEzXT4iKS5hbmNob3IoIjw3MCA3OD4vNCIpLnZvaWNpbmcoKS5zKCJnbV92aW9saW4iKS5hdHRhY2soMC4yKS5wYW4oMC4zKS5nYWluKDAuNCkudmliKCIzOjAuMiIpLm9yYml0KDIpCl8kOiBjaG9yZCgiPEMjbTkgW0YjbTlANSBHIzkjNUAzXSBDI203IFtBXjkgRzldPiIpLmFuY2hvcigiPDc0IDc5Pi80Iikudm9pY2luZygpLnMoInN1cGVyc2F3IikucGFuKDAuNykuZ2FpbigwLjMpLm9yYml0KDIpCiQ6IG4oIjAgQCBAIC00IDUgNCA8MiBbMiAzXSAzIFs2IDddPkAyIikuc2NhbGUoIjxDIzptaW5vciBDIzptaW5vciBDIzptaW5vciBBMjptYWpvcj4iKQogIC50cmFuc3Bvc2UoLTEyKS5zKCJnbV9sZWFkXzJfc2F3dG9vdGgiKS5jbGlwKDAuOTUpLnZpYigiNjowLjIiKS5scGYoMzAwMCkubHBhKDEpLm9yYml0KDMpLl9waWFub3JvbGwoKQokOiBuKCJbfiAyIDMgNCA2IDcgLTEgPDAgMSAyIDQgMCAxIDUgOD5dKjIiKS5zY2FsZSgiQyM6bWlub3IiKS5zd2luZ0J5KDAuMiwgNikucygiZ21fZXBpYW5vMiIpCiAgLmNsaXAoMC44KS5scGYoMTAwMCkuZGlzdCgyLjQpLnRyYW5zcG9zZSgyNCkucm9vbSgwLjMpLmxwYSgxKS5vcmJpdCgyKS5wYW4oMC42KQo%3D"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:x342sbpmtil2fesnq2f36k7f"
+            }
+          ],
+          "index": {
+            "byteEnd": 48,
+            "byteStart": 36
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/#c2FtcGxlcygnaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2x5bm4vc291bmRzL3JlZnMvaGVhZHMvbWFpbi92b2NhbG9pZC9zdHJ1ZGVsLmpzb24nKQoKc2V0Y3BtKDMyKQokOiBzKCJiZCBiZCBiZCBiZCIpLm4oNCkuZHVja29yYml0KCIyOjMiKS5kdWNrYXR0YWNrKDAuMikuZHVja2RlcHRoKDAuOCkKJDogcygifiBbY2xhcDoyLHNkOjRdIH4gW2NsYXA6MSxzZDo0XSIpLnBhbigwLjYpCl8kOiBzKCJbaGggaGggaGggfiBoaCB%2BIGhoIDxoaCB%2BPl0qMiIpLnBlbnYocmFuZCkuc3dpbmdCeSgwLjIsIDgpLmdhaW4oIlswLjUgMV0qNCIpLnBhbigwLjQpCiQ6IHNvdW5kKCJ0ZXRvIikuc2xpY2UoMTYsICI8OSAyIDw2IDYgMC44IDY%2BIDEyKjQgNCBAIDwxIDQuNSoyPiA8MTEuNTEgMTIuOSAxMS41MSAxMS41MT4%2BKjQiKS5jbGlwKDAuOSkuZ2FpbigwLjcpLm9yYml0KDMpLnJvb20oMC41KS5jb2xvcigiI2YzNSIpLl9zcGlyYWwoeyBzdGVhZHk6IDAuNywgc2l6ZTogMjMwIH0pCl8kOiBjaG9yZCgiPEVeOSBbQV45QDUgRyM5IzVAM10gRV45IFtBXjkgRzEzXT4iKS5hbmNob3IoIjw3MCA3OD4vNCIpLnZvaWNpbmcoKS5zKCJnbV92aW9saW4iKS5hdHRhY2soMC4yKS5wYW4oMC4zKS5nYWluKDAuNCkudmliKCIzOjAuMiIpLm9yYml0KDIpCl8kOiBjaG9yZCgiPEMjbTkgW0YjbTlANSBHIzkjNUAzXSBDI203IFtBXjkgRzldPiIpLmFuY2hvcigiPDc0IDc5Pi80Iikudm9pY2luZygpLnMoInN1cGVyc2F3IikucGFuKDAuNykuZ2FpbigwLjMpLm9yYml0KDIpCiQ6IG4oIjAgQCBAIC00IDUgNCA8MiBbMiAzXSAzIFs2IDddPkAyIikuc2NhbGUoIjxDIzptaW5vciBDIzptaW5vciBDIzptaW5vciBBMjptYWpvcj4iKQogIC50cmFuc3Bvc2UoLTEyKS5zKCJnbV9sZWFkXzJfc2F3dG9vdGgiKS5jbGlwKDAuOTUpLnZpYigiNjowLjIiKS5scGYoMzAwMCkubHBhKDEpLm9yYml0KDMpLl9waWFub3JvbGwoKQokOiBuKCJbfiAyIDMgNCA2IDcgLTEgPDAgMSAyIDQgMCAxIDUgOD5dKjIiKS5zY2FsZSgiQyM6bWlub3IiKS5zd2luZ0J5KDAuMiwgNikucygiZ21fZXBpYW5vMiIpCiAgLmNsaXAoMC44KS5scGYoMTAwMCkuZGlzdCgyLjQpLnRyYW5zcG9zZSgyNCkucm9vbSgwLjMpLmxwYSgxKS5vcmJpdCgyKS5wYW4oMC42KQo%3D"
+            }
+          ],
+          "index": {
+            "byteEnd": 88,
+            "byteStart": 62
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreicsof4rjarqh4hvkd7fiivh72wzh5bfun6nyjrtdfmb5zf7f5ziqq",
+          "uri": "at://did:plc:3qxpuyugoel4svgub7ywotmz/app.bsky.feed.post/3mcfdzh4h222j"
+        },
+        "root": {
+          "cid": "bafyreicsof4rjarqh4hvkd7fiivh72wzh5bfun6nyjrtdfmb5zf7f5ziqq",
+          "uri": "at://did:plc:3qxpuyugoel4svgub7ywotmz/app.bsky.feed.post/3mcfdzh4h222j"
+        }
+      },
+      "text": "vocals sampled from \"strawberry\" by @jamies.page :)\nremix it: strudel.cc#c2FtcGxlcygn..."
+    },
+    "cid": "bafyreiffs4qcieczfeitrpnns5eckaqpnugvugy56pru2mnfv2qbfy3bse"
+  }
+}
