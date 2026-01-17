@@ -1,0 +1,158 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1768672420659579,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mcn6lp2img2b",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mcn6lm4u322r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-17T17:53:36.852Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifvb7nkds6sa4jd7ucz3ohkafkikzqxrqo3nk6hivj37dpztz4rwm"
+            },
+            "mimeType": "image/jpeg",
+            "size": 555528
+          },
+          "title": "When You Can't Find The Remote (Coding Music)",
+          "uri": "https://www.youtube.com/watch?v=4BF-ZRPbc7c"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 58,
+            "byteStart": 47
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "algorave"
+            }
+          ],
+          "index": {
+            "byteEnd": 68,
+            "byteStart": 59
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "trance"
+            }
+          ],
+          "index": {
+            "byteEnd": 76,
+            "byteStart": 69
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 85,
+            "byteStart": 77
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "hydra"
+            }
+          ],
+          "index": {
+            "byteEnd": 92,
+            "byteStart": 86
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "dembow"
+            }
+          ],
+          "index": {
+            "byteEnd": 100,
+            "byteStart": 93
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "edm"
+            }
+          ],
+          "index": {
+            "byteEnd": 105,
+            "byteStart": 101
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "codingmusic"
+            }
+          ],
+          "index": {
+            "byteEnd": 118,
+            "byteStart": 106
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 127,
+            "byteStart": 119
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=4BF-ZRPbc7c"
+            }
+          ],
+          "index": {
+            "byteEnd": 167,
+            "byteStart": 136
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "When You Can't Find The Remote (Coding Music)\n\n#livecoding #algorave #trance #strudel #hydra #dembow #edm #codingmusic #gosuraj\n\nVideo: www.youtube.com/watch?v=4BF-..."
+    },
+    "cid": "bafyreiaciihmxcxg5ugw4ytgrnqkohcpgvuth6wazln7yk2ip76p6ittui"
+  }
+}
