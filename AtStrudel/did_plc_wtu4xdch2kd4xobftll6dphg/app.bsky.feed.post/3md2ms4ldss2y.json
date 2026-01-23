@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:wtu4xdch2kd4xobftll6dphg",
+  "time_us": 1769134349247789,
+  "kind": "commit",
+  "commit": {
+    "rev": "3md2msakkdp2w",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3md2ms4ldss2y",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-23T02:12:24.415Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by AlexAtheos",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiaacpqvoneolafwhtmpmvzmwttv6wuov53xeqr6s2wrougw2hzov4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 909543
+          },
+          "title": "Black Knife - Deltarune (Pure Data Cover)",
+          "uri": "https://www.youtube.com/watch?v=1jwIabAng7c"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=1jwIabAng7c"
+            }
+          ],
+          "index": {
+            "byteEnd": 289,
+            "byteStart": 258
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "why do we wanna learn how to make music but it *has* to be on the most autistic way possible. god forbid we use fl studio or a normal daw, we look at this thing and say \"yes, surely this is the way\" the same way we looked at trackers/bespokesynth/strudel. \n\nwww.youtube.com/watch?v=1jwI..."
+    },
+    "cid": "bafyreidzweeqi7pe47rxiwxoex5tie7whmcaqppgqi6rqduyqo2khyl4ke"
+  }
+}
