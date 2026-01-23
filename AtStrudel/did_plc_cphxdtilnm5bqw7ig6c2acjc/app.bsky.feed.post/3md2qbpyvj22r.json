@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:cphxdtilnm5bqw7ig6c2acjc",
+  "time_us": 1769138091939051,
+  "kind": "commit",
+  "commit": {
+    "rev": "3md2qbrx7f42s",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3md2qbpyvj22r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-23T03:14:49.324Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Switch Angel",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiesq52g2pzifdc4lhenyuc36g7vtiemazke3v3guzgfe5dxcynlia"
+            },
+            "mimeType": "image/jpeg",
+            "size": 816809
+          },
+          "title": "100k Subs Music Coding Stream",
+          "uri": "https://www.youtube.com/watch?v=_Iy6HX86p-k"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=_Iy6HX86p-k"
+            }
+          ],
+          "index": {
+            "byteEnd": 109,
+            "byteStart": 78
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "every time i rediscover that Strudel music coding exists i think\n\ngosh, dang\n\nwww.youtube.com/watch?v=_Iy6..."
+    },
+    "cid": "bafyreid4kotwvjdv5hka2s2zipecf4n262nqt7hfqhg5yylcazxd4kyity"
+  }
+}
