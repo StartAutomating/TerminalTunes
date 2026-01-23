@@ -1,0 +1,110 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1769193925650917,
+  "kind": "commit",
+  "commit": {
+    "rev": "3md4ebqzyjl2j",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3md4ebnqdfc2f",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-23T18:45:21.522Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidcoy6or5fvfmoa3xycfd5slibntudwjwdhn43hx2oivcdfm4nwzi"
+            },
+            "mimeType": "image/jpeg",
+            "size": 952070
+          },
+          "title": "Strudel Coding Music - Hopeful EDM Melody",
+          "uri": "https://www.youtube.com/watch?v=_WSc8Em9RFs"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "inspiring"
+            }
+          ],
+          "index": {
+            "byteEnd": 53,
+            "byteStart": 43
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "motivating"
+            }
+          ],
+          "index": {
+            "byteEnd": 65,
+            "byteStart": 54
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "algorave"
+            }
+          ],
+          "index": {
+            "byteEnd": 75,
+            "byteStart": 66
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "edm"
+            }
+          ],
+          "index": {
+            "byteEnd": 80,
+            "byteStart": 76
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 89,
+            "byteStart": 81
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=_WSc8Em9RFs"
+            }
+          ],
+          "index": {
+            "byteEnd": 129,
+            "byteStart": 98
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Strudel Coding Music - Hopeful EDM Melody\n\n#inspiring #motivating #algorave #edm #gosuraj\n\nVideo: www.youtube.com/watch?v=_WSc..."
+    },
+    "cid": "bafyreic34ypb6ekzdeq4xhikbqywnuxkzubyuofftlvqxeumishxmm7jn4"
+  }
+}
