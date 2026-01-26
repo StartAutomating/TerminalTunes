@@ -1,0 +1,46 @@
+{
+  "did": "did:plc:ze342uk73yy2yokjfygpjc2q",
+  "time_us": 1769398226770387,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mdcckfqpkh2l",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mdcckchrts2s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-26T03:30:22.644Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Xennial Dee’s Nostalgic Journey ",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreieqilxbmvf5oct3f2y22wbowwol5htukyqnoi62ncfojecmsu6y6i"
+            },
+            "mimeType": "image/jpeg",
+            "size": 993998
+          },
+          "title": "90s commercials made Toaster Strudel look LIFE-CHANGING .Team Toaster Strudel or Team Pop-Tart? #90s",
+          "uri": "https://www.youtube.com/shorts/ORitsuiEHTY"
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreicnb4rgvaf4svurv6tnm3y7khfbukdw7zw55nrytxe4rxqqnmvxha",
+          "uri": "at://did:plc:irb6w5thw5c6ivhb5efp7hrv/app.bsky.feed.post/3mdc4poaywc2h"
+        },
+        "root": {
+          "cid": "bafyreihgbp7siussya47ocopybxrlg3move23wccdwlwmaatal3c4imkqm",
+          "uri": "at://did:plc:irb6w5thw5c6ivhb5efp7hrv/app.bsky.feed.post/3mdbzcg6scs2o"
+        }
+      },
+      "text": "They were not toaster strudels."
+    },
+    "cid": "bafyreic35tk633onfg6z32azkw2hhcorgflx45qgmrz3lg2kepmzre7buu"
+  }
+}
