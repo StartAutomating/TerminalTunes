@@ -1,0 +1,36 @@
+{
+  "did": "did:plc:sshlwzltqdlhoklifeo6ojfx",
+  "time_us": 1769397968834542,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mdcccpuiag2k",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mdcccmt4tc2s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-26T03:26:05.065Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Huggbees",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreid2mtju5tmjmvfi7twp7q2btp7wfvaspbagzoo6pxfskpyu6i4tdq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 127287
+          },
+          "title": "How It's Actually Made - Toaster Pastries",
+          "uri": "https://www.youtube.com/watch?v=fr-dUV_vuzA"
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "Barring the jarring commentary\n…Footage stimulates the brain\n\nIt’s a nice lil’ reprieve from the outside, sort of like a breather\n\n(wonder what ACTUALLY makes that frosting melt-resistant)\n(theoretically, you COULD make your own strudels— provided you bake them patiently)\n(…and correctly-ish)\n(hmm…)"
+    },
+    "cid": "bafyreidyqt2wyoiu74aewj45uhzim6ga3qhufmk7q4hbxdsju6v3wwt55u"
+  }
+}
