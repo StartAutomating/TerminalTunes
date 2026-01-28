@@ -1,0 +1,52 @@
+{
+  "did": "did:plc:vy2useezprfok3wznkactyla",
+  "time_us": 1769640051278254,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mdjdre5lcl2q",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mdjdrdo6wc2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-28T22:40:50.693Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc"
+            }
+          ],
+          "index": {
+            "byteEnd": 261,
+            "byteStart": 251
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreigc5qqqiwws5iblj7tnrsl2pmzd7z2mtthwomjvyjoukcuul7nfki",
+          "uri": "at://did:plc:uxelaqoua6psz2for5amm6bp/app.bsky.feed.post/3mdiaobwy5w2b"
+        },
+        "root": {
+          "cid": "bafyreigc5qqqiwws5iblj7tnrsl2pmzd7z2mtthwomjvyjoukcuul7nfki",
+          "uri": "at://did:plc:uxelaqoua6psz2for5amm6bp/app.bsky.feed.post/3mdiaobwy5w2b"
+        }
+      },
+      "text": "I unfortunately don't think many people can read notes or imagine what they sound like\n\n... just a thought but maybe you could make a little web demonstration? 🤔 I think there are js libraries to make sounds, and you can even make whole songs with strudel.cc!"
+    },
+    "cid": "bafyreibltlcvsui52eeiqbmwxanowgk7z6twozttwfyr27csrk6xgn55ai"
+  }
+}
