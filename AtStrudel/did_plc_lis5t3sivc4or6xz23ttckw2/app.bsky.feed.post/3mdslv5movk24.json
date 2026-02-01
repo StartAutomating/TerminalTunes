@@ -1,0 +1,66 @@
+{
+  "did": "did:plc:lis5t3sivc4or6xz23ttckw2",
+  "time_us": 1769958006681621,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mdslv5yeyj2m",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mdslv5movk24",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-01T15:00:06.149Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "creativecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 244,
+            "byteStart": 229
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "musiciansky"
+            }
+          ],
+          "index": {
+            "byteEnd": 257,
+            "byteStart": 245
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc"
+            }
+          ],
+          "index": {
+            "byteEnd": 269,
+            "byteStart": 259
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Strudel is a really cool way to make music with live coding! It is based on Tidalcycles, but you can try it in your browser without anything to install\n\nIt's super fun to keep learning new functions to keep modifying your sound\n\n#creativecoding #musiciansky\n\nstrudel.cc"
+    },
+    "cid": "bafyreihtbbdnpxt3f2tgcub6qkwqldsphp3ilsw3jccb3537hygw2senle"
+  }
+}
