@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:zgffou3e7xdq7xxdpbbgbqmc",
+  "time_us": 1770072260655743,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mdvwc6slhr2v",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mdvwc66yus2k",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-02T22:44:19.59Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#CnNldENwcygxNDAvNjAvNCkKJDogc291bmQoInNiZDoyITQiKS5fc2NvcGUoKQoKJDogbigiMCIpLmFkZCgtMTQpLnMoInN1cGVyc2F3Iikuc2NhbGUoImc6bWlub3IiKS5zZWcoMTYpLnJpYmJvbig0MiwgMS4yNSkuY2xpcCgiPC43IC40IC41IDE%2BIikuZGVsYXkoc2xpZGVyKDAuNTg3KSkubygyKS5tdWwocmFuZCkubHBmKHRyaS5yYW5nZSgxMDAsIDUwMDApKS5yb29tc2l6ZSgxKS5yb29tKDAuNykuZGVjKDAuMikuX3Njb3BlKCkKCgokOiBuKCIxIDMgNCA8NSAxPiIpLm9mZigxLzE2LCAgeD0%2BeC5hZGQoNykpLnMoInRyaWFuZ2xlIikuc2NhbGUoIjxEYjU6bWl4b2x5ZGlhbj4iKS5kZWxheShzbGlkZXIoMC4xODgpKS5tdWwocmFuZCkubygyKS5scGYocGVybGluLnJhbmdlKDEwMCwxMDAwKS5zbG93KDgpKS5yb29tKC41KS5kZWMoLjIpLl9zY29wZSgpCgovLyAkOiBuKCIwIikuYWRkKDcpLnMoInN1cGVyc2F3Iikuc2NhbGUoImc6bWlub3IiKS5kZWxheSguNykucGFuKHJhbmQpLm8oMykucmxwKHNsaWRlcigwLjcxMSkpLmxwZW52KDIp"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/#CnNldENwcygxNDAvNjAvNCkKJDogc291bmQoInNiZDoyITQiKS5fc2NvcGUoKQoKJDogbigiMCIpLmFkZCgtMTQpLnMoInN1cGVyc2F3Iikuc2NhbGUoImc6bWlub3IiKS5zZWcoMTYpLnJpYmJvbig0MiwgMS4yNSkuY2xpcCgiPC43IC40IC41IDE%2BIikuZGVsYXkoc2xpZGVyKDAuNTg3KSkubygyKS5tdWwocmFuZCkubHBmKHRyaS5yYW5nZSgxMDAsIDUwMDApKS5yb29tc2l6ZSgxKS5yb29tKDAuNykuZGVjKDAuMikuX3Njb3BlKCkKCgokOiBuKCIxIDMgNCA8NSAxPiIpLm9mZigxLzE2LCAgeD0%2BeC5hZGQoNykpLnMoInRyaWFuZ2xlIikuc2NhbGUoIjxEYjU6bWl4b2x5ZGlhbj4iKS5kZWxheShzbGlkZXIoMC4xODgpKS5tdWwocmFuZCkubygyKS5scGYocGVybGluLnJhbmdlKDEwMCwxMDAwKS5zbG93KDgpKS5yb29tKC41KS5kZWMoLjIpLl9zY29wZSgpCgovLyAkOiBuKCIwIikuYWRkKDcpLnMoInN1cGVyc2F3Iikuc2NhbGUoImc6bWlub3IiKS5kZWxheSguNykucGFuKHJhbmQpLm8oMykucmxwKHNsaWRlcigwLjcxMSkpLmxwZW52KDIp"
+            }
+          ],
+          "index": {
+            "byteEnd": 56,
+            "byteStart": 30
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "oh. strudel, it's kinda fun.\n\nstrudel.cc#CnNldENwcygx..."
+    },
+    "cid": "bafyreif53sgazvm5veqohaeuej2acwc2vbteqrecemsqdp7uk7ltdntq5y"
+  }
+}
