@@ -1,0 +1,110 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1770052662970889,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mdve24uali22",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mdvdzzvgss23",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-02T17:17:39.295Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidi72pn67d7kbtxsqcnrew3g5jynyzzuuxcklbqkernnjajtg5vxa"
+            },
+            "mimeType": "image/jpeg",
+            "size": 765714
+          },
+          "title": "Algorave Strudel Music: The Time Is Now v1.7",
+          "uri": "https://www.youtube.com/watch?v=2aC7xgTgEQ0"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 54,
+            "byteStart": 46
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "energetic"
+            }
+          ],
+          "index": {
+            "byteEnd": 65,
+            "byteStart": 55
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "algorave"
+            }
+          ],
+          "index": {
+            "byteEnd": 75,
+            "byteStart": 66
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "edm"
+            }
+          ],
+          "index": {
+            "byteEnd": 80,
+            "byteStart": 76
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 89,
+            "byteStart": 81
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=2aC7xgTgEQ0"
+            }
+          ],
+          "index": {
+            "byteEnd": 129,
+            "byteStart": 98
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Algorave Strudel Music: The Time Is Now v1.7\n\n#strudel #energetic #algorave #edm #gosuraj\n\nVideo: www.youtube.com/watch?v=2aC7..."
+    },
+    "cid": "bafyreihrwmj4pnqrvym5vrpmt2bpef66wkxi27ogccpklrf3bm65nqy2se"
+  }
+}
