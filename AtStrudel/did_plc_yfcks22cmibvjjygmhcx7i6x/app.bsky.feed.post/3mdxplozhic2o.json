@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:yfcks22cmibvjjygmhcx7i6x",
+  "time_us": 1770133785070110,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mdxplqsijg2p",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mdxplozhic2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-03T15:49:42.508Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by StrudelmediaLive",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiclh666h624tjnhw3nzqirsp3zxepcsgkpe2hqos533twkhmrn4bi"
+            },
+            "mimeType": "image/jpeg",
+            "size": 851270
+          },
+          "title": "Mastering the Lightroom Print Module with Kai McBride",
+          "uri": "https://www.youtube.com/watch?v=xQ2JFGOM9K8"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=xQ2JFGOM9K8"
+            }
+          ],
+          "index": {
+            "byteEnd": 144,
+            "byteStart": 113
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Created a short promo video for an upcoming class for StrudelmediaLive, \"Mastering the Lightroom Print Module\" \n\nwww.youtube.com/watch?v=xQ2J..."
+    },
+    "cid": "bafyreicbi2q2p4ibdtyscu4pwwjya6xbacaoub7nhfwyhqj6q46iuen43a"
+  }
+}
