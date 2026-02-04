@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:tecqdqisdgiquy2dy56tk56l",
+  "time_us": 1770192646956364,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mdzgfyezz62i",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mdzgfxnir222",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-04T08:10:46.029Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#ICAvLyDlkJvjgYzku6Mg4oCUIEtpbWlnYXlvIChKYXBhbmVzZSBOYXRpb25hbCBBbnRoZW0pCiAgLy8gfjYwIEJQTSwgNC80IHRpbWUsIDExIGJhcnMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogIC8vIE1lbG9keTogSGF5YXNoaSBIaXJvbW9yaSAoMTg4MCksIGhhcm1vbnk6IEVja2VydCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgc2V0Y3BtKDYwLzQpCgogIGNvbnN0IG1lbG9keSA9IG5vdGUoYAogICAgW2Q0IGM0IGQ0IGU0XSBbZzQgZTQgZDRAMl0gW2U0IGc0IGE0IFtnNCBhNF1dIFtkNSBiNCBhNCBnNF0KICAgIFtlNCBnNCBhNEAyXSBbZDUgYzUgZDVAMl0gW2U0IGc0IGE0IGc0XSBbZTRAMyBnNCBkNEA0XQogICAgW2E0IGM1IGQ1QDJdIFtjNSBkNSBhNCBnNF0gW2E0QDIgZzQgZTQgZDRANF0KICBgKS5zbG93KDExKQoKICAvLyBNYWluIG1lbG9keSDigJQgZmx1dGUKICAkOiBtZWxvZHkucygiZ21fZmx1dGUiKS5nYWluKDAuNikKICAgIC5jbGlwKDEuMikucm9vbSgwLjMpLm9yYml0KDEpCgogIC8vIE1lbG9keSBkb3VibGVkIOKAlCB2aW9saW4gZm9yIGJvZHkKICAkOiBtZWxvZHkucygiZ21fdmlvbGluIikuZ2FpbigwLjQ1KQogICAgLmNsaXAoMS4zKS5yb29tKDAuMjUpLm9yYml0KDIpCgogIC8vIEhhcm1vbnkg4oCUIHN1c3RhaW5lZCBzdHJpbmcgY2hvcmRzCiAgJDogbm90ZShgCiAgICBbZDMsYTMsZDRdIFtbZzMsYjMsZDRdIFtkMyxhMyxkNF1dIFtbZTMsZzMsYjNdIFthMyxjNCxlNF1dIFtnMyxiMyxkNF0KICAgIFtbZTMsZzMsYjNdIFthMyxjNCxlNF1dIFtkMyxhMyxkNF0gW1tlMyxnMyxiM10gW2EzLGM0LGU0XV0gW1tlMyxnMyxiM10gW2QzLGEzLGQ0XV0KICAgIFtbYTMsYzQsZTRdIFtkMyxhMyxkNF1dIFtbYzQsZTQsZzRdIFtnMyxiMyxkNF1dIFtbYTMsYzQsZTRdIFtkMyxhMyxkNF1dCiAgYCkuc2xvdygxMSkKICAgIC5zKCJnbV9zdHJpbmdfZW5zZW1ibGVfMSIpLmdhaW4oMC40KQogICAgLmNsaXAoMS41KS5yb29tKDAuMzUpLm9yYml0KDMpCgogIC8vIEJhc3Mg4oCUIGNlbGxvCiAgJDogbm90ZShgCiAgICBkMiBbZzIgZDJdIFtlMiBhMl0gZzIKICAgIFtlMiBhMl0gZDIgW2UyIGEyXSBbZTIgZDJdCiAgICBbYTIgZDJdIFtjMyBnMl0gW2EyIGQyXQogIGApLnNsb3coMTEpCiAgICAucygiZ21fY2VsbG8iKS5nYWluKDAuNSkKICAgIC5jbGlwKDEuNSkucm9vbSgwLjI1KS5vcmJpdCg0KQoKICAvLyBGcmVuY2ggaG9ybiDigJQgc3VzdGFpbmVkIHRvbmVzIGZvciB3YXJtdGgKICAkOiBub3RlKGAKICAgIGQzIFtnMyBkM10gZTMgZzMKICAgIFtlMyBhM10gYTMgZTMgZDMKICAgIGEzIGczIGQzCiAgYCkuc2xvdygxMSkKICAgIC5zKCJnbV9mcmVuY2hfaG9ybiIpLmdhaW4oMC4zNSkKICAgIC5jbGlwKDEuNSkucm9vbSgwLjMpLm9yYml0KDUp"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/#ICAvLyDlkJvjgYzku6Mg4oCUIEtpbWlnYXlvIChKYXBhbmVzZSBOYXRpb25hbCBBbnRoZW0pCiAgLy8gfjYwIEJQTSwgNC80IHRpbWUsIDExIGJhcnMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogIC8vIE1lbG9keTogSGF5YXNoaSBIaXJvbW9yaSAoMTg4MCksIGhhcm1vbnk6IEVja2VydCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgc2V0Y3BtKDYwLzQpCgogIGNvbnN0IG1lbG9keSA9IG5vdGUoYAogICAgW2Q0IGM0IGQ0IGU0XSBbZzQgZTQgZDRAMl0gW2U0IGc0IGE0IFtnNCBhNF1dIFtkNSBiNCBhNCBnNF0KICAgIFtlNCBnNCBhNEAyXSBbZDUgYzUgZDVAMl0gW2U0IGc0IGE0IGc0XSBbZTRAMyBnNCBkNEA0XQogICAgW2E0IGM1IGQ1QDJdIFtjNSBkNSBhNCBnNF0gW2E0QDIgZzQgZTQgZDRANF0KICBgKS5zbG93KDExKQoKICAvLyBNYWluIG1lbG9keSDigJQgZmx1dGUKICAkOiBtZWxvZHkucygiZ21fZmx1dGUiKS5nYWluKDAuNikKICAgIC5jbGlwKDEuMikucm9vbSgwLjMpLm9yYml0KDEpCgogIC8vIE1lbG9keSBkb3VibGVkIOKAlCB2aW9saW4gZm9yIGJvZHkKICAkOiBtZWxvZHkucygiZ21fdmlvbGluIikuZ2FpbigwLjQ1KQogICAgLmNsaXAoMS4zKS5yb29tKDAuMjUpLm9yYml0KDIpCgogIC8vIEhhcm1vbnkg4oCUIHN1c3RhaW5lZCBzdHJpbmcgY2hvcmRzCiAgJDogbm90ZShgCiAgICBbZDMsYTMsZDRdIFtbZzMsYjMsZDRdIFtkMyxhMyxkNF1dIFtbZTMsZzMsYjNdIFthMyxjNCxlNF1dIFtnMyxiMyxkNF0KICAgIFtbZTMsZzMsYjNdIFthMyxjNCxlNF1dIFtkMyxhMyxkNF0gW1tlMyxnMyxiM10gW2EzLGM0LGU0XV0gW1tlMyxnMyxiM10gW2QzLGEzLGQ0XV0KICAgIFtbYTMsYzQsZTRdIFtkMyxhMyxkNF1dIFtbYzQsZTQsZzRdIFtnMyxiMyxkNF1dIFtbYTMsYzQsZTRdIFtkMyxhMyxkNF1dCiAgYCkuc2xvdygxMSkKICAgIC5zKCJnbV9zdHJpbmdfZW5zZW1ibGVfMSIpLmdhaW4oMC40KQogICAgLmNsaXAoMS41KS5yb29tKDAuMzUpLm9yYml0KDMpCgogIC8vIEJhc3Mg4oCUIGNlbGxvCiAgJDogbm90ZShgCiAgICBkMiBbZzIgZDJdIFtlMiBhMl0gZzIKICAgIFtlMiBhMl0gZDIgW2UyIGEyXSBbZTIgZDJdCiAgICBbYTIgZDJdIFtjMyBnMl0gW2EyIGQyXQogIGApLnNsb3coMTEpCiAgICAucygiZ21fY2VsbG8iKS5nYWluKDAuNSkKICAgIC5jbGlwKDEuNSkucm9vbSgwLjI1KS5vcmJpdCg0KQoKICAvLyBGcmVuY2ggaG9ybiDigJQgc3VzdGFpbmVkIHRvbmVzIGZvciB3YXJtdGgKICAkOiBub3RlKGAKICAgIGQzIFtnMyBkM10gZTMgZzMKICAgIFtlMyBhM10gYTMgZTMgZDMKICAgIGEzIGczIGQzCiAgYCkuc2xvdygxMSkKICAgIC5zKCJnbV9mcmVuY2hfaG9ybiIpLmdhaW4oMC4zNSkKICAgIC5jbGlwKDEuNSkucm9vbSgwLjMpLm9yYml0KDUp"
+            }
+          ],
+          "index": {
+            "byteEnd": 75,
+            "byteStart": 49
+          }
+        }
+      ],
+      "langs": [
+        "ja"
+      ],
+      "text": "Claude Codeに君が代を作らせてみたよ\n\nstrudel.cc#ICAvLyDlkJvj..."
+    },
+    "cid": "bafyreiaqrpqyhasrmgt5wf74kc6rmcsandcdc4kdbqzumsnhsu3gdnla5u"
+  }
+}
