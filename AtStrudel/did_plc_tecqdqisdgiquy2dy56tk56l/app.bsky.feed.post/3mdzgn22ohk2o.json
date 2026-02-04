@@ -1,0 +1,52 @@
+{
+  "did": "did:plc:tecqdqisdgiquy2dy56tk56l",
+  "time_us": 1770192884757029,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mdzgn36gvm2s",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mdzgn22ohk2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-04T08:14:43.438Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#CiAgc2V0Y3BtKDE2NS80KQoKICAvLyBraWNrIOKAlCByZWxlbnRsZXNzIDQtb24tdGhlLWZsb29yCiAgJDogcygiYmQqNCIpLmJhbmsoIlJvbGFuZFRSOTA5IikuZ2FpbigxLjEpCiAgICAucGVudigtMykucGRlY2F5KDAuMDgpCiAgICAub3JiaXQoMCkKCiAgLy8gb2ZmYmVhdCBvcGVuIGhhdHMgKyBjbG9zZWQgaGF0IHJvbGxzCiAgJDogcygiW34gb2hdKjIiKS5iYW5rKCJSb2xhbmRUUjkwOSIpLmdhaW4oMC41KQogICAgLmhwZig3MDAwKS5vcmJpdCgxKQoKICAkOiBzKCJoaCoxNiIpLmJhbmsoIlJvbGFuZFRSOTA5IikKICAgIC5nYWluKCIwLjQgMC4yNSAwLjM1IDAuMjUgMC40IDAuMjUgMC4zNSAwLjMgMC40IDAuMjUgMC4zNSAwLjI1IDAuNCAwLjI1IDAuMzUgMC4zIikKICAgIC5ocGYoODAwMCkub3JiaXQoMSkKCiAgLy8gY2xhcCBvbiAyIGFuZCA0IHdpdGggc2hvcnQgcmV2ZXJiCiAgJDogcygifiBjcCB%2BIGNwIikuYmFuaygiUm9sYW5kVFI5MDkiKS5nYWluKDAuNykKICAgIC5yb29tKDAuMTUpLm9yYml0KDIpCgogIC8vIGFjaWQgYmFzc2xpbmUg4oCUIHNhd3Rvb3RoIHRocm91Z2ggcmVzb25hbnQgZmlsdGVyIGVudmVsb3BlCiAgJDogbm90ZSgiYTEgW2ExIH4gYTFdIFt%2BIGMyIH5dIGExIFtlMSBlMSB%2BIGcxXSBhMSBbYzIgYTFdIFtnMSB%2BIGUxIH5dIikKICAgIC5zKCJzYXd0b290aCIpLmdhaW4oMC43KQogICAgLmxwZig0MDApLmxwcSgxMikubHBlbnYoNikubHBhKDAuMDEpLmxwZCgwLjEyKQogICAgLmRlY2F5KDAuMTUpLnN1c3RhaW4oMCkucmVsZWFzZSgwLjAyKQogICAgLmRpc3RvcnQoIjEuNTouNiIpCiAgICAuZXZlcnkoNCwgeCA9PiB4LmxwZig4MDApLmxwcSgxOCkpCiAgICAuZXZlcnkoMywgeCA9PiB4LmZhc3QoMikpCiAgICAub3JiaXQoMykKCiAgLy8gdHJhbmNlIGFycCDigJQgaHlwbm90aWMgcGF0dGVybiBpbiBBIG1pbm9yCiAgJDogbigiMCA0IDcgMTIgNyA0IDAgMTIiLmFkZCgiPDAgMyAtMiA1PiIpKQogICAgLnNjYWxlKCJBNDptaW5vciIpLnMoInN1cGVyc2F3IikuZ2FpbigwLjM1KQogICAgLmxwZihzaW5lLnJhbmdlKDEyMDAsIDUwMDApLnNsb3coOCkpCiAgICAuZGVjYXkoMC4xKS5zdXN0YWluKDAuMSkucmVsZWFzZSgwLjE1KQogICAgLmRlbGF5KDAuMykuZGVsYXl0aW1lKDMvMTYpLmRlbGF5ZmVlZGJhY2soMC40NSkKICAgIC5yb29tKDAuMTUpCiAgICAub3JiaXQoNCkKCiAgLy8gdHJhbmNlIHBhZCDigJQgc2xvdyBzdXBlcnNhdyB3YXNoCiAgJDogbm90ZSgiPFthMyxjNCxlNF0gW2YzLGEzLGM0XSBbZDMsZjMsYTNdIFtlMyxnMyxiM10%2BIikKICAgIC5zKCJzdXBlcnNhdyIpLmdhaW4oMC4yNSkKICAgIC5scGYoc2luZS5yYW5nZSg4MDAsIDMwMDApLnNsb3coMTYpKQogICAgLmF0dGFjaygwLjgpLnJlbGVhc2UoMS41KQogICAgLmNob3J1cygwLjUpCiAgICAucm9vbSgwLjQpCiAgICAub3JiaXQoNSkKCiAgLy8gcmlzZXIvdGVuc2lvbiDigJQgZmlsdGVyZWQgbm9pc2Ugc3dlZXAgZXZlcnkgOCBiYXJzCiAgJDogcygic2luZSIpLmdhaW4oMC4yKQogICAgLm5vdGUoImE1IikubHBmKHNhdy5yYW5nZSgyMDAsIDEyMDAwKS5zbG93KDgpKQogICAgLmF0dGFjaygyKS5yZWxlYXNlKDAuNSkKICAgIC5yb29tKDAuNSkuZGVsYXkoMC40KS5kZWxheXRpbWUoMS84KS5kZWxheWZlZWRiYWNrKDAuNSkKICAgIC5vcmJpdCg2KQ%3D%3D"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/#CiAgc2V0Y3BtKDE2NS80KQoKICAvLyBraWNrIOKAlCByZWxlbnRsZXNzIDQtb24tdGhlLWZsb29yCiAgJDogcygiYmQqNCIpLmJhbmsoIlJvbGFuZFRSOTA5IikuZ2FpbigxLjEpCiAgICAucGVudigtMykucGRlY2F5KDAuMDgpCiAgICAub3JiaXQoMCkKCiAgLy8gb2ZmYmVhdCBvcGVuIGhhdHMgKyBjbG9zZWQgaGF0IHJvbGxzCiAgJDogcygiW34gb2hdKjIiKS5iYW5rKCJSb2xhbmRUUjkwOSIpLmdhaW4oMC41KQogICAgLmhwZig3MDAwKS5vcmJpdCgxKQoKICAkOiBzKCJoaCoxNiIpLmJhbmsoIlJvbGFuZFRSOTA5IikKICAgIC5nYWluKCIwLjQgMC4yNSAwLjM1IDAuMjUgMC40IDAuMjUgMC4zNSAwLjMgMC40IDAuMjUgMC4zNSAwLjI1IDAuNCAwLjI1IDAuMzUgMC4zIikKICAgIC5ocGYoODAwMCkub3JiaXQoMSkKCiAgLy8gY2xhcCBvbiAyIGFuZCA0IHdpdGggc2hvcnQgcmV2ZXJiCiAgJDogcygifiBjcCB%2BIGNwIikuYmFuaygiUm9sYW5kVFI5MDkiKS5nYWluKDAuNykKICAgIC5yb29tKDAuMTUpLm9yYml0KDIpCgogIC8vIGFjaWQgYmFzc2xpbmUg4oCUIHNhd3Rvb3RoIHRocm91Z2ggcmVzb25hbnQgZmlsdGVyIGVudmVsb3BlCiAgJDogbm90ZSgiYTEgW2ExIH4gYTFdIFt%2BIGMyIH5dIGExIFtlMSBlMSB%2BIGcxXSBhMSBbYzIgYTFdIFtnMSB%2BIGUxIH5dIikKICAgIC5zKCJzYXd0b290aCIpLmdhaW4oMC43KQogICAgLmxwZig0MDApLmxwcSgxMikubHBlbnYoNikubHBhKDAuMDEpLmxwZCgwLjEyKQogICAgLmRlY2F5KDAuMTUpLnN1c3RhaW4oMCkucmVsZWFzZSgwLjAyKQogICAgLmRpc3RvcnQoIjEuNTouNiIpCiAgICAuZXZlcnkoNCwgeCA9PiB4LmxwZig4MDApLmxwcSgxOCkpCiAgICAuZXZlcnkoMywgeCA9PiB4LmZhc3QoMikpCiAgICAub3JiaXQoMykKCiAgLy8gdHJhbmNlIGFycCDigJQgaHlwbm90aWMgcGF0dGVybiBpbiBBIG1pbm9yCiAgJDogbigiMCA0IDcgMTIgNyA0IDAgMTIiLmFkZCgiPDAgMyAtMiA1PiIpKQogICAgLnNjYWxlKCJBNDptaW5vciIpLnMoInN1cGVyc2F3IikuZ2FpbigwLjM1KQogICAgLmxwZihzaW5lLnJhbmdlKDEyMDAsIDUwMDApLnNsb3coOCkpCiAgICAuZGVjYXkoMC4xKS5zdXN0YWluKDAuMSkucmVsZWFzZSgwLjE1KQogICAgLmRlbGF5KDAuMykuZGVsYXl0aW1lKDMvMTYpLmRlbGF5ZmVlZGJhY2soMC40NSkKICAgIC5yb29tKDAuMTUpCiAgICAub3JiaXQoNCkKCiAgLy8gdHJhbmNlIHBhZCDigJQgc2xvdyBzdXBlcnNhdyB3YXNoCiAgJDogbm90ZSgiPFthMyxjNCxlNF0gW2YzLGEzLGM0XSBbZDMsZjMsYTNdIFtlMyxnMyxiM10%2BIikKICAgIC5zKCJzdXBlcnNhdyIpLmdhaW4oMC4yNSkKICAgIC5scGYoc2luZS5yYW5nZSg4MDAsIDMwMDApLnNsb3coMTYpKQogICAgLmF0dGFjaygwLjgpLnJlbGVhc2UoMS41KQogICAgLmNob3J1cygwLjUpCiAgICAucm9vbSgwLjQpCiAgICAub3JiaXQoNSkKCiAgLy8gcmlzZXIvdGVuc2lvbiDigJQgZmlsdGVyZWQgbm9pc2Ugc3dlZXAgZXZlcnkgOCBiYXJzCiAgJDogcygic2luZSIpLmdhaW4oMC4yKQogICAgLm5vdGUoImE1IikubHBmKHNhdy5yYW5nZSgyMDAsIDEyMDAwKS5zbG93KDgpKQogICAgLmF0dGFjaygyKS5yZWxlYXNlKDAuNSkKICAgIC5yb29tKDAuNSkuZGVsYXkoMC40KS5kZWxheXRpbWUoMS84KS5kZWxheWZlZWRiYWNrKDAuNSkKICAgIC5vcmJpdCg2KQ%3D%3D"
+            }
+          ],
+          "index": {
+            "byteEnd": 84,
+            "byteStart": 58
+          }
+        }
+      ],
+      "langs": [
+        "ja"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreiaqrpqyhasrmgt5wf74kc6rmcsandcdc4kdbqzumsnhsu3gdnla5u",
+          "uri": "at://did:plc:tecqdqisdgiquy2dy56tk56l/app.bsky.feed.post/3mdzgfxnir222"
+        },
+        "root": {
+          "cid": "bafyreiaqrpqyhasrmgt5wf74kc6rmcsandcdc4kdbqzumsnhsu3gdnla5u",
+          "uri": "at://did:plc:tecqdqisdgiquy2dy56tk56l/app.bsky.feed.post/3mdzgfxnir222"
+        }
+      },
+      "text": "acid/trans, 185bpmっていったらこれがでてきた\nstrudel.cc#CiAgc2V0Y3Bt..."
+    },
+    "cid": "bafyreids3nwbm74pdkyezjeay243tl4krt255phwoxlrwdcljx2gclxxg4"
+  }
+}
