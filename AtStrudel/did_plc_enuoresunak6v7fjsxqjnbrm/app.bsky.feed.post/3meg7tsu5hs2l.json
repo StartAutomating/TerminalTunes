@@ -1,0 +1,75 @@
+{
+  "did": "did:plc:enuoresunak6v7fjsxqjnbrm",
+  "time_us": 1770632272261047,
+  "kind": "commit",
+  "commit": {
+    "rev": "3meg7tt6ol52t",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3meg7tsu5hs2l",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-09T10:17:51.167Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by The Algorithm",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifj6cccslqgra6zdqrsl475tiqhfbitgfbdm277fz7x4nfn57uvra"
+            },
+            "mimeType": "image/jpeg",
+            "size": 75777
+          },
+          "title": "CAF0",
+          "uri": "https://youtube.com/shorts/S13a0a_8W_E?si=KgVqkAf4rs8jLGII"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:32y52tsobfv7bfqjdjy3jhen"
+            }
+          ],
+          "index": {
+            "byteEnd": 27,
+            "byteStart": 2
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc"
+            }
+          ],
+          "index": {
+            "byteEnd": 80,
+            "byteStart": 70
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://youtube.com/shorts/S13a0a_8W_E?si=KgVqkAf4rs8jLGII"
+            }
+          ],
+          "index": {
+            "byteEnd": 202,
+            "byteStart": 175
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": ". @thealg0rithm.bsky.social covering CAF0 by Animals as Leaders using strudel.cc has to be the absolute nerdiest thing ever. In the best possible way of course. 🤘🏻🤓\n\nyoutube.com/shorts/S13a0..."
+    },
+    "cid": "bafyreid6xitb5qdmlakvtgnq3nqadfwfv3b2prfex5b5wjuxygmuhx6dwe"
+  }
+}
