@@ -1,0 +1,110 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1770666625982849,
+  "kind": "commit",
+  "commit": {
+    "rev": "3meh7tniq6f2j",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3meh7tllnns2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-09T19:50:23.292Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Official",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia3rm5vmhpppqdllyetr3f75nqkrjtbyjrfpb4nfsqreohzqqcbuu"
+            },
+            "mimeType": "image/jpeg",
+            "size": 447515
+          },
+          "title": "How To Start Live Coding",
+          "uri": "https://www.youtube.com/watch?v=jFjA1CCx9ak"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 34,
+            "byteStart": 26
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 46,
+            "byteStart": 35
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "tutorial"
+            }
+          ],
+          "index": {
+            "byteEnd": 56,
+            "byteStart": 47
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "howto"
+            }
+          ],
+          "index": {
+            "byteEnd": 63,
+            "byteStart": 57
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 72,
+            "byteStart": 64
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=jFjA1CCx9ak"
+            }
+          ],
+          "index": {
+            "byteEnd": 112,
+            "byteStart": 81
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "How To Start Live Coding\n\n#strudel #livecoding #tutorial #howto #gosuraj\n\nVideo: www.youtube.com/watch?v=jFjA..."
+    },
+    "cid": "bafyreibq34m5mi7yg5uhuw25fptogu6266soui7yphk3ab7ku733hlkqw4"
+  }
+}
