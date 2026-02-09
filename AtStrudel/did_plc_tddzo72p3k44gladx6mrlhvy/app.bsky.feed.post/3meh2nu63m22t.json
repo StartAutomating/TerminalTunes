@@ -1,0 +1,60 @@
+{
+  "did": "did:plc:tddzo72p3k44gladx6mrlhvy",
+  "time_us": 1770661065577329,
+  "kind": "commit",
+  "commit": {
+    "rev": "3meh2nwsux223",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3meh2nu63m22t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-09T18:17:42.248Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Fur Family ",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicsmugm4m24uuhkuihjs6ss2c7xptqcydczgzf2cophkxrnopoewq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 833173
+          },
+          "title": "Clam Digs into Sand",
+          "uri": "https://www.youtube.com/watch?v=hsBVvlJjNtc"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=hsBVvlJjNtc"
+            }
+          ],
+          "index": {
+            "byteEnd": 140,
+            "byteStart": 109
+          }
+        }
+      ],
+      "langs": [
+        "de"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreiadha4jc7rxffxataogxdhzgunj2iunlgesveqimtmpb6cxlxlqcq",
+          "uri": "at://did:plc:tddzo72p3k44gladx6mrlhvy/app.bsky.feed.post/3meh2hmg6lk2t"
+        },
+        "root": {
+          "cid": "bafyreigy5scenpr3bpoi5ncw6bby6s77zdtpqmji5fic732nobc2fsp2be",
+          "uri": "at://did:plc:tddzo72p3k44gladx6mrlhvy/app.bsky.feed.post/3megzbfcmrc23"
+        }
+      },
+      "text": "Noch cooler - hier sieht man den Fuß (zum Graben) und die beiden Siphone (zum Wasser Ein- und Ausstrudeln)\n\nwww.youtube.com/watch?v=hsBV..."
+    },
+    "cid": "bafyreihr4aolnoc7lfnnrvf2kn7qabol523fei44namvbqbwetqguotkf4"
+  }
+}
