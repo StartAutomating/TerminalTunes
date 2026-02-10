@@ -1,0 +1,134 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1770749543165943,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mejn2rjb6y2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mejn2ojl2k22",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-10T18:52:19.37Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Official",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicpkl7qnocvsce5ur4jzmopp6voqryv5vijevwnnts3ypqgqqdnfe"
+            },
+            "mimeType": "image/jpeg",
+            "size": 416348
+          },
+          "title": "Live Coding Music: Custom Functions with GSB",
+          "uri": "https://www.youtube.com/watch?v=Rjfs126LJ6g"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 36,
+            "byteStart": 28
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 48,
+            "byteStart": 37
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "algorave"
+            }
+          ],
+          "index": {
+            "byteEnd": 58,
+            "byteStart": 49
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "drumbeat"
+            }
+          ],
+          "index": {
+            "byteEnd": 68,
+            "byteStart": 59
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "tutorial"
+            }
+          ],
+          "index": {
+            "byteEnd": 78,
+            "byteStart": 69
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "howto"
+            }
+          ],
+          "index": {
+            "byteEnd": 85,
+            "byteStart": 79
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 94,
+            "byteStart": 86
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=Rjfs126LJ6g"
+            }
+          ],
+          "index": {
+            "byteEnd": 134,
+            "byteStart": 103
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Live Coding Drums with GSB\n\n#strudel #livecoding #algorave #drumbeat #tutorial #howto #gosuraj\n\nVideo: www.youtube.com/watch?v=Rjfs..."
+    },
+    "cid": "bafyreiffh3johxwwm7ul6b7rwsnsbba237vpl2eaep54ajb4y5ywvykco4"
+  }
+}
