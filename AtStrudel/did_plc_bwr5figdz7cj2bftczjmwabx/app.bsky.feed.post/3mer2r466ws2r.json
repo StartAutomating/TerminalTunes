@@ -1,0 +1,122 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1771004771879762,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mer2r6q7zo2n",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mer2r466ws2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-13T17:46:08.688Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreigdtkzudueb55u5iwfsshgqgqwkfapp4vj7qpiamqxjfb7ed5gncy"
+            },
+            "mimeType": "image/jpeg",
+            "size": 456117
+          },
+          "title": "Live Coding Dreamy Melodies",
+          "uri": "https://www.youtube.com/watch?v=mI99PMshCSQ"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 61,
+            "byteStart": 50
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 89,
+            "byteStart": 81
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "algorave"
+            }
+          ],
+          "index": {
+            "byteEnd": 164,
+            "byteStart": 155
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "codingmusic"
+            }
+          ],
+          "index": {
+            "byteEnd": 177,
+            "byteStart": 165
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "edm"
+            }
+          ],
+          "index": {
+            "byteEnd": 182,
+            "byteStart": 178
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 191,
+            "byteStart": 183
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=mI99PMshCSQ"
+            }
+          ],
+          "index": {
+            "byteEnd": 231,
+            "byteStart": 200
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Live Coding Dreamy Melodies\n\nThis is recording of #livecoding dreamy melodies in #strudel for \"Something's There\", an original piece of music by GoSuraj.\n\n#algorave #codingmusic #edm #gosuraj\n\nVideo: www.youtube.com/watch?v=mI99..."
+    },
+    "cid": "bafyreih7rhkbjppbzlv7bmdqf3sec66nyfogtmf6wxxmldnaq56s42fhyy"
+  }
+}
