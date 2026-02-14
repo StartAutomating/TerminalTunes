@@ -1,0 +1,98 @@
+{
+  "did": "did:plc:fgvedrgmhpvzcsw3ts3uimgr",
+  "time_us": 1771036539260385,
+  "kind": "commit",
+  "commit": {
+    "rev": "3merydws6ca2v",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3merydvptd22r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-14T02:35:37.973Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Luna Lockhart",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreieurrrlqfjwf5a25w4yqzthkkck36hvb2ccr3t52ons7ywxzdhuxy"
+            },
+            "mimeType": "image/jpeg",
+            "size": 257646
+          },
+          "title": "bird-1.3gp",
+          "uri": "https://youtube.com/shorts/jLZm_VDe9z0"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 158,
+            "byteStart": 150
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 170,
+            "byteStart": 159
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "bird"
+            }
+          ],
+          "index": {
+            "byteEnd": 176,
+            "byteStart": 171
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "sample"
+            }
+          ],
+          "index": {
+            "byteEnd": 184,
+            "byteStart": 177
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://youtube.com/shorts/jLZm_VDe9z0"
+            }
+          ],
+          "index": {
+            "byteEnd": 213,
+            "byteStart": 186
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "This is a microcosm of my creative process when it comes to sampling. I'm sure I'll do something real with this, but this tickled my brain so, enjoy! #strudel #livecoding #bird #sample\n\nyoutube.com/shorts/jLZm_..."
+    },
+    "cid": "bafyreihvzc4b4xyutrt2mb6hnitz54w2pojnbomstsukn3ptkbn2xwtivi"
+  }
+}
