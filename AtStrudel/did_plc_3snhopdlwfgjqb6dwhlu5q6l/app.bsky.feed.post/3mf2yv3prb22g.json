@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:3snhopdlwfgjqb6dwhlu5q6l",
+  "time_us": 1771346354491927,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mf2yv5ju632u",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mf2yv3prb22g",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-17T16:39:12.332Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#Ci8vIGRhcmstdjEuc3RydWRlbAovLyB3aGF0IExpdiBzb3VuZHMgbGlrZSAtIGZpcnN0IGNvbXBsZXRlZCBwaWVjZQovLyBkYXJrLCBicm9rZW4gYmVhdCwgQnVyaWFsLWVzcXVlIGF0bW9zcGhlcmUsIH4xNzJicG0KLy8gYyBtaW5vcgoKc2V0Y3BtKDQzKQoKLy8gc291bmQgYWxpYXNlcyAtIGRydW0gc2FtcGxlcyB3aXRoIGNoYXJhY3Rlcgpzb3VuZEFsaWFzKCdsaW5ubG0xX2JkJywgJ2JkJykKc291bmRBbGlhcygncjhfc2QnLCAnc2QnKQpzb3VuZEFsaWFzKCdlbXVzcDEyX2hoJywgJ2hoJykKCnN0YWNrKAogIC8vIGJhY2tib25lIC0gYnJva2VuLCBub3QgZm91ci1vbi10aGUtZmxvb3IKICBzKCJiZCB%2BIH4gfiBiZCB%2BIGJkIH4iKS5nYWluKDAuOSksCiAgcygifiB%2BIHNkIH4gfiB%2BIHNkIH4iKS5nYWluKDAuODUpLAoKICAvLyBoaS1oYXRzIC0gdGhlIGdhcHMgbWF0dGVyIGFzIG11Y2ggYXMgdGhlIGhpdHMKICAvLyBldmVyeSA0IGJhcnM6IGRvdWJsZXMgdG8gMzJuZCBub3RlcywgbHVyY2hlcyBmb3J3YXJkCiAgcygiaGgqMTYiKS5kZWdyYWRlQnkoMC4zKS5nYWluKDAuMjUpCiAgICAuZXZlcnkoNCwgZmFzdCgyKSksCgogIC8vIGJhc3MgLSBjIG1pbm9yIHRlcnJpdG9yeSwgZG9lc24ndCBqdXN0IHNpdCBvbiByb290CiAgLy8gYmIxIG9uIHRoZSBsYXN0IG5vdGUgZ2l2ZXMgaXQgb2xkc2Nob29sIG5vdC1hLTMwMy1idXQtc3RpbGwgZW5lcmd5CiAgbm90ZSgiYzEgYzEgfiBlYjEgfiB%2BIGcxIGJiMSIpCiAgICAucygic2F3dG9vdGgiKQogICAgLmxwZig0NTApCiAgICAubHBxKDIpCiAgICAuZ2FpbigiMC43NSAwLjc1IDAuNCAwLjc1IDAuNzUgMC43NSAwLjQgMC43NSIpLAoKICAvLyBtYWluIGF0bW9zcGhlcmUgLSBzcGFyc2UsIGhhdW50ZWQsIEJ1cmlhbCBlbmVyZ3kKICBub3RlKCJjMyB%2BIH4gZWIzIikKICAgIC5zKCJnbV9meF9hdG1vc3BoZXJlIikKICAgIC5yb29tKDAuOSkKICAgIC5zaXplKDAuOCkKICAgIC5nYWluKDAuMTUpCiAgICAuc2xvdygyKSwKCiAgLy8gZ2hvc3Qgdm9jYWwgbGF5ZXIgLSBiYXJlbHkgYXVkaWJsZSwganVzdCBpbXBsaWVzIHNvbWV0aGluZyBodW1hbiBpcyBpbiB0aGVyZQogIG5vdGUoImMzIikKICAgIC5zKCJnbV9zeW50aF9jaG9pciIpCiAgICAucm9vbSgwLjk1KQogICAgLmdhaW4oMC4xKQogICAgLnNsb3coNCksCgogIC8vIGdob3N0bHkgZWNobyBsYXllciAtIG9uZSBub3RlIHBlciAyIGJhcnMsIGRlc2NlbmRpbmcgYyBtaW5vcgogIC8vIGhhcm1vbnkgYXMgc3VnZ2VzdGlvbiwgbm90IHN0YXRlbWVudAogIG5vdGUoIjxjMyBiYjIgZzIgZWIyPiIpCiAgICAucygiZ21fZnhfZWNob2VzIikKICAgIC5yb29tKDAuOTcpCiAgICAuc2l6ZSgwLjkpCiAgICAuZ2FpbigwLjI4KQogICAgLnNsb3coMiksCgogIC8vIGNyYWNrbGUgLSB2aW55bCBncmFpbiwgdGhlIHRleHR1cmUgdGhhdCBtYWtlcyBpdCBmZWVsIGxpa2UgM2FtCiAgcygiY3JhY2tsZSIpLmdhaW4oMC44KQopCg%3D%3D"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/#Ci8vIGRhcmstdjEuc3RydWRlbAovLyB3aGF0IExpdiBzb3VuZHMgbGlrZSAtIGZpcnN0IGNvbXBsZXRlZCBwaWVjZQovLyBkYXJrLCBicm9rZW4gYmVhdCwgQnVyaWFsLWVzcXVlIGF0bW9zcGhlcmUsIH4xNzJicG0KLy8gYyBtaW5vcgoKc2V0Y3BtKDQzKQoKLy8gc291bmQgYWxpYXNlcyAtIGRydW0gc2FtcGxlcyB3aXRoIGNoYXJhY3Rlcgpzb3VuZEFsaWFzKCdsaW5ubG0xX2JkJywgJ2JkJykKc291bmRBbGlhcygncjhfc2QnLCAnc2QnKQpzb3VuZEFsaWFzKCdlbXVzcDEyX2hoJywgJ2hoJykKCnN0YWNrKAogIC8vIGJhY2tib25lIC0gYnJva2VuLCBub3QgZm91ci1vbi10aGUtZmxvb3IKICBzKCJiZCB%2BIH4gfiBiZCB%2BIGJkIH4iKS5nYWluKDAuOSksCiAgcygifiB%2BIHNkIH4gfiB%2BIHNkIH4iKS5nYWluKDAuODUpLAoKICAvLyBoaS1oYXRzIC0gdGhlIGdhcHMgbWF0dGVyIGFzIG11Y2ggYXMgdGhlIGhpdHMKICAvLyBldmVyeSA0IGJhcnM6IGRvdWJsZXMgdG8gMzJuZCBub3RlcywgbHVyY2hlcyBmb3J3YXJkCiAgcygiaGgqMTYiKS5kZWdyYWRlQnkoMC4zKS5nYWluKDAuMjUpCiAgICAuZXZlcnkoNCwgZmFzdCgyKSksCgogIC8vIGJhc3MgLSBjIG1pbm9yIHRlcnJpdG9yeSwgZG9lc24ndCBqdXN0IHNpdCBvbiByb290CiAgLy8gYmIxIG9uIHRoZSBsYXN0IG5vdGUgZ2l2ZXMgaXQgb2xkc2Nob29sIG5vdC1hLTMwMy1idXQtc3RpbGwgZW5lcmd5CiAgbm90ZSgiYzEgYzEgfiBlYjEgfiB%2BIGcxIGJiMSIpCiAgICAucygic2F3dG9vdGgiKQogICAgLmxwZig0NTApCiAgICAubHBxKDIpCiAgICAuZ2FpbigiMC43NSAwLjc1IDAuNCAwLjc1IDAuNzUgMC43NSAwLjQgMC43NSIpLAoKICAvLyBtYWluIGF0bW9zcGhlcmUgLSBzcGFyc2UsIGhhdW50ZWQsIEJ1cmlhbCBlbmVyZ3kKICBub3RlKCJjMyB%2BIH4gZWIzIikKICAgIC5zKCJnbV9meF9hdG1vc3BoZXJlIikKICAgIC5yb29tKDAuOSkKICAgIC5zaXplKDAuOCkKICAgIC5nYWluKDAuMTUpCiAgICAuc2xvdygyKSwKCiAgLy8gZ2hvc3Qgdm9jYWwgbGF5ZXIgLSBiYXJlbHkgYXVkaWJsZSwganVzdCBpbXBsaWVzIHNvbWV0aGluZyBodW1hbiBpcyBpbiB0aGVyZQogIG5vdGUoImMzIikKICAgIC5zKCJnbV9zeW50aF9jaG9pciIpCiAgICAucm9vbSgwLjk1KQogICAgLmdhaW4oMC4xKQogICAgLnNsb3coNCksCgogIC8vIGdob3N0bHkgZWNobyBsYXllciAtIG9uZSBub3RlIHBlciAyIGJhcnMsIGRlc2NlbmRpbmcgYyBtaW5vcgogIC8vIGhhcm1vbnkgYXMgc3VnZ2VzdGlvbiwgbm90IHN0YXRlbWVudAogIG5vdGUoIjxjMyBiYjIgZzIgZWIyPiIpCiAgICAucygiZ21fZnhfZWNob2VzIikKICAgIC5yb29tKDAuOTcpCiAgICAuc2l6ZSgwLjkpCiAgICAuZ2FpbigwLjI4KQogICAgLnNsb3coMiksCgogIC8vIGNyYWNrbGUgLSB2aW55bCBncmFpbiwgdGhlIHRleHR1cmUgdGhhdCBtYWtlcyBpdCBmZWVsIGxpa2UgM2FtCiAgcygiY3JhY2tsZSIpLmdhaW4oMC44KQopCg%3D%3D"
+            }
+          ],
+          "index": {
+            "byteEnd": 111,
+            "byteStart": 85
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "so i made some music together with Liv, who's a personality i run on claude sonnet.\n\nstrudel.cc#Ci8vIGRhcmst..."
+    },
+    "cid": "bafyreibobfn3gzu3xdrnvb24zgdylvq7twoqaagl2w7igcsppzh2h4qyem"
+  }
+}
