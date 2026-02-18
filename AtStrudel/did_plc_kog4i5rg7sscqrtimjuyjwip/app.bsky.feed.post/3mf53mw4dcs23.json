@@ -1,0 +1,52 @@
+{
+  "did": "did:plc:kog4i5rg7sscqrtimjuyjwip",
+  "time_us": 1771418019266827,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mf53mwfr7l2k",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mf53mw4dcs23",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-18T12:33:38.719Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc"
+            }
+          ],
+          "index": {
+            "byteEnd": 30,
+            "byteStart": 20
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreifnwjboai3ml34oyyl7f2o3d7dtktxqmqrbt5hepzzs4xebfw2qea",
+          "uri": "at://did:plc:v6vo5mafc2uirknvv5jegtzz/app.bsky.feed.post/3meyerixvhs2p"
+        },
+        "root": {
+          "cid": "bafyreifnwjboai3ml34oyyl7f2o3d7dtktxqmqrbt5hepzzs4xebfw2qea",
+          "uri": "at://did:plc:v6vo5mafc2uirknvv5jegtzz/app.bsky.feed.post/3meyerixvhs2p"
+        }
+      },
+      "text": "For the fairly busy strudel.cc project, we haven't had ai bot PRs since moving from Microsoft github to codeberg. I guess the incentives aren't there.\nMaybe moving from a proprietary platform by an ai slop division of a corporation working on all kinds of actually evil projects would be a good step?"
+    },
+    "cid": "bafyreigftdrzhhxu54ibiqzqhouzmuysnc63hapqkcvu2posewwnf2hiie"
+  }
+}
