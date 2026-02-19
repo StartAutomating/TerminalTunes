@@ -1,0 +1,60 @@
+{
+  "did": "did:plc:dggduosvsnfxpgs3ja2ktiph",
+  "time_us": 1771475948555757,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mf6rldtyvj2c",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mf6rlhhkbk2p",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-19T04:39:11.862Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Nina Simone - Topic",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreib5oqji72nshokt2cvfjjuywcrlbzlx7slfo4xct7k7cobncbgnqu"
+            },
+            "mimeType": "image/jpeg",
+            "size": 424133
+          },
+          "title": "22nd Century",
+          "uri": "https://www.youtube.com/watch?v=MDg9Leplmyg&list=RDMDg9Leplmyg&start_radio=1"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=MDg9Leplmyg&list=RDMDg9Leplmyg&start_radio=1"
+            }
+          ],
+          "index": {
+            "byteEnd": 105,
+            "byteStart": 74
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreidhvsvswovd5d2agbkjylxjk3xylgmqel2ndxtfheb5xnl7kv5bta",
+          "uri": "at://did:plc:dxvemekviiarnscwrv4yiao2/app.bsky.feed.post/3mf3kvicjsg2x"
+        },
+        "root": {
+          "cid": "bafyreidhvsvswovd5d2agbkjylxjk3xylgmqel2ndxtfheb5xnl7kv5bta",
+          "uri": "at://did:plc:dxvemekviiarnscwrv4yiao2/app.bsky.feed.post/3mf3kvicjsg2x"
+        }
+      },
+      "text": "Amen!  Sister! \nI love music!  I am Antifa!  Do you know the strudels?   \nwww.youtube.com/watch?v=MDg9..."
+    },
+    "cid": "bafyreifgzdtpmppkxomhxbdtjt5zovds2lyv5yahtslutya3mhtliyqkai"
+  }
+}
