@@ -1,0 +1,134 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1771626366863203,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mfd5o5hcjv2c",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mfd5o2rw5c2t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-20T22:26:03.089Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreihloxatsj3vmmfpd5bvlg4jwugsukjhqehdzdrmu6xzsgexpimphe"
+            },
+            "mimeType": "image/jpeg",
+            "size": 987120
+          },
+          "title": "Coding Hip-Hop Crows in Strudel 5",
+          "uri": "https://www.youtube.com/watch?v=HYPD_qqj_30"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 67,
+            "byteStart": 56
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "hiphop"
+            }
+          ],
+          "index": {
+            "byteEnd": 75,
+            "byteStart": 68
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 93,
+            "byteStart": 85
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "algorave"
+            }
+          ],
+          "index": {
+            "byteEnd": 168,
+            "byteStart": 159
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "codingmusic"
+            }
+          ],
+          "index": {
+            "byteEnd": 181,
+            "byteStart": 169
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "edm"
+            }
+          ],
+          "index": {
+            "byteEnd": 186,
+            "byteStart": 182
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 195,
+            "byteStart": 187
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=HYPD_qqj_30"
+            }
+          ],
+          "index": {
+            "byteEnd": 235,
+            "byteStart": 204
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Coding Hip-Hop Crows in Strudel 5\n\nThis is recording of #livecoding #hiphop crows in #strudel for \"Something's There\", an original piece of music by GoSuraj.\n\n#algorave #codingmusic #edm #gosuraj\n\nVideo: www.youtube.com/watch?v=HYPD..."
+    },
+    "cid": "bafyreifbnd2nmsij3crldjux3grj5t3spfeo55fymar42qjagn2z7vt4cu"
+  }
+}
