@@ -1,0 +1,134 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1771872914780174,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mfkdbu5nsr2s",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mfkdbr5sgs2i",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-23T18:55:10.96Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreid4iuvpq3bayot4n5vgtc2w5sws576wmhoee7h53nrasenkeqs2ca"
+            },
+            "mimeType": "image/jpeg",
+            "size": 860380
+          },
+          "title": "Coding Dark Cowbells (#strudel Live Coding #6)",
+          "uri": "https://www.youtube.com/watch?v=VccIRfzysxI"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 55,
+            "byteStart": 47
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 67,
+            "byteStart": 56
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "algorave"
+            }
+          ],
+          "index": {
+            "byteEnd": 77,
+            "byteStart": 68
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "coding"
+            }
+          ],
+          "index": {
+            "byteEnd": 85,
+            "byteStart": 78
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "codingmusic"
+            }
+          ],
+          "index": {
+            "byteEnd": 99,
+            "byteStart": 87
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "edm"
+            }
+          ],
+          "index": {
+            "byteEnd": 104,
+            "byteStart": 100
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 113,
+            "byteStart": 105
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=VccIRfzysxI"
+            }
+          ],
+          "index": {
+            "byteEnd": 153,
+            "byteStart": 122
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Layering heavy cowbells into crow soundscapes\n\n#strudel #livecoding #algorave #coding  #codingmusic #edm #gosuraj\n\nVideo: www.youtube.com/watch?v=VccI..."
+    },
+    "cid": "bafyreiembbn3yvqdraaaonqdjf2hroviuojpblf3lzoy372htlfhvxxfrm"
+  }
+}
