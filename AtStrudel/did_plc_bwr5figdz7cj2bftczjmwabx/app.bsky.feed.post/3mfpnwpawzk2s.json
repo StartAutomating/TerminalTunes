@@ -1,0 +1,86 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1772056152458401,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mfpnwrd23d2n",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mfpnwpawzk2s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-25T21:49:09.719Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiee2qwregvyjrl573osqgbsfjujzlslz7txswbg2thajjpxnrtxcq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 748890
+          },
+          "title": "Something's There (Live Coding Music)",
+          "uri": "https://www.youtube.com/watch?v=F-OBIzvcGxo"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 111,
+            "byteStart": 103
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "livecoding"
+            }
+          ],
+          "index": {
+            "byteEnd": 123,
+            "byteStart": 112
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 132,
+            "byteStart": 124
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=F-OBIzvcGxo"
+            }
+          ],
+          "index": {
+            "byteEnd": 172,
+            "byteStart": 141
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Something's There (Live Coding Music)\n\nThe final \"Something's There\" song from the live coding series\n\n#strudel #livecoding #gosuraj\n\nVideo: www.youtube.com/watch?v=F-OB..."
+    },
+    "cid": "bafyreiezffu26luoligb7yemlj6d225kpmhu4fqyuxhhqc6lam7ekysfkm"
+  }
+}
