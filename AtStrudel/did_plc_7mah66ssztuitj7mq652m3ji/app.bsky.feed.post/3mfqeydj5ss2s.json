@@ -1,0 +1,60 @@
+{
+  "did": "did:plc:7mah66ssztuitj7mq652m3ji",
+  "time_us": 1772080902365912,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mfqeyevtq32n",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mfqeydj5ss2s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-26T04:41:40.576Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by The Midwest TV Guys",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreieucexujd2krumol4ht7zup6vbpqznqbdz4ungai6lrs2nicn6bk4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 56405
+          },
+          "title": "Hans Strudel   Welcome to Breakfürg",
+          "uri": "https://m.youtube.com/watch?v=CQQPms3EL8A"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://m.youtube.com/watch?v=CQQPms3EL8A"
+            }
+          ],
+          "index": {
+            "byteEnd": 59,
+            "byteStart": 30
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreid4rnubsl3mp54wrfyqclblzw43otz5rqhprhbq6x3hple37t7cym",
+          "uri": "at://did:plc:qt4x3vjjrllbji532qk4yxig/app.bsky.feed.post/3mfq6ipytpk2q"
+        },
+        "root": {
+          "cid": "bafyreid4rnubsl3mp54wrfyqclblzw43otz5rqhprhbq6x3hple37t7cym",
+          "uri": "at://did:plc:qt4x3vjjrllbji532qk4yxig/app.bsky.feed.post/3mfq6ipytpk2q"
+        }
+      },
+      "text": "Second date: toaster strudel:\nm.youtube.com/watch?v=CQQP..."
+    },
+    "cid": "bafyreiczj6bmvzqcqpvzr4yzgg7lu7bsxnqcm27x2jyitckhefjgpghvue"
+  }
+}
