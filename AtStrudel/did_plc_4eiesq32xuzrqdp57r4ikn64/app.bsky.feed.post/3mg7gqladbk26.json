@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:4eiesq32xuzrqdp57r4ikn64",
+  "time_us": 1772598185949884,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mg7gqmo5so2d",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mg7gqladbk26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-04T04:23:03.798Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Switch Angel",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiflae3ntkgq4nv4a2gp4t45fsum4gtqfwcn3x4c4phr356tbkkag4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 677255
+          },
+          "title": "Coding Music for Cold Machines (Narrated)",
+          "uri": "https://www.youtube.com/watch?v=AifAIqHezb8&t"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=AifAIqHezb8&t"
+            }
+          ],
+          "index": {
+            "byteEnd": 285,
+            "byteStart": 248
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "just discovered this INCREDIBLE musician named Switch Angel who uses a program called Strudel that lets you program music using code and LIVE CODES TRANCE?!?! 🤯\n\nabsolutely insane creativity and skill and her music is straight FIRE 🔥🔥🔥 www.youtube.com/watch?v=AifAIqHezb8&t"
+    },
+    "cid": "bafyreig2r75tdubnpvczt4fqlo4izt5572mks2fas6plw2eap3lgs3ecvu"
+  }
+}
