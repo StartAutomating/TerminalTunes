@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:bipb4dclecr6l5ddp43jhxpr",
+  "time_us": 1772999113172749,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mgl456pd6g27",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mgl4567dkk22",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-08T19:45:12.042Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding editor that brings TidalCycles to the browser.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreigzimhzmvni5dl3cor67ugk2qfwy6pqaewqurr646pkfq4hla7hxi"
+            },
+            "mimeType": "image/jpeg",
+            "size": 482587
+          },
+          "title": "Getting Started 🚀 Strudel",
+          "uri": "https://strudel.cc/workshop/getting-started/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/workshop/getting-started/"
+            }
+          ],
+          "index": {
+            "byteEnd": 301,
+            "byteStart": 275
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "just found strudel\n-live code music\n-algorithmic composition: compose music using tidal’s unique approach to pattern manipulation\n-teaching: focussing on a low barrier of entry, Strudel is a good fit for teaching music and code at the same time.\n\npress play on the thing:\n\nstrudel.cc/workshop/get..."
+    },
+    "cid": "bafyreiceby7brevpvpjrjbj5cc6vy4z3wwpymer4oywjvnjzgmbkwk4efy"
+  }
+}
