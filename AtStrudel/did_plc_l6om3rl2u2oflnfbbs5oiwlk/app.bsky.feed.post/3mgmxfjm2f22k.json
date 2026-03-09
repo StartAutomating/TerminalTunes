@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:l6om3rl2u2oflnfbbs5oiwlk",
+  "time_us": 1773062734570117,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mgmxfbbcrm2c",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mgmxfjm2f22k",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-09T13:25:43.196Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/"
+            }
+          ],
+          "index": {
+            "byteEnd": 64,
+            "byteStart": 54
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Streamer idea:\nEvery stream has a new BGM, powered by strudel.cc\nDoesn't always need to be 100% new, iterations are awesome."
+    },
+    "cid": "bafyreigmeg6zlptdxbhftn6k3g6gz6gurdaobam7xoqdk6ilssfvma2cbi"
+  }
+}
