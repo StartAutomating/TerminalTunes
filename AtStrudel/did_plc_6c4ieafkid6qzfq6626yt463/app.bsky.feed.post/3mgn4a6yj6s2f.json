@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:6c4ieafkid6qzfq6626yt463",
+  "time_us": 1773067932266987,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mgn4a63gwi2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mgn4a6yj6s2f",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-09T14:52:13.008Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#CgoKCmxldCBydW1ibGluZyA9IGFycmFuZ2UoCiAgWzgsICJbYzIsIGcyLCBnNF0vOCJdCikubm90ZSgpLnNvdW5kKCJ3aW5lZ2xhc3MiKQoKbGV0IHRpbmtseVBpYW5vID0gYXJyYW5nZSgKICBbNCwgIjxbfl1bfiBnNiBjNyozXVtjNyo0IGM3KjMgYzcqMl1bYzcqMiB%2BXT4iXQopLm5vdGUoKS5zb3VuZCgicGlhbm8iKS5nYWluKHNpbmUucmFuZ2UoMSwgMCkuc2xvdyg4KS5vZmZzZXQoMikpLmRlY2F5KDIpCgpsZXQgcXVlc3Rpb25pbmdQaWFubyA9IGFycmFuZ2UoCiAgWzEyLCAiPFt%2BXSE2IFtbZzMgW2M0IGViNCBkNF1dW2czIGM0IGViNCBkNF0qMl0gW1tnMyBjNCBlYjQgZDRdKjMgW2czIGM0IGViNCBkNF0qMl1bW2czIGM0IGViNCBkNF0gfiBnMyBjNCBlYjRdIFtkNCB%2BXT4iXQopLm5vdGUoKS5zb3VuZCgicGlhbm8iKS5kZWNheSgxKS5yb29tKDEpLmdhaW4oMC4yKQoKbGV0IG9jYXJpbmEgPSBhcnJhbmdlKAogIFs0LCAiPFtjNiBbZDZANEAzIGY1QDVdXSBbZTVAIH5dPi8yIl0sCiAgWzQsICI8W2M2IFtkNkA0QDMgZzVANV1dIFthYjUgYjVdPi8yIl0KKS5ub3RlKCkuc291bmQoImdtX29jYXJpbmEiKS5yb29tKDMpLmF0dGFjaygxKS5yZWxlYXNlKDAuMikuc2xvdygxLjMpCgpsZXQgc3RyaW5nU3dlbGwgPSBhcnJhbmdlKAogIFs2LCAiLSJdLAogIFsyLCAiPFthYjUsW2FiMixjMyxlYjMsYWIzXSBbZjIsYzMsZDMsZjNdXSBbYjUsIGcyLCBiMywgZDMsIGczXT4iXQopLm5vdGUoKS5zb3VuZCgiZ21fc3RyaW5nX2Vuc2VtYmxlXzEiKS5yb29tKDIpLmdhaW4oMC4yKS5hdHRhY2soMC4zKS5zbG93KDEuMykKCmxldCBzZWN0aW9uQSA9IGFycmFuZ2UoCiAgWzEwLCBzdGFjayhydW1ibGluZywgdGlua2x5UGlhbm8sIHF1ZXN0aW9uaW5nUGlhbm8pXSwKICBbMTAsIHN0YWNrKHJ1bWJsaW5nLCB0aW5rbHlQaWFubywgb2NhcmluYSwgc3RyaW5nU3dlbGwpXQopCgoKYXJyYW5nZShbOCwgc2VjdGlvbkFdKQ%3D%3D"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/#CgoKCmxldCBydW1ibGluZyA9IGFycmFuZ2UoCiAgWzgsICJbYzIsIGcyLCBnNF0vOCJdCikubm90ZSgpLnNvdW5kKCJ3aW5lZ2xhc3MiKQoKbGV0IHRpbmtseVBpYW5vID0gYXJyYW5nZSgKICBbNCwgIjxbfl1bfiBnNiBjNyozXVtjNyo0IGM3KjMgYzcqMl1bYzcqMiB%2BXT4iXQopLm5vdGUoKS5zb3VuZCgicGlhbm8iKS5nYWluKHNpbmUucmFuZ2UoMSwgMCkuc2xvdyg4KS5vZmZzZXQoMikpLmRlY2F5KDIpCgpsZXQgcXVlc3Rpb25pbmdQaWFubyA9IGFycmFuZ2UoCiAgWzEyLCAiPFt%2BXSE2IFtbZzMgW2M0IGViNCBkNF1dW2czIGM0IGViNCBkNF0qMl0gW1tnMyBjNCBlYjQgZDRdKjMgW2czIGM0IGViNCBkNF0qMl1bW2czIGM0IGViNCBkNF0gfiBnMyBjNCBlYjRdIFtkNCB%2BXT4iXQopLm5vdGUoKS5zb3VuZCgicGlhbm8iKS5kZWNheSgxKS5yb29tKDEpLmdhaW4oMC4yKQoKbGV0IG9jYXJpbmEgPSBhcnJhbmdlKAogIFs0LCAiPFtjNiBbZDZANEAzIGY1QDVdXSBbZTVAIH5dPi8yIl0sCiAgWzQsICI8W2M2IFtkNkA0QDMgZzVANV1dIFthYjUgYjVdPi8yIl0KKS5ub3RlKCkuc291bmQoImdtX29jYXJpbmEiKS5yb29tKDMpLmF0dGFjaygxKS5yZWxlYXNlKDAuMikuc2xvdygxLjMpCgpsZXQgc3RyaW5nU3dlbGwgPSBhcnJhbmdlKAogIFs2LCAiLSJdLAogIFsyLCAiPFthYjUsW2FiMixjMyxlYjMsYWIzXSBbZjIsYzMsZDMsZjNdXSBbYjUsIGcyLCBiMywgZDMsIGczXT4iXQopLm5vdGUoKS5zb3VuZCgiZ21fc3RyaW5nX2Vuc2VtYmxlXzEiKS5yb29tKDIpLmdhaW4oMC4yKS5hdHRhY2soMC4zKS5zbG93KDEuMykKCmxldCBzZWN0aW9uQSA9IGFycmFuZ2UoCiAgWzEwLCBzdGFjayhydW1ibGluZywgdGlua2x5UGlhbm8sIHF1ZXN0aW9uaW5nUGlhbm8pXSwKICBbMTAsIHN0YWNrKHJ1bWJsaW5nLCB0aW5rbHlQaWFubywgb2NhcmluYSwgc3RyaW5nU3dlbGwpXQopCgoKYXJyYW5nZShbOCwgc2VjdGlvbkFdKQ%3D%3D"
+            }
+          ],
+          "index": {
+            "byteEnd": 52,
+            "byteStart": 26
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Working on some ambience\n\nstrudel.cc#CgoKCmxldCBy..."
+    },
+    "cid": "bafyreic2mzrpchzzw23q7crxfads3pokdn6tqjfp4xqiwvoqjgbbhalieu"
+  }
+}
