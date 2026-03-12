@@ -1,0 +1,62 @@
+{
+  "did": "did:plc:ryrb37tvlnt7p26lxnybhskv",
+  "time_us": 1773332947683633,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mgut24uy3i24",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mguszzipbk2y",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-12T16:29:00.15Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Switch Angel",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicsrthm7y7ogzcohx4lyxqpp75rnm4fhdmf3nbnwwnpgesrs2g67a"
+            },
+            "mimeType": "image/jpeg",
+            "size": 960131
+          },
+          "title": "Coding Trance Music From Scratch YET AGAIN",
+          "uri": "https://www.youtube.com/watch?v=-pDO2RhcGhM"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/"
+            }
+          ],
+          "index": {
+            "byteEnd": 198,
+            "byteStart": 188
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=-pDO2RhcGhM"
+            }
+          ],
+          "index": {
+            "byteEnd": 248,
+            "byteStart": 217
+          }
+        }
+      ],
+      "langs": [
+        "pt"
+      ],
+      "text": "Ontem descobri esta moça aqui, usando o strudel pra montar a música, mas inserindo o processo de fazer música na música, muito meta, :P\n\nPra quem tem curiosidade, o strudel é online, strudel.cc, vai lá brincar\n\nwww.youtube.com/watch?v=-pDO..."
+    },
+    "cid": "bafyreidn5ir5fvf5xgges6yb6vpaflfbemjsibycst3j2mgzbasdhq2olq"
+  }
+}
