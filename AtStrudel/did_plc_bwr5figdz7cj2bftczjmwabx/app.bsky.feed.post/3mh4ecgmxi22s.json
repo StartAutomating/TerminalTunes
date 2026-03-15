@@ -1,0 +1,86 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1773591998364498,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mh4ecije5a2w",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mh4ecgmxi22s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-15T16:26:34.136Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreie373dyewetse7say2viws5yzgqsmjvv3v63m6tvnjyod4bbdoqgu"
+            },
+            "mimeType": "image/jpeg",
+            "size": 466846
+          },
+          "title": "Strudel X Achos Livecoding Crossover",
+          "uri": "https://www.youtube.com/watch?v=WeklZPizLbc"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 46,
+            "byteStart": 38
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "crossover"
+            }
+          ],
+          "index": {
+            "byteEnd": 57,
+            "byteStart": 47
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 66,
+            "byteStart": 58
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=WeklZPizLbc"
+            }
+          ],
+          "index": {
+            "byteEnd": 106,
+            "byteStart": 75
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Strudel X Achos Livecoding Crossover\n\n#strudel #crossover #gosuraj\n\nVideo: www.youtube.com/watch?v=Wekl..."
+    },
+    "cid": "bafyreibn36ctcruriginqhc4goh2ziojvcsewauzmuk6idgfqi7n2is2kq"
+  }
+}
