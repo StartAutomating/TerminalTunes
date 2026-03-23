@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:wwkkw6wqizk76hbk2n5chywx",
+  "time_us": 1774247298854265,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mhpglzd33u2f",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mhpgo4uqgs2l",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-23T06:29:29.069Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by JOLLY",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiek3ulhxdqgorgjoocvs5bab4y5dvnctus7xrqv3yaw6o57bpkfyu"
+            },
+            "mimeType": "image/jpeg",
+            "size": 37228
+          },
+          "title": "Two Brits try Apple Strudel with Arnold Schwarzenegger!",
+          "uri": "https://youtube.com/shorts/x5cs3QtoBNY?si=ifkdmqYyZYTBnW6f"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://youtube.com/shorts/x5cs3QtoBNY?si=ifkdmqYyZYTBnW6f"
+            }
+          ],
+          "index": {
+            "byteEnd": 108,
+            "byteStart": 81
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Jolly\n\nTwo Brits try Apfelstrudel with and Schnapps with Arnold Schwarzenegger.\n\nyoutube.com/shorts/x5cs3..."
+    },
+    "cid": "bafyreic2iv4xeeakzul4pgsl7ravkvnhg5hgo6jypevjqq7ag7lc73aatu"
+  }
+}
