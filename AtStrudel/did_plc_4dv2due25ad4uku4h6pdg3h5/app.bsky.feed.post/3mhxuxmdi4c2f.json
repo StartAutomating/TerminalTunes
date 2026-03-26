@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:4dv2due25ad4uku4h6pdg3h5",
+  "time_us": 1774537597061160,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mhxuxloo5b2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mhxuxmdi4c2f",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-26T15:06:37.565Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#JDogbigiPDAgNCAwIDkgNz4qOCIpLnNjYWxlKCJnOm1pbm9yIikudHJhbnMoLTEyKS5vKDMpLnMoInNhd3Rvb3RoIikuX3BpYW5vcm9sbCgpCg%3D%3D"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://Strudel.cc"
+            }
+          ],
+          "index": {
+            "byteEnd": 144,
+            "byteStart": 134
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/#JDogbigiPDAgNCAwIDkgNz4qOCIpLnNjYWxlKCJnOm1pbm9yIikudHJhbnMoLTEyKS5vKDMpLnMoInNhd3Rvb3RoIikuX3BpYW5vcm9sbCgpCg%3D%3D"
+            }
+          ],
+          "index": {
+            "byteEnd": 172,
+            "byteStart": 146
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Generar musica con JavaScript en un simple REPL.\n\nSuena interesante y lo es, un set de librerias para generar audio haciendo codigo.\n\nStrudel.cc\n\nstrudel.cc#JDogbigiPDAg..."
+    },
+    "cid": "bafyreid6o5idfv7zawezfrniccopo6x3x4qc3gheej7mavd2odredbazxe"
+  }
+}
