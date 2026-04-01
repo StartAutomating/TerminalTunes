@@ -1,0 +1,122 @@
+{
+  "did": "did:plc:s6aktb5lhdiiqikq3b33nupk",
+  "time_us": 1775076315464583,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mihkomyp3j2x",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mihkom5osc2u",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-01T20:45:13.781Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "TikTok video by Martin Gaudet",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreic2kvogt4wji5odn7tnnhkrcpzi43jhocuebbjza2v5rqs5hua35a"
+            },
+            "mimeType": "image/jpeg",
+            "size": 889169
+          },
+          "title": "Ça s'explique pas, ça se visionne… #mailletTV Combat de #maillets. Alexis «Qanon Kid» Cossette-Trudel vs. Stéphane «Swing and a Miss» Blais #maillet #fédélatapouette #sornettesstrudel #danslamour #for...",
+          "uri": "https://www.tiktok.com/@thegaumart/video/7623892912195063057?is_from_webapp=1&sender_device=pc"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "mailletTV"
+            }
+          ],
+          "index": {
+            "byteEnd": 49,
+            "byteStart": 39
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "maillets"
+            }
+          ],
+          "index": {
+            "byteEnd": 69,
+            "byteStart": 60
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "maillet"
+            }
+          ],
+          "index": {
+            "byteEnd": 157,
+            "byteStart": 149
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "fédélatapouette"
+            }
+          ],
+          "index": {
+            "byteEnd": 176,
+            "byteStart": 158
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "sornettesstrudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 194,
+            "byteStart": 177
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "danslamour"
+            }
+          ],
+          "index": {
+            "byteEnd": 206,
+            "byteStart": 195
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.tiktok.com/@thegaumart/video/7623892912195063057"
+            }
+          ],
+          "index": {
+            "byteEnd": 238,
+            "byteStart": 208
+          }
+        }
+      ],
+      "langs": [
+        "fr"
+      ],
+      "text": "Ça s'explique pas, ça se visionne… #mailletTV\nCombat de #maillets.\nAlexis «Qanon Kid» Cossette-Trudel vs. Stéphane «Swing and a Miss» Blais\n#maillet #fédélatapouette #sornettesstrudel #danslamour\n\nwww.tiktok.com/@thegaumart/..."
+    },
+    "cid": "bafyreicywwcxor7ylypnwhf6ypbupa6iwximhgpdn2cdaui2qvstsvs35e"
+  }
+}
