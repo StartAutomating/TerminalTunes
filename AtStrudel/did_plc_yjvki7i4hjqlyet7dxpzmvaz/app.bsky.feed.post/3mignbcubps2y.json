@@ -1,0 +1,62 @@
+{
+  "did": "did:plc:yjvki7i4hjqlyet7dxpzmvaz",
+  "time_us": 1775044731058188,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mignbdzhbp27",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mignbcubps2y",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-01T11:58:49.313Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by derapfelstrudel",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibdzd2b7oauriuesehd6ngae3jn3kizjfyfpaghwjqyy5uctm5hqq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 423306
+          },
+          "title": "Patti Smith - Babelogue",
+          "uri": "https://m.youtube.com/watch?v=2wDmR4sYZ2U"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://m.youtube.com/watch?v=2wDmR4sYZ2U"
+            }
+          ],
+          "index": {
+            "byteEnd": 53,
+            "byteStart": 24
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://m.youtube.com/@derapfelstrudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 108,
+            "byteStart": 79
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Patti Smith - Babelogue m.youtube.com/watch?v=2wDm... Video by derapfelstrudel m.youtube.com/@derapfelstr..."
+    },
+    "cid": "bafyreiagdul3gxnvrwobov24s3wp6hiuao4yk37n5op2jkte2fdm5rzjmu"
+  }
+}
