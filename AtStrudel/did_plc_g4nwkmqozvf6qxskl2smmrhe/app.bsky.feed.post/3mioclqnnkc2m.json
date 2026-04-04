@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:g4nwkmqozvf6qxskl2smmrhe",
+  "time_us": 1775308146558200,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mioclqx4jb2t",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mioclqnnkc2m",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-04T13:09:06.068Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc"
+            }
+          ],
+          "index": {
+            "byteEnd": 29,
+            "byteStart": 19
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "GLSL"
+            }
+          ],
+          "index": {
+            "byteEnd": 38,
+            "byteStart": 33
+          }
+        }
+      ],
+      "langs": [
+        "fr"
+      ],
+      "text": "Week-end détente:\nstrudel.cc et #GLSL"
+    },
+    "cid": "bafyreidqmtkgh43lphfg756giqnuw522hijpk2y4rp2d2psxbq4ctt7ij4"
+  }
+}
