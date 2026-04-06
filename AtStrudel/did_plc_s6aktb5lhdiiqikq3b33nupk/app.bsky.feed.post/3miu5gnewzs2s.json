@@ -1,0 +1,122 @@
+{
+  "did": "did:plc:s6aktb5lhdiiqikq3b33nupk",
+  "time_us": 1775508766850000,
+  "kind": "commit",
+  "commit": {
+    "rev": "3miu5gory2v2o",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3miu5gnewzs2s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-06T20:52:44.588Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "TikTok video by Martin Gaudet",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicwwm3vwjfcszsqjil6r7thffyzocdjpju5aolmhoijc7ea3d5lum"
+            },
+            "mimeType": "image/jpeg",
+            "size": 775067
+          },
+          "title": "Ça s'explique pas, ça se visionne… #mailletTV Du Alexis Sornettes-Strudel à son meilleur. #maillet #sornettes #movingthegoalpost #Trumptard #fèbjournal",
+          "uri": "https://www.tiktok.com/@thegaumart/video/7625685179465583873?is_from_webapp=1&sender_device=pc"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "mailletTV"
+            }
+          ],
+          "index": {
+            "byteEnd": 49,
+            "byteStart": 39
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "maillet"
+            }
+          ],
+          "index": {
+            "byteEnd": 103,
+            "byteStart": 95
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "sornettes"
+            }
+          ],
+          "index": {
+            "byteEnd": 114,
+            "byteStart": 104
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "movingthegoalpost"
+            }
+          ],
+          "index": {
+            "byteEnd": 133,
+            "byteStart": 115
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Trumptard"
+            }
+          ],
+          "index": {
+            "byteEnd": 144,
+            "byteStart": 134
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "ukraine"
+            }
+          ],
+          "index": {
+            "byteEnd": 153,
+            "byteStart": 145
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.tiktok.com/@thegaumart/video/7625685179465583873"
+            }
+          ],
+          "index": {
+            "byteEnd": 185,
+            "byteStart": 155
+          }
+        }
+      ],
+      "langs": [
+        "fr"
+      ],
+      "text": "Ça s'explique pas, ça se visionne… #mailletTV\nDu Alexis Sornettes-Strudel à son meilleur.\n#maillet #sornettes #movingthegoalpost #Trumptard #ukraine\n\nwww.tiktok.com/@thegaumart/..."
+    },
+    "cid": "bafyreib7hddw7dlutthmnfzn3bhpjgxftkjonze2kxefuxwfm7g3uyt4jy"
+  }
+}
