@@ -16,7 +16,7 @@ $Collections = @("app.bsky.feed.post"),
 $Dids = @(),
 
 [TimeSpan]
-$Since = [TimeSpan]::FromMinutes(240),
+$Since = [TimeSpan]::FromDays(1),
 
 [TimeSpan]
 $TimeOut = [TimeSpan]::FromMinutes(30),
