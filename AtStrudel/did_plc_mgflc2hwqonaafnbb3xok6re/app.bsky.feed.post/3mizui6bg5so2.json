@@ -1,0 +1,51 @@
+{
+  "did": "did:plc:mgflc2hwqonaafnbb3xok6re",
+  "time_us": 1775705319170079,
+  "kind": "commit",
+  "commit": {
+    "rev": "222223lit4l22",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mizui6bg5so2",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "bridgyOriginalText": "<p><blockquote>Btw, .5 is short for 0.5</blockquote>thank you, <a href=\"https://strudel.cc/workshop/first-effects/\">strudel docs</a></p>",
+      "bridgyOriginalUrl": "https://gaysex.cloud/notes/akuhd4m9kv0z0001",
+      "createdAt": "2026-04-09T03:27:18.945Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "$type": "app.bsky.embed.external#external",
+          "description": "Strudel is a music live coding editor that brings TidalCycles to the browser.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreif5vhu7xczwafykab3pvb6mjic6jbpbpmpqojlpfdq3c4jlq3dena"
+            },
+            "mimeType": "image/png",
+            "size": 35958
+          },
+          "title": "First Effects 🚀 Strudel",
+          "uri": "https://strudel.cc/workshop/first-effects/"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/workshop/first-effects/"
+            }
+          ],
+          "index": {
+            "byteEnd": 51,
+            "byteStart": 39
+          }
+        }
+      ],
+      "text": "> Btw, .5 is short for 0.5\n\nthank you, strudel docs"
+    },
+    "cid": "bafyreib47kraaxxd2kr2jjrcydohsbynnbsc3bewrmefsl5p7bdby7txpq"
+  }
+}
