@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:ggxuyrwdqqsumlklxqg5ge6u",
+  "time_us": 1775921761557790,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mja62vqxvu2v",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mja62vkj3s26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-11T15:36:01.107Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "",
+          "title": "",
+          "uri": "https://strudel.cc/#Ly8gUHJlYmFrZSBzY3JpcHQKLy8KLy8gVGhpcyBpcyBjb2RlIHRoYXQgaXMgbG9hZGVkIGJlZm9yZSB5b3VyIHBhdHRlcm4gaXMgcnVuLgovLyBZb3UgY2FuIHVzZSBpdCB0byBkZWZpbmUgY3VzdG9tIGZ1bmN0aW9ucyB0byB1c2UgaW4gYW55IHBhdHRlcm4uCi8vIAovLyBUaGlzIGlzIGFuIGluaXRpYWwgZXhhbXBsZSBzY3JpcHQuIFlvdSBjYW4gZWRpdCBpdCB0byBhZGQgCi8vIHlvdXIgb3duIGZ1bnRpb25zLgovLwovLyBUbyB1c2UgYSBzY3JpcHQgc2hhcmVkIGJ5IHNvbWUgb3RoZXIgdXNlciB5b3UgY2FuIHVzZQovLyB0aGUgaW1wb3J0LWJ1dHRvbiBvciBwYXN0ZSB0aGUgc2NyaXB0IGluIHRoaXMgZWRpdG9yLgoKY29uc3QgcmF0Y2hldCA9IHJlZ2lzdGVyKCdyYXRjaGV0JywgKHBhdCkgPT4gcGF0LnNvbWV0aW1lcyhwbHkoMikpKQoKJDogCnNvdW5kKGBiZCoxLjY2NjY2NjcgWy0gYmRdIFstIC1dIFtiZCAtXWApCi5zcGVlZCgwLjIpCi5scGYoNTAwKQouZGlzdG9ydCgxLjMpCgokOgpzb3VuZChgLSAtIGhoKjwxIDEgMSAxIDEgMSAxLjY2NjY2Njc%2BIC0gLSAtIGhoKjwxIDEgMSAxIDEgMSAxLjMzMzMzMz4gLWApCi5iYW5rKCJ0cjkwOSIpCi5zcGVlZCgwLjIpCi5kaXN0b3J0KDEuMykKLnNvbWV0aW1lc0J5KDAuMSwgeD0%2BeC5yb29tKDMpKQoKJDoKc291bmQoYC0gLSAtIC0gLSAtIC0gcmltKjwzIDIgMT5gKQouYmFuaygidHI3MDciKQouc3BlZWQoMC4yKQouZGlzdG9ydCgxLjUpCi5yb29tKCI8MCAwIDwyIDM%2BIDAgPDEgMj4%2BIikKLmRlY2F5KDAuMSkKCiQ6Cm4oYDw1IDMgMiAxIDYgPDExIC0xPiAwPmApCi5zY2FsZSgiQmI6bG9jcmlhbiIpCi50cmFucygtMjQpCi5zb3VuZCgnc2F3dG9vdGgnKQouZGlzdG9ydCg0KQouZ2FpbigwLjAzKQouc29tZUN5Y2xlc0J5KDAuOCwgeD0%2BeC5scGYoMjUwKSkKCiQ6Cm4oYDw8OSAtMSAwIDEgOSA4PiA0IDUgPDYgNiA2IDM%2BIC0gLSAtIC0gPio4LCAtLS0tLS0tLWApCi5zY2FsZSgiQmI6bG9jcmlhbiIpCi5zb3VuZCgiZ21fa290byIpCi5scGYoMjAwKS5scGVudig0KS5scGQoLjEpLmxwcygwKQouZGlzdG9ydCgzKS5nYWluKDAuMykKLm1hc2soIjwwIDE%2BIi5zbG93KDQpKQouc29tZUN5Y2xlc0J5KDAuMSwgeD0%2BeC5yb29tKDIpKQoKJDoKbihgPDUgNSA1IDUgMiAyIDUgNSA1IDUgMiA3IDIgNSAyIDUgNSA3IDIgNz4qMzJgKQouc2NhbGUoIkJiOmxvY3JpYW4iKQouc291bmQoImdtX2FwcGxhdXNlIikKLnBhbigiPDAuMjUgMC43NT4iKQouZ2FpbigwLjUpCi5tYXNrKCI8MCAxPiIuc2xvdyg2KSkKLnNvbWVDeWNsZXNCeSgwLjMsIHg9Pnguc3BlZWQoLTEpKQ%3D%3D"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/#Ly8gUHJlYmFrZSBzY3JpcHQKLy8KLy8gVGhpcyBpcyBjb2RlIHRoYXQgaXMgbG9hZGVkIGJlZm9yZSB5b3VyIHBhdHRlcm4gaXMgcnVuLgovLyBZb3UgY2FuIHVzZSBpdCB0byBkZWZpbmUgY3VzdG9tIGZ1bmN0aW9ucyB0byB1c2UgaW4gYW55IHBhdHRlcm4uCi8vIAovLyBUaGlzIGlzIGFuIGluaXRpYWwgZXhhbXBsZSBzY3JpcHQuIFlvdSBjYW4gZWRpdCBpdCB0byBhZGQgCi8vIHlvdXIgb3duIGZ1bnRpb25zLgovLwovLyBUbyB1c2UgYSBzY3JpcHQgc2hhcmVkIGJ5IHNvbWUgb3RoZXIgdXNlciB5b3UgY2FuIHVzZQovLyB0aGUgaW1wb3J0LWJ1dHRvbiBvciBwYXN0ZSB0aGUgc2NyaXB0IGluIHRoaXMgZWRpdG9yLgoKY29uc3QgcmF0Y2hldCA9IHJlZ2lzdGVyKCdyYXRjaGV0JywgKHBhdCkgPT4gcGF0LnNvbWV0aW1lcyhwbHkoMikpKQoKJDogCnNvdW5kKGBiZCoxLjY2NjY2NjcgWy0gYmRdIFstIC1dIFtiZCAtXWApCi5zcGVlZCgwLjIpCi5scGYoNTAwKQouZGlzdG9ydCgxLjMpCgokOgpzb3VuZChgLSAtIGhoKjwxIDEgMSAxIDEgMSAxLjY2NjY2Njc%2BIC0gLSAtIGhoKjwxIDEgMSAxIDEgMSAxLjMzMzMzMz4gLWApCi5iYW5rKCJ0cjkwOSIpCi5zcGVlZCgwLjIpCi5kaXN0b3J0KDEuMykKLnNvbWV0aW1lc0J5KDAuMSwgeD0%2BeC5yb29tKDMpKQoKJDoKc291bmQoYC0gLSAtIC0gLSAtIC0gcmltKjwzIDIgMT5gKQouYmFuaygidHI3MDciKQouc3BlZWQoMC4yKQouZGlzdG9ydCgxLjUpCi5yb29tKCI8MCAwIDwyIDM%2BIDAgPDEgMj4%2BIikKLmRlY2F5KDAuMSkKCiQ6Cm4oYDw1IDMgMiAxIDYgPDExIC0xPiAwPmApCi5zY2FsZSgiQmI6bG9jcmlhbiIpCi50cmFucygtMjQpCi5zb3VuZCgnc2F3dG9vdGgnKQouZGlzdG9ydCg0KQouZ2FpbigwLjAzKQouc29tZUN5Y2xlc0J5KDAuOCwgeD0%2BeC5scGYoMjUwKSkKCiQ6Cm4oYDw8OSAtMSAwIDEgOSA4PiA0IDUgPDYgNiA2IDM%2BIC0gLSAtIC0gPio4LCAtLS0tLS0tLWApCi5zY2FsZSgiQmI6bG9jcmlhbiIpCi5zb3VuZCgiZ21fa290byIpCi5scGYoMjAwKS5scGVudig0KS5scGQoLjEpLmxwcygwKQouZGlzdG9ydCgzKS5nYWluKDAuMykKLm1hc2soIjwwIDE%2BIi5zbG93KDQpKQouc29tZUN5Y2xlc0J5KDAuMSwgeD0%2BeC5yb29tKDIpKQoKJDoKbihgPDUgNSA1IDUgMiAyIDUgNSA1IDUgMiA3IDIgNSAyIDUgNSA3IDIgNz4qMzJgKQouc2NhbGUoIkJiOmxvY3JpYW4iKQouc291bmQoImdtX2FwcGxhdXNlIikKLnBhbigiPDAuMjUgMC43NT4iKQouZ2FpbigwLjUpCi5tYXNrKCI8MCAxPiIuc2xvdyg2KSkKLnNvbWVDeWNsZXNCeSgwLjMsIHg9Pnguc3BlZWQoLTEpKQ%3D%3D"
+            }
+          ],
+          "index": {
+            "byteEnd": 26,
+            "byteStart": 0
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "strudel.cc#Ly8gUHJlYmFr..."
+    },
+    "cid": "bafyreiaq2zgljnx6m4ckjzr6yinsjw2jjciq6wxfx3gc2cyxgqi34qgkla"
+  }
+}
