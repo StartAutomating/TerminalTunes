@@ -1,0 +1,36 @@
+{
+  "did": "did:plc:mozetwtm547wvuj723e7p2da",
+  "time_us": 1776099918452397,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjfdyff4hc2f",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjfdyde6fs2y",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-13T17:05:16.059Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Ken Goffman aka R.U. Sirius",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibzbnfg5chztr2qf54dyvvkq2hewowftiqz64bxvd5gpmah7hlw3i"
+            },
+            "mimeType": "image/jpeg",
+            "size": 895594
+          },
+          "title": "Not A Bug But A Feature Steve Fly Agaric 23 with R.U.  Sirius",
+          "uri": "https://www.youtube.com/watch?v=nUuFOBKFFuM&list=PLg7XK3J0f1Y_BlDmjNvf3LX3bbG0ZuuOt&index=2"
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "Not A Bug But A Feature\n\nWe all have a lot of drugs\nIt’s not a bug it’s a feature\nAnd me I’m easily buzzed\nSo I can give you a bunch of my drugs\n\nThey tell me hugs not studs\nThey tell me don’t piss in the strudel\nBut I don’t care for their advice\nI’ve got some drugs to make me nice"
+    },
+    "cid": "bafyreigbwfebtxd27ctbprw7f2bopdj2tzvb553pmbvd4mzlnd7lyhocw4"
+  }
+}
