@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:ggxuyrwdqqsumlklxqg5ge6u",
+  "time_us": 1776266093459360,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjk6qsbaiw2v",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjk6qs6jtk2a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-15T15:14:53.15Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#Ly8gUHJlYmFrZSBzY3JpcHQKLy8KLy8gVGhpcyBpcyBjb2RlIHRoYXQgaXMgbG9hZGVkIGJlZm9yZSB5b3VyIHBhdHRlcm4gaXMgcnVuLgovLyBZb3UgY2FuIHVzZSBpdCB0byBkZWZpbmUgY3VzdG9tIGZ1bmN0aW9ucyB0byB1c2UgaW4gYW55IHBhdHRlcm4uCi8vIAovLyBUaGlzIGlzIGFuIGluaXRpYWwgZXhhbXBsZSBzY3JpcHQuIFlvdSBjYW4gZWRpdCBpdCB0byBhZGQgCi8vIHlvdXIgb3duIGZ1bnRpb25zLgovLwovLyBUbyB1c2UgYSBzY3JpcHQgc2hhcmVkIGJ5IHNvbWUgb3RoZXIgdXNlciB5b3UgY2FuIHVzZQovLyB0aGUgaW1wb3J0LWJ1dHRvbiBvciBwYXN0ZSB0aGUgc2NyaXB0IGluIHRoaXMgZWRpdG9yLgoKY29uc3QgcmF0Y2hldCA9IHJlZ2lzdGVyKCdyYXRjaGV0JywgKHBhdCkgPT4gcGF0LnNvbWV0aW1lcyhwbHkoMikpKQoKY29uc3QgaW5jQnkgPSAobm90ZUxlbiwgc3RlcCkgPT4gc2VxdWVuY2UoLi4uQXJyYXkuZnJvbSh7bGVuZ3RoOm5vdGVMZW59KS5tYXAoKF8saSk9PnN0ZXAqaSkpCgoKY3JlZXBpbmdPaDogc291bmQoIm9oKjE2IikKICAuYmFuaygiUm9sYW5kVFI4MDgiKQogIC5zcGVlZCgiMS40IikKICAuZGVsYXkoMC4yKS5kZWxheXRpbWUoMC4wNSkKICAuZ2FpbihpbmNCeSgxNiwgMC4yKSkKICAuY2xpcCgxKQogIC5vcmJpdCg0MikKICAucGFuKDApCiAgLm9mZigxLzEyOCwgeCA9PiB4CiAgICAgICAucGFuKDEpCiAgKQogIC5wb3N0Z2FpbigwLjUpCgpraWNrOiBub3RlKCJjMSo8MSAxLjMzMz4gYzEgW2MxIDwtIC0gLSBjMD5dIFtjMSA8LSBjMD5dIikucygic2luZSIpCiAgLmRlY2F5KC41KS5zdXN0YWluKDApLnBlbnYoMjQpLnBkZWNheSguMSkKICAuaGFyZCgyKQogIC5kdWNrKDQyKS5kdWNrYXR0YWNrKDAuMSkuZHVja3JlbGVhc2UoMC4xKS5kdWNrZGVwdGgoMSkKICAucG9zdGdhaW4oMC43KQoKcmltOiBzKGAKICAtIHJpbSAtIHJpbSAtIHJpbSAtIHJpbQogIC0gW3JpbSozIC0gXSAtIHJpbSAtIHJpbSoxLjMzMyAtIHJpbQogIC0gcmltIC0gcmltIC0gcmltIC0gcmltKjEuNjY2CiAgLSBbcmltKjVdIC0gcmltIC0gcmltIC0gcmltKjMuNQpgKQogIC5iYW5rKCJSb2xhbmRUcjgwOCIpCiAgLnNsb3coOCkKICAucm9vbSgiWzF8MC4yfDB8MC41XSIpLnJvb21zaXplKCJbN3wwfDF8NXwyfDddIikKICAuZHVjayg0MikuZHVja2F0dGFjaygwLjEpLmR1Y2tyZWxlYXNlKDAuMSkuZHVja2RlcHRoKDEpCgpzeW50aDogbm90ZShgCiAgYSMqWzF8MS42NjZdIGEgZCMgZCpbMXwyLjMzM10KICAtIC0gLSAtCiAgYSMgYSBbZCN8ZXxiXSBkCiAgLSAtIC0gLQogIGEjKlsxfDIuMzMzXSBhIGQjIGQqWzF8MS4zMzNdCiAgLSAtIC0gLQogIGEjIGEqWzEuMzMzfDIuNV0gW2QjfGV8Yl0gZCpbMi41fDEuMzMzXQogIC0gLSAtIC0KYCkuc2xvdyg4KQogIC5kZWMoMC41KQogIC5jbGlwKDEpCiAgLnNjYWxlKCJHOkRvcmlhbiIpCiAgLmFkZChub3RlKC0yNCkpCiAgLnNvdW5kKCJnbV9hY291c3RpY19iYXNzIikKICAubHBmKDYwMCkubHBxKDM2KQogIC5kaXN0b3J0KCIyOjAuMzpzaW5lZm9sZCIpCiAgLmNvbXByZXNzb3IoIi0yMDoxMDA6MTA6LjAwMjouMDIiKQogIC5kdWNrKDQyKS5kdWNrYXR0YWNrKDAuMSkuZHVja3JlbGVhc2UoMC4xKS5kdWNrZGVwdGgoMSkKICAub2ZmKCJbMS42NjZ8MS41fDIuMzMzXSIsIHggPT4gCiAgICB4LmFkZChub3RlKCJbMjR8Mjl8MTddIikpCiAgICAgICAuZGVsYXkoMC42KS5kZWxheXNwZWVkKCJbMC4xfDAuNF0iKQogICAgICAgLmhwZigxMDAwKQogICAgICAgLmxwZig3MDApCiAgICAgICAucGFuKCJbMC4yfDAuOF0iKQogICAgICAgLnBvc3RnYWluKDAuMykKICApCg%3D%3D"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/#Ly8gUHJlYmFrZSBzY3JpcHQKLy8KLy8gVGhpcyBpcyBjb2RlIHRoYXQgaXMgbG9hZGVkIGJlZm9yZSB5b3VyIHBhdHRlcm4gaXMgcnVuLgovLyBZb3UgY2FuIHVzZSBpdCB0byBkZWZpbmUgY3VzdG9tIGZ1bmN0aW9ucyB0byB1c2UgaW4gYW55IHBhdHRlcm4uCi8vIAovLyBUaGlzIGlzIGFuIGluaXRpYWwgZXhhbXBsZSBzY3JpcHQuIFlvdSBjYW4gZWRpdCBpdCB0byBhZGQgCi8vIHlvdXIgb3duIGZ1bnRpb25zLgovLwovLyBUbyB1c2UgYSBzY3JpcHQgc2hhcmVkIGJ5IHNvbWUgb3RoZXIgdXNlciB5b3UgY2FuIHVzZQovLyB0aGUgaW1wb3J0LWJ1dHRvbiBvciBwYXN0ZSB0aGUgc2NyaXB0IGluIHRoaXMgZWRpdG9yLgoKY29uc3QgcmF0Y2hldCA9IHJlZ2lzdGVyKCdyYXRjaGV0JywgKHBhdCkgPT4gcGF0LnNvbWV0aW1lcyhwbHkoMikpKQoKY29uc3QgaW5jQnkgPSAobm90ZUxlbiwgc3RlcCkgPT4gc2VxdWVuY2UoLi4uQXJyYXkuZnJvbSh7bGVuZ3RoOm5vdGVMZW59KS5tYXAoKF8saSk9PnN0ZXAqaSkpCgoKY3JlZXBpbmdPaDogc291bmQoIm9oKjE2IikKICAuYmFuaygiUm9sYW5kVFI4MDgiKQogIC5zcGVlZCgiMS40IikKICAuZGVsYXkoMC4yKS5kZWxheXRpbWUoMC4wNSkKICAuZ2FpbihpbmNCeSgxNiwgMC4yKSkKICAuY2xpcCgxKQogIC5vcmJpdCg0MikKICAucGFuKDApCiAgLm9mZigxLzEyOCwgeCA9PiB4CiAgICAgICAucGFuKDEpCiAgKQogIC5wb3N0Z2FpbigwLjUpCgpraWNrOiBub3RlKCJjMSo8MSAxLjMzMz4gYzEgW2MxIDwtIC0gLSBjMD5dIFtjMSA8LSBjMD5dIikucygic2luZSIpCiAgLmRlY2F5KC41KS5zdXN0YWluKDApLnBlbnYoMjQpLnBkZWNheSguMSkKICAuaGFyZCgyKQogIC5kdWNrKDQyKS5kdWNrYXR0YWNrKDAuMSkuZHVja3JlbGVhc2UoMC4xKS5kdWNrZGVwdGgoMSkKICAucG9zdGdhaW4oMC43KQoKcmltOiBzKGAKICAtIHJpbSAtIHJpbSAtIHJpbSAtIHJpbQogIC0gW3JpbSozIC0gXSAtIHJpbSAtIHJpbSoxLjMzMyAtIHJpbQogIC0gcmltIC0gcmltIC0gcmltIC0gcmltKjEuNjY2CiAgLSBbcmltKjVdIC0gcmltIC0gcmltIC0gcmltKjMuNQpgKQogIC5iYW5rKCJSb2xhbmRUcjgwOCIpCiAgLnNsb3coOCkKICAucm9vbSgiWzF8MC4yfDB8MC41XSIpLnJvb21zaXplKCJbN3wwfDF8NXwyfDddIikKICAuZHVjayg0MikuZHVja2F0dGFjaygwLjEpLmR1Y2tyZWxlYXNlKDAuMSkuZHVja2RlcHRoKDEpCgpzeW50aDogbm90ZShgCiAgYSMqWzF8MS42NjZdIGEgZCMgZCpbMXwyLjMzM10KICAtIC0gLSAtCiAgYSMgYSBbZCN8ZXxiXSBkCiAgLSAtIC0gLQogIGEjKlsxfDIuMzMzXSBhIGQjIGQqWzF8MS4zMzNdCiAgLSAtIC0gLQogIGEjIGEqWzEuMzMzfDIuNV0gW2QjfGV8Yl0gZCpbMi41fDEuMzMzXQogIC0gLSAtIC0KYCkuc2xvdyg4KQogIC5kZWMoMC41KQogIC5jbGlwKDEpCiAgLnNjYWxlKCJHOkRvcmlhbiIpCiAgLmFkZChub3RlKC0yNCkpCiAgLnNvdW5kKCJnbV9hY291c3RpY19iYXNzIikKICAubHBmKDYwMCkubHBxKDM2KQogIC5kaXN0b3J0KCIyOjAuMzpzaW5lZm9sZCIpCiAgLmNvbXByZXNzb3IoIi0yMDoxMDA6MTA6LjAwMjouMDIiKQogIC5kdWNrKDQyKS5kdWNrYXR0YWNrKDAuMSkuZHVja3JlbGVhc2UoMC4xKS5kdWNrZGVwdGgoMSkKICAub2ZmKCJbMS42NjZ8MS41fDIuMzMzXSIsIHggPT4gCiAgICB4LmFkZChub3RlKCJbMjR8Mjl8MTddIikpCiAgICAgICAuZGVsYXkoMC42KS5kZWxheXNwZWVkKCJbMC4xfDAuNF0iKQogICAgICAgLmhwZigxMDAwKQogICAgICAgLmxwZig3MDApCiAgICAgICAucGFuKCJbMC4yfDAuOF0iKQogICAgICAgLnBvc3RnYWluKDAuMykKICApCg%3D%3D"
+            }
+          ],
+          "index": {
+            "byteEnd": 26,
+            "byteStart": 0
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "strudel.cc#Ly8gUHJlYmFr..."
+    },
+    "cid": "bafyreihpzry2rbnt7z33tj47puoyo4xnyaoge6oge2udpe4ilfwtea3mii"
+  }
+}
