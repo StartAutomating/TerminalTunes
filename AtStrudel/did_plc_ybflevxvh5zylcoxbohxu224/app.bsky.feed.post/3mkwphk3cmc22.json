@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:ybflevxvh5zylcoxbohxu224",
+  "time_us": 1777795867468520,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mkwphmcacj2b",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mkwphk3cmc22",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-05-03T08:11:04.766Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#c2V0Y3BtKDE4MC80KQokOiBzKCJiZCBzZCIpLmJhbmsoInRyNzA3IikKCi8vIHBvbyBwb28gcGVlIHBlZQoKJDogbm90ZShgPApbYzMgYzMgZzMgZCMzQDNdCltiMiBiMiBnMyBkM0AzXQpbZCMzIGczIGQjMyBjM0AzXQpbYzMgYjIqMyBjMiBiMiozXQo%2BYCkuc291bmQoInN1cGVyc2F3IikKICAuX3BpYW5vcm9sbCh7IGxhYmVsczogMSB9KQokOiBub3RlKGA8CltbPFtjMywgZCMzXSB%2BPl1AMyBbZCMzLCBiM11AM10KW1tiMiwgZCMzXUAzIFtkMywgYjJdQDNdCltbZCMzLCBnMl1AMyBbYzMsIGEjMl1AM10KW1tjMywgZzMsIGM0XUAyIFtjMiwgZjMsIGMzXUAyXQo%2BYCkuc291bmQoImdtX2VwaWFubzEiKS5fcGlhbm9yb2xsKHsgbGFiZWxzOiAxIH0p"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/#c2V0Y3BtKDE4MC80KQokOiBzKCJiZCBzZCIpLmJhbmsoInRyNzA3IikKCi8vIHBvbyBwb28gcGVlIHBlZQoKJDogbm90ZShgPApbYzMgYzMgZzMgZCMzQDNdCltiMiBiMiBnMyBkM0AzXQpbZCMzIGczIGQjMyBjM0AzXQpbYzMgYjIqMyBjMiBiMiozXQo%2BYCkuc291bmQoInN1cGVyc2F3IikKICAuX3BpYW5vcm9sbCh7IGxhYmVsczogMSB9KQokOiBub3RlKGA8CltbPFtjMywgZCMzXSB%2BPl1AMyBbZCMzLCBiM11AM10KW1tiMiwgZCMzXUAzIFtkMywgYjJdQDNdCltbZCMzLCBnMl1AMyBbYzMsIGEjMl1AM10KW1tjMywgZzMsIGM0XUAyIFtjMiwgZjMsIGMzXUAyXQo%2BYCkuc291bmQoImdtX2VwaWFubzEiKS5fcGlhbm9yb2xsKHsgbGFiZWxzOiAxIH0p"
+            }
+          ],
+          "index": {
+            "byteEnd": 251,
+            "byteStart": 225
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "i like strudel but my brain is not really wired to do both programming and music at the same time\n\ni end up having to imagine a piano roll in my head first anyway\n\ni guess having scales helps, but i don't like being limited\n\nstrudel.cc#c2V0Y3BtKDE4..."
+    },
+    "cid": "bafyreicu7vbf45sarvxfyyoqss74gbauz3n4bgkys2lslhucrqdlndywg4"
+  }
+}
