@@ -1,0 +1,74 @@
+{
+  "did": "did:plc:fe4l6fwemhchpjnlh677gp7o",
+  "time_us": 1777862074583402,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mkyn4pqr3r2g",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mkyn4mg2uc2v",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-05-04T02:34:30.109Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by The Meatmen (Official)",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreic3eb5ffa2qfdsuljox7ejain2gkcghpqov65o6drvgy6vwrxhyui"
+            },
+            "mimeType": "image/jpeg",
+            "size": 747200
+          },
+          "title": "The Meatmen - Dichstrudel",
+          "uri": "https://www.youtube.com/watch?v=3mrQYZIv2gY#ddg-play"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "52WeeksOfFavourites"
+            }
+          ],
+          "index": {
+            "byteEnd": 20,
+            "byteStart": 0
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MusicChallenge"
+            }
+          ],
+          "index": {
+            "byteEnd": 36,
+            "byteStart": 21
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=3mrQYZIv2gY#ddg-play"
+            }
+          ],
+          "index": {
+            "byteEnd": 112,
+            "byteStart": 81
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "#52WeeksOfFavourites\n#MusicChallenge\nAlphabet Week: D\nthe MEATMEN\n\"Dichstrudel\"\n\nwww.youtube.com/watch?v=3mrQ..."
+    },
+    "cid": "bafyreicrcyn6kqaqk5etptjrdoblp2c7b5u55fihewvqm26e23yfo4ciwe"
+  }
+}
