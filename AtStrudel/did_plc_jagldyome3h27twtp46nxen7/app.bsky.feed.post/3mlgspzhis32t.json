@@ -1,0 +1,52 @@
+{
+  "did": "did:plc:jagldyome3h27twtp46nxen7",
+  "time_us": 1778349127500172,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mlgsq2ihlg2i",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mlgspzhis32t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-05-09T17:52:06.368Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/"
+            }
+          ],
+          "index": {
+            "byteEnd": 204,
+            "byteStart": 194
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreidqdumfesi5nwcjjtafuvz5j36aapwkikxqc3jeglcnhabtrlhega",
+          "uri": "at://did:plc:wctbmhnxt2b6wx3ymxsh6ieg/app.bsky.feed.post/3mlgq5tmdx22t"
+        },
+        "root": {
+          "cid": "bafyreicojqo2eihg2mphns7od5nnto6z67skq567zpd33jbi5kpplzhrlu",
+          "uri": "at://did:plc:jagldyome3h27twtp46nxen7/app.bsky.feed.post/3mlgg53o6m32t"
+        }
+      },
+      "text": "It's called Strudel and it's incredibly cool to use. Fully in-browser, designed towards techno / EDM / loop-based music construction, does all sorts of things from FM synthesis to user samples\n\nstrudel.cc"
+    },
+    "cid": "bafyreicmsowelmxx4qih2oa7ww7rq5byjniajcjzduxo3skyhd2ze3zv4a"
+  }
+}
