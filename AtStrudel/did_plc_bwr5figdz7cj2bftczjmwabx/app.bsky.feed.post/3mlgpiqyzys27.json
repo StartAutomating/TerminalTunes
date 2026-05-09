@@ -1,0 +1,86 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1778345665366281,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mlgpiu3i3327",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mlgpiqyzys27",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-05-09T16:54:21.398Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiha7dzr35i2zvgnsfvdqj4xovzqxb4nzzb7j7tanwujxa7wa3qyxm"
+            },
+            "mimeType": "image/jpeg",
+            "size": 807028
+          },
+          "title": "GoSuraj - The Weight is Gone (Simple Var)",
+          "uri": "https://www.youtube.com/watch?v=FpUcoxKWVKY"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=FpUcoxKWVKY"
+            }
+          ],
+          "index": {
+            "byteEnd": 81,
+            "byteStart": 50
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 91,
+            "byteStart": 83
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "relaxing"
+            }
+          ],
+          "index": {
+            "byteEnd": 101,
+            "byteStart": 92
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 110,
+            "byteStart": 102
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "GoSuraj - The Weight is Gone (Simple Var)\n\nVideo: www.youtube.com/watch?v=FpUc...\n\n#strudel #relaxing #gosuraj"
+    },
+    "cid": "bafyreiaoolbciukwcxquhr3kaochoqbpyvnn5hjr4ypf6tqvwrtyyaxpba"
+  }
+}
