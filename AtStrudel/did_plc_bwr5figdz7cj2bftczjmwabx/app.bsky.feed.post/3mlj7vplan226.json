@@ -1,0 +1,86 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1778432000265412,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mlj7vt366c2h",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mlj7vplan226",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-05-10T16:53:15.453Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibwnee565msaghnr2jfo4bhpb5r4f36r7sk5p3gv72ah2iqez2evi"
+            },
+            "mimeType": "image/jpeg",
+            "size": 868960
+          },
+          "title": "GoSuraj - The Weight is Gone (Dramatic Var)",
+          "uri": "https://www.youtube.com/watch?v=5DU6jW2G8MA"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=5DU6jW2G8MA"
+            }
+          ],
+          "index": {
+            "byteEnd": 83,
+            "byteStart": 52
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 93,
+            "byteStart": 85
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "coding"
+            }
+          ],
+          "index": {
+            "byteEnd": 101,
+            "byteStart": 94
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 110,
+            "byteStart": 102
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "GoSuraj - The Weight is Gone (Dramatic Var)\n\nVideo: www.youtube.com/watch?v=5DU6...\n\n#strudel #coding #gosuraj"
+    },
+    "cid": "bafyreigvm3paa4jpgibfzv5iyvbdyno35sjpwuzthkbx676n54rgeydcym"
+  }
+}
