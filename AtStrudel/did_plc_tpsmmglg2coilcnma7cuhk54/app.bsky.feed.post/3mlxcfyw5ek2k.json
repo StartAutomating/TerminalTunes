@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:tpsmmglg2coilcnma7cuhk54",
+  "time_us": 1778915726492173,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mlxcfzemi422",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mlxcfyw5ek2k",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-05-16T07:15:25.938Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#Ly8gUHJlYmFrZSBzY3JpcHQKLy8KLy8gVGhpcyBpcyBjb2RlIHRoYXQgaXMgbG9hZGVkIGJlZm9yZSB5b3VyIHBhdHRlcm4gaXMgcnVuLgovLyBZb3UgY2FuIHVzZSBpdCB0byBkZWZpbmUgY3VzdG9tIGZ1bmN0aW9ucyB0byB1c2UgaW4gYW55IHBhdHRlcm4uCi8vIAovLyBUaGlzIGlzIGFuIGluaXRpYWwgZXhhbXBsZSBzY3JpcHQuIFlvdSBjYW4gZWRpdCBpdCB0byBhZGQgCi8vIHlvdXIgb3duIGZ1bnRpb25zLgovLwovLyBUbyB1c2UgYSBzY3JpcHQgc2hhcmVkIGJ5IHNvbWUgb3RoZXIgdXNlciB5b3UgY2FuIHVzZQovLyB0aGUgaW1wb3J0LWJ1dHRvbiBvciBwYXN0ZSB0aGUgc2NyaXB0IGluIHRoaXMgZWRpdG9yLgoKY29uc3QgcmF0Y2hldCA9IHJlZ2lzdGVyKCdyYXRjaGV0JywgKHBhdCkgPT4gcGF0LnNvbWV0aW1lcyhwbHkoMikpKQoKc2V0Y3BtKDMwKQokOiBzKCJsdCBtdCBsdCBiZCIpLmdhaW4oLjUpLmxwZig1MDApCiQ6IG5vdGUoYDwKPAogIFthNCEyIFtjNSAtIGM1QDJdIGE0IC1dCiAgW2c0ITIgW2E0IC0gZzRAMl0gZjQgZDRdCiAgW2E0IGc0IFtmNCAtIGQ0QDJdIGY0IC1dCiAgW2M0ITIgW2M0IC0gZDRAMl0gZjQhMl0KCiAgW2E0ITIgW2M1IC0gYzVAMl0gYTQgLV0KICBbZzQhMiBbYTQgLSBnNEAyXSBmNCBkNF0KICBbYTQgZzQgW2Y0IC0gZDRAMl0gZjQgLV0KICBbYzQhMiBbYzQgLSBkNEAyXSBmNCEyXQogIAogIFthNCBnNCBbZjQgLSBkNEAyXSBmNCAtXQogIFtjNCEyIFtjNCAtIGQ0QDJdIGY0IC1dCiAgW2E0IGc0IFtmNCAtIGQ0QDJdIGY0IC1dCiAgW2M0ITIgW2M0IC0gZDRAMl0gZjRAMl0KPiwKPAogIC1AMjQKCiAgW2E0ITIgW2M1IC0gYzVAMl0gYTQgLV0KICBbZzQhMiBbYTQgLSBnNEAyXSBmNCBkNF0KICBbYTQgZzQgW2Y0IC0gZDRAMl0gZjQgLV0KICBbYzQhMiBbYzQgLSBkNEAyXSBmNCEyXQoKICBbYTQhMiBbYzUgLSBjNUAyXSBhNCAtXQogIFtnNCEyIFthNCAtIGc0QDJdIGY0IGQ0XQogIFthNCBnNCBbZjQgLSBkNEAyXSBmNCAtXQogIFtjNCEyIFtjNCAtIGQ0QDJdIGY0ITJdCgogIFthNCBnNCBbZjQgLSBkNEAyXSBmNCAtXQogIFtjNCEyIFtjNCAtIGQ0QDJdIGY0IC1dCiAgW2E0IGc0IFtmNCAtIGQ0QDJdIGY0IC1dCiAgW2M0ITIgW2M0IC0gZDRAMl0gZjRAMl0KPioyCj5gKS5zKCdzaW5lJykuZGVsYXkoLjMp"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 281,
+            "byteStart": 273
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Now that I've finally started messing around with composing music through code, I don't think there's any going back. It's fascinating and oh so satisfying!\n\nHere's an original tune I wrote for a song called \"Mother Moon,\" featured in my upcoming novel The Lasting Lands.\n\n#Strudel is awesome."
+    },
+    "cid": "bafyreiaxih2isz4anevuziy7xse3wv37fugnjt2j6gkm3mzftcbjrhwwte"
+  }
+}
