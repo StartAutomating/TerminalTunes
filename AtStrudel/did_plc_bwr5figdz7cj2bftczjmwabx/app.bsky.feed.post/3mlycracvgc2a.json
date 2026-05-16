@@ -1,0 +1,86 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1778950467487167,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mlycrduoth2k",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mlycracvgc2a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-05-16T16:54:22.533Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreic4jnlnejpchbge3azzp2wrytxzft22xrln3awy4pl7k7pycjj5dm"
+            },
+            "mimeType": "image/jpeg",
+            "size": 943953
+          },
+          "title": "GoSuraj - The Weight is Gone (Full Song)",
+          "uri": "https://www.youtube.com/watch?v=TDy10edRCAM"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=TDy10edRCAM"
+            }
+          ],
+          "index": {
+            "byteEnd": 80,
+            "byteStart": 49
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 90,
+            "byteStart": 82
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "relaxing"
+            }
+          ],
+          "index": {
+            "byteEnd": 100,
+            "byteStart": 91
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 109,
+            "byteStart": 101
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "GoSuraj - The Weight is Gone (Full Song)\n\nVideo: www.youtube.com/watch?v=TDy1...\n\n#strudel #relaxing #gosuraj"
+    },
+    "cid": "bafyreiho7kxazwuq6cwpltyszvluzju42dazksddcwfcfgv7jhnl5zoyry"
+  }
+}
