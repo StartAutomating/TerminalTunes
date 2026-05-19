@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:gdpcus33k72iwqsbpsdewpdw",
+  "time_us": 1779176980161208,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mm6vpy3pqo25",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mm6vpxhmkc2t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-05-19T07:49:39.221Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#Ly8gUHJlYmFrZSBzY3JpcHQKLy8KLy8gVGhpcyBpcyBjb2RlIHRoYXQgaXMgbG9hZGVkIGJlZm9yZSB5b3VyIHBhdHRlcm4gaXMgcnVuLgovLyBZb3UgY2FuIHVzZSBpdCB0byBkZWZpbmUgY3VzdG9tIGZ1bmN0aW9ucyB0byB1c2UgaW4gYW55IHBhdHRlcm4uCi8vIAovLyBUaGlzIGlzIGFuIGluaXRpYWwgZXhhbXBsZSBzY3JpcHQuIFlvdSBjYW4gZWRpdCBpdCB0byBhZGQgCi8vIHlvdXIgb3duIGZ1bnRpb25zLgovLwovLyBUbyB1c2UgYSBzY3JpcHQgc2hhcmVkIGJ5IHNvbWUgb3RoZXIgdXNlciB5b3UgY2FuIHVzZQovLyB0aGUgaW1wb3J0LWJ1dHRvbiBvciBwYXN0ZSB0aGUgc2NyaXB0IGluIHRoaXMgZWRpdG9yLgoKY29uc3QgcmF0Y2hldCA9IHJlZ2lzdGVyKCdyYXRjaGV0JywgKHBhdCkgPT4gcGF0LnNvbWV0aW1lcyhwbHkoMikpKQoKc2V0Y3BtKDEzNS80KQoKc3RhY2soCiAgLy8g44Kt44OD44KvCiAgcygiYmQgfiB%2BIH4gfiB%2BIGJkIH4gfiB%2BIH4gfiB%2BIGJkIH4gfiIpCiAgICAuYmFuaygiUm9sYW5kVFI5MDkiKQogICAgLmdhaW4oMC45NSksCgogIC8vIOOCr%2BODqeODg%2BODlwogIHMoIn4gfiB%2BIH4gfiB%2BIH4gfiB%2BIH4gfiB%2BIH4gfiB%2BIH4iKQogICAgLmJhbmsoIlJvbGFuZFRSOTA5IikKICAgIC5nYWluKDAuNzUpCiAgICAucm9vbSgwLjI1KSwKCiAgLy8gaGF0cwogIHMoIltoaCB%2BIGhoIG9oIH4gfl0qNCIpCiAgICAuYmFuaygiUm9sYW5kVFI5MDkiKQogICAgLmRlYygwLjEpCiAgICAuZ2FpbigwLjMpCiAgICAucGFuKHBlcmxpbi5yYW5nZSgwLjMsIDAuNykpLAoKICAvLyDjgrXjg5bjg5njg7zjgrkKICBub3RlKCI8YzIgYzIgZWIyIGcxIGMyIGFiMSBiYjEgZzE%2BIikKICAgIC5zdHJ1Y3QoIjEgfiAxIH4gfiAxIH4gMSB%2BIDEgfiB%2BIikKICAgIC5zKCJzYXd0b290aCIpCiAgICAubHBmKDE4MCkKICAgIC5nYWluKDAuNzUpLAoKICAvLyDjgrPjg7zjg4njgrnjgr%2Fjg5YKICBub3RlKCI8W2M0LGViNCxnNCxiYjRdIFthYjMsYzQsZWI0LGc0XSBbYWIzLGM0LGViNCxnNF0gW2JiMyxkNCxmNCxhYjRdPiIpCiAgICAuc3RydWN0KCIxIH4gfiAxIH4gMSB%2BIH4iKQogICAgLnMoInNhd3Rvb3RoIikKICAgIC5scGYoc2luZS5yYW5nZSg3MDAsIDIyMDApLnNsb3coNCkpCiAgICAucmVzb25hbmNlKDEwKQogICAgLmdhaW4oMC4zKQogICAgLnJvb20oMC41KQogICAgLmRlbGF5KDAuNCkKICAgIC5kZWxheXRpbWUoMC4zNzUpCiAgICAuZGVsYXlmZWVkYmFjaygwLjQpCikKLnN3aW5nQnkoMC4zNSwgMTYp"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/"
+            }
+          ],
+          "index": {
+            "byteEnd": 10,
+            "byteStart": 0
+          }
+        }
+      ],
+      "langs": [
+        "ja"
+      ],
+      "text": "strudel.cc"
+    },
+    "cid": "bafyreiafyavnzdaulo7mmvtuhdf3urnhq4kd52ybnt4hmgngn7vq6xcpje"
+  }
+}
