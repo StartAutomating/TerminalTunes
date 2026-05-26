@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:l6dbieowxlg3r6ax4z636zks",
+  "time_us": 1779798320266821,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mmqyfdvoyr22",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mmqyfcghqs22",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-05-26T12:25:18.135Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Switch Angel",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidcg4nombrvf6imcmbjwm4kzytouaw32sl5sje4u5azwzoe3crplq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 569057
+          },
+          "title": "Coding Trance Music (Full Narrated)",
+          "uri": "https://www.youtube.com/watch?v=GWXCCBsOMSg&list=RDGWXCCBsOMSg&start_radio=1"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=GWXCCBsOMSg&list=RDGWXCCBsOMSg&start_radio=1"
+            }
+          ],
+          "index": {
+            "byteEnd": 84,
+            "byteStart": 53
+          }
+        }
+      ],
+      "langs": [
+        "fr"
+      ],
+      "text": "tjs pas de hands-on de 2h de strudel a devoxx. \nsad.\nwww.youtube.com/watch?v=GWXC..."
+    },
+    "cid": "bafyreih7iliietbw7szdtm5zauhsrk73kjz4avzjnxe6m2oiddqm6rtoxq"
+  }
+}
