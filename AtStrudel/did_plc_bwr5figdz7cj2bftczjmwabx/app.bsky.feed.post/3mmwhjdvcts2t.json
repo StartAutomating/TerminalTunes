@@ -1,0 +1,86 @@
+{
+  "did": "did:plc:bwr5figdz7cj2bftczjmwabx",
+  "time_us": 1779986363194716,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mmwhjh5sno2b",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mmwhjdvcts2t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-05-28T16:39:18.708Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by GoSuraj Music",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifdkaa6ehntjyxrns4acdbls7lhfioyarwsleexjnv6wapsvbeuxa"
+            },
+            "mimeType": "image/jpeg",
+            "size": 975743
+          },
+          "title": "GoSuraj - The Ice Is Burning",
+          "uri": "https://www.youtube.com/watch?v=07j8WYkuo5U"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 42,
+            "byteStart": 34
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "music"
+            }
+          ],
+          "index": {
+            "byteEnd": 49,
+            "byteStart": 43
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "gosuraj"
+            }
+          ],
+          "index": {
+            "byteEnd": 58,
+            "byteStart": 50
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=07j8WYkuo5U"
+            }
+          ],
+          "index": {
+            "byteEnd": 90,
+            "byteStart": 59
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "GoSuraj - The Ice Is Burning song #strudel #music #gosuraj www.youtube.com/watch?v=07j8..."
+    },
+    "cid": "bafyreigqa7ppz2ypx3fabsvbzezngjqbkqnpmiogfb5fmwoct7wqnkn6gm"
+  }
+}
