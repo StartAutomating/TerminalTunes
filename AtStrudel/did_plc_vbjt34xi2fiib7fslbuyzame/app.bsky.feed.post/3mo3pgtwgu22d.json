@@ -1,0 +1,36 @@
+{
+  "did": "did:plc:vbjt34xi2fiib7fslbuyzame",
+  "time_us": 1781266177190195,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mo3pgvhkhq27",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mo3pgtwgu22d",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-12T12:09:35.112Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Gamefromscratch",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifi5kvi5ep2daax3vfdyxbtclr5aidnch7e2hzocmmpjdpemfrtwe"
+            },
+            "mimeType": "image/jpeg",
+            "size": 146842
+          },
+          "title": "Create Music With Code! (Why Strudel ROCKS)",
+          "uri": "https://www.youtube.com/watch?v=dsAD-vl7_tM"
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "I've posted a few videos from \"Switch Angel\" as she codes and narrates some techno/trance/electronica/etc. music.\n\nWhat she's using is free software 'Strudel', based on other free software 'Tidal Cycles'.\n\nThis guy gives a good overview, and examples if you're interested.\n\nHappy Nerdery!"
+    },
+    "cid": "bafyreibox7wmcbnxzjyfpmrtgt6qqp6gesjlzolqcaieyw4lrq7ozhnshu"
+  }
+}
