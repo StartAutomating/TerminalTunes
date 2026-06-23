@@ -1,0 +1,36 @@
+{
+  "did": "did:plc:fsabbrsrfsvj2xeb4aq54wmb",
+  "time_us": 1782256615786372,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moyjubd7ie2r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moyjuc67i22c",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-23T23:16:56.216Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by TodePond",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreieefphbkg2vhz5teqgiwf7vurp4hupy22a5jznmai74c7qh2wilgi"
+            },
+            "mimeType": "image/jpeg",
+            "size": 31092
+          },
+          "title": "CAN YOU HEAR ME?",
+          "uri": "https://m.youtube.com/watch?v=bWfzo_1IsDE"
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "chill strudel live by todepond, starts at 3:10"
+    },
+    "cid": "bafyreidln64r62a6ajx4siarw755l5mohwe3k2pgje25z4ipwl6abf5bvq"
+  }
+}
