@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:sbm4yvf5ueaanyrjnguz33v3",
+  "time_us": 1782255493570952,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moyissxiku2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moyissfo7s2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-23T22:58:12.387Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by TodePond",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifldmjdqltpkumlshyujc4aike3g654oed5rqizl4sc3ok6zh7bsy"
+            },
+            "mimeType": "image/jpeg",
+            "size": 47845
+          },
+          "title": "CAN YOU HEAR ME?",
+          "uri": "https://www.youtube.com/watch?v=bWfzo_1IsDE"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=bWfzo_1IsDE"
+            }
+          ],
+          "index": {
+            "byteEnd": 65,
+            "byteStart": 34
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "here's my latest strudel tutorial\nwww.youtube.com/watch?v=bWfz..."
+    },
+    "cid": "bafyreihkd7x5t3f7v5df2fc2whadmsd3txfecpnctivi4pvuwfxczs3kxm"
+  }
+}
