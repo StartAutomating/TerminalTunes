@@ -1,0 +1,52 @@
+{
+  "did": "did:plc:p5jjplxu354uk56ibwdax6pa",
+  "time_us": 1783092995622260,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mpqusdjeg525",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mpquscyyuk2n",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-07-03T15:36:34.867Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#CnNldGNwbSgyMCk7Cm5vdGUoIkYjIEQgQiBHIEJiIEIgQSBEIEJiIEcgRCMgRiMgRyBGIEJiIEIgQSBEIEQjIEMjIEYjIEcgRyBCYiBGIyBGIyBfICIpCiAgLmxlZ2F0byhwZXJsaW4ucmFuZ2UoMC4zLCAxKSkKICAuc291bmQoImdtX2JpcmRfdHdlZXQiKQogIC5wYW4oY2hvb3NlQ3ljbGVzKDAuNCwgMC41NSwgMC4zOCwgMC42MikpCiAgLnJvb20oLjEpLnJzaXplKDIwKS5yZGltKDcwMCkKOw%3D%3D"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/#CnNldGNwbSgyMCk7Cm5vdGUoIkYjIEQgQiBHIEJiIEIgQSBEIEJiIEcgRCMgRiMgRyBGIEJiIEIgQSBEIEQjIEMjIEYjIEcgRyBCYiBGIyBGIyBfICIpCiAgLmxlZ2F0byhwZXJsaW4ucmFuZ2UoMC4zLCAxKSkKICAuc291bmQoImdtX2JpcmRfdHdlZXQiKQogIC5wYW4oY2hvb3NlQ3ljbGVzKDAuNCwgMC41NSwgMC4zOCwgMC42MikpCiAgLnJvb20oLjEpLnJzaXplKDIwKS5yZGltKDcwMCkKOw%3D%3D"
+            }
+          ],
+          "index": {
+            "byteEnd": 41,
+            "byteStart": 15
+          }
+        }
+      ],
+      "langs": [
+        "fr"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreifus4oq2g4wwb7hyfpzh4ojynfzaky5c64hjocy5pzpfnhldveuya",
+          "uri": "at://did:plc:yq6r4fgqb3hxi4hnnd43yhao/app.bsky.feed.post/3mpon2cbhss2a"
+        },
+        "root": {
+          "cid": "bafyreifus4oq2g4wwb7hyfpzh4ojynfzaky5c64hjocy5pzpfnhldveuya",
+          "uri": "at://did:plc:yq6r4fgqb3hxi4hnnd43yhao/app.bsky.feed.post/3mpon2cbhss2a"
+        }
+      },
+      "text": "Like +/- this?\nstrudel.cc#CnNldGNwbSgy..."
+    },
+    "cid": "bafyreiahs47e3676qhbratzcspjbyxgq3uomi7ns5jlbjznp6ip6b72ziy"
+  }
+}
