@@ -1,0 +1,72 @@
+{
+  "did": "did:plc:uwm4up6ndq4o45nx3vwy3wvj",
+  "time_us": 1783295503832199,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mpwrfjvndl2b",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mpwrfibeh22g",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-07-05T23:51:41.38Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Creating tutorials and music with VCV Rack\n\nImpressum: https://omricohen-music.com/",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiaveca37nai3ltblawmuvbvjn2sgk6fyj4kyys6rcducw7rmzfh2m"
+            },
+            "mimeType": "image/jpeg",
+            "size": 218087
+          },
+          "title": "Omri Cohen",
+          "uri": "https://youtube.com/@omricohen-music?si=B_lOV0GMw4vqcEHf"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://youtube.com/@omricohen-music?si=B_lOV0GMw4vqcEHf"
+            }
+          ],
+          "index": {
+            "byteEnd": 174,
+            "byteStart": 147
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://youtu.be/KrVtkC8usmI?si=czBozEYnrPofl-8b"
+            }
+          ],
+          "index": {
+            "byteEnd": 252,
+            "byteStart": 228
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreihk3o4zmxtj5wtdcilypeqbdrzt23rdp4quk4agod2gdtcedjdtgm",
+          "uri": "at://did:plc:asb3rgscdkkv636buq6blof6/app.bsky.feed.post/3mpwr7wdgfc2w"
+        },
+        "root": {
+          "cid": "bafyreiaiwsysarml3mc26iiwn7jt4245vun5ttzl2etuqftywl6rpkfiyy",
+          "uri": "at://did:plc:asb3rgscdkkv636buq6blof6/app.bsky.feed.post/3mpwpqq3yu22w"
+        }
+      },
+      "text": "Take cable, connect machines, machines go boop\n\nDefs a higher barrier to entry than strudel but real fun imo. I really rate Omri Cohen for videos (youtube.com/@omricohen-m...), copying one of his patch tutorials is a good time (youtu.be/KrVtkC8usmI?...)"
+    },
+    "cid": "bafyreihzcmqtk5cryb7smmcuuytp3myqrw5vbvrgxnxt5lpo5hbnmpepou"
+  }
+}
