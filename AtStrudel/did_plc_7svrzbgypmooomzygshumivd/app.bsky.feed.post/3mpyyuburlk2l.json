@@ -1,0 +1,36 @@
+{
+  "did": "did:plc:7svrzbgypmooomzygshumivd",
+  "time_us": 1783372235442084,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mpyyucwufx2p",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mpyyuburlk2l",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-07-06T21:10:33.662Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Triggernometry",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreih7ehqxruge6xcxu5ftidsparsxmz5jp6obydrvs5gactrg54rdkq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 168481
+          },
+          "title": "The Real Reason Putin Invaded Ukraine — Sir Bill Browder",
+          "uri": "https://www.youtube.com/watch?v=dlF0ZzH6C9s"
+        }
+      },
+      "langs": [
+        "de"
+      ],
+      "text": "Bill Browder ist ein Turbokapitalist, der in der Ex-Sowjetunion nach 1991 investierte, im Strudel aus Korruption & Kriminalität dann floh, während ein Millionenraub zu einem global umfassenden Gesetzessystem gegen die russische Administration führte. Interessante Geschichte, mit wilden Behauptungen."
+    },
+    "cid": "bafyreia4ofwosixhuk2h273f5dcn4beq53wtog2ebapc6bytbjq2cumhfe"
+  }
+}
