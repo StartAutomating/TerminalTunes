@@ -1,0 +1,114 @@
+{
+  "did": "did:plc:4crvdgr6xopcqwhipbvzffer",
+  "time_us": 1783515870040502,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mq56mxy7rj26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mq56mye74c2l",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-07-08T13:04:30.201Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#Ly8gUHJlYmFrZSBzY3JpcHQKLy8KLy8gVGhpcyBpcyBjb2RlIHRoYXQgaXMgbG9hZGVkIGJlZm9yZSB5b3VyIHBhdHRlcm4gaXMgcnVuLgovLyBZb3UgY2FuIHVzZSBpdCB0byBkZWZpbmUgY3VzdG9tIGZ1bmN0aW9ucyB0byB1c2UgaW4gYW55IHBhdHRlcm4uCi8vIAovLyBUaGlzIGlzIGFuIGluaXRpYWwgZXhhbXBsZSBzY3JpcHQuIFlvdSBjYW4gZWRpdCBpdCB0byBhZGQgCi8vIHlvdXIgb3duIGZ1bnRpb25zLgovLwovLyBUbyB1c2UgYSBzY3JpcHQgc2hhcmVkIGJ5IHNvbWUgb3RoZXIgdXNlciB5b3UgY2FuIHVzZQovLyB0aGUgaW1wb3J0LWJ1dHRvbiBvciBwYXN0ZSB0aGUgc2NyaXB0IGluIHRoaXMgZWRpdG9yLgoKY29uc3QgcmF0Y2hldCA9IHJlZ2lzdGVyKCdyYXRjaGV0JywgKHBhdCkgPT4gcGF0LnNvbWV0aW1lcyhwbHkoMikpKQoKc291bmQoIjxbYmQgW2JkIFtiZF1dXSo8MSBbMiBbNF1dPio8PDEgWzIgWzRdXT4vMj4qPDwxIFsyIFs0XV0%2BLzQ%2BKjw8MSBbMiBbNF1dPi84Pio8PDEgWzIgWzRdXT4vMTY%2BPiIp"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "recursion"
+            }
+          ],
+          "index": {
+            "byteEnd": 49,
+            "byteStart": 39
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "musicrecursion"
+            }
+          ],
+          "index": {
+            "byteEnd": 65,
+            "byteStart": 50
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 74,
+            "byteStart": 66
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "supertask"
+            }
+          ],
+          "index": {
+            "byteEnd": 85,
+            "byteStart": 75
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "omega"
+            }
+          ],
+          "index": {
+            "byteEnd": 92,
+            "byteStart": 86
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "omegarecursion"
+            }
+          ],
+          "index": {
+            "byteEnd": 108,
+            "byteStart": 93
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/#Ly8gUHJlYmFrZSBzY3JpcHQKLy8KLy8gVGhpcyBpcyBjb2RlIHRoYXQgaXMgbG9hZGVkIGJlZm9yZSB5b3VyIHBhdHRlcm4gaXMgcnVuLgovLyBZb3UgY2FuIHVzZSBpdCB0byBkZWZpbmUgY3VzdG9tIGZ1bmN0aW9ucyB0byB1c2UgaW4gYW55IHBhdHRlcm4uCi8vIAovLyBUaGlzIGlzIGFuIGluaXRpYWwgZXhhbXBsZSBzY3JpcHQuIFlvdSBjYW4gZWRpdCBpdCB0byBhZGQgCi8vIHlvdXIgb3duIGZ1bnRpb25zLgovLwovLyBUbyB1c2UgYSBzY3JpcHQgc2hhcmVkIGJ5IHNvbWUgb3RoZXIgdXNlciB5b3UgY2FuIHVzZQovLyB0aGUgaW1wb3J0LWJ1dHRvbiBvciBwYXN0ZSB0aGUgc2NyaXB0IGluIHRoaXMgZWRpdG9yLgoKY29uc3QgcmF0Y2hldCA9IHJlZ2lzdGVyKCdyYXRjaGV0JywgKHBhdCkgPT4gcGF0LnNvbWV0aW1lcyhwbHkoMikpKQoKc291bmQoIjxbYmQgW2JkIFtiZF1dXSo8MSBbMiBbNF1dPio8PDEgWzIgWzRdXT4vMj4qPDwxIFsyIFs0XV0%2BLzQ%2BKjw8MSBbMiBbNF1dPi84Pio8PDEgWzIgWzRdXT4vMTY%2BPiIp"
+            }
+          ],
+          "index": {
+            "byteEnd": 136,
+            "byteStart": 110
+          }
+        }
+      ],
+      "langs": [
+        "de"
+      ],
+      "text": "I THINK WERE RECURSIONING ENOUGH NOW!\n\n#recursion #musicrecursion #strudel #supertask #omega #omegarecursion\n\nstrudel.cc#Ly8gUHJlYmFr..."
+    },
+    "cid": "bafyreihhfpk5mosag4maaxnvjaeifymfzocbmr45yiatv34xweyg5pp37a"
+  }
+}
