@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:rpok7n5yjrflg4ias6gvxkgo",
+  "time_us": 1785100547875059,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mrlci2ln3d2o",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mrlci2erhc2p",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-07-26T21:15:47.482Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://Strudel.cc"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://Strudel.cc"
+            }
+          ],
+          "index": {
+            "byteEnd": 261,
+            "byteStart": 251
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I want to put more time into creative hobbies, too many hobbies I have are just about socializing or consuming, and I've been feeling that itch to create for quite a while now.\n\nWriting and making music are the things I currently want to do the most, Strudel.cc and learning to play the Ocarina..."
+    },
+    "cid": "bafyreicquxmwmelzmnqfid3kjz4nwlkqoiu7u35mvjmnbwih5sdpsobzhq"
+  }
+}
