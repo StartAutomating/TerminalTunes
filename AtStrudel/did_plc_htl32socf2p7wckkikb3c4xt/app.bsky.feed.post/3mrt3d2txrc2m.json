@@ -1,0 +1,62 @@
+{
+  "did": "did:plc:htl32socf2p7wckkikb3c4xt",
+  "time_us": 1785367744080462,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mrt3d43tpp2s",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mrt3d2txrc2m",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-07-29T23:29:01.921Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding editor that brings TidalCycles to the browser.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreihh4bpadjazzsvpmpfkigmgo3ixzhhnkun5boimrpbcjoylrbb6ju"
+            },
+            "mimeType": "image/jpeg",
+            "size": 60128
+          },
+          "title": "Getting Started 🚀 Strudel",
+          "uri": "https://strudel.cc/workshop/getting-started/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 33,
+            "byteStart": 25
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/workshop/getting-started/"
+            }
+          ],
+          "index": {
+            "byteEnd": 131,
+            "byteStart": 95
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I am working through the #strudel tutorial and srsly where has this been all my life: https://\nstrudel.cc/workshop/getting-started/\n\nThank you lovely strudel people!"
+    },
+    "cid": "bafyreiatndkjeemy2szyx6q5z2vpdfvrqpwwbilp2btu7ekdfagabjn5qi"
+  }
+}
