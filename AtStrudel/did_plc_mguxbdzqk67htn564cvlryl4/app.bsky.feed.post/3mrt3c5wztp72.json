@@ -1,0 +1,67 @@
+{
+  "did": "did:plc:mguxbdzqk67htn564cvlryl4",
+  "time_us": 1785367717786283,
+  "kind": "commit",
+  "commit": {
+    "rev": "222223vmztx22",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mrt3c5wztp72",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "bridgyOriginalText": "<p>I am working through the <a href=\"https://mastodon.social/tags/strudel\" class=\"mention hashtag\" rel=\"tag\">#<span>strudel</span></a> tutorial and srsly where has this been all my life: <a href=\"https://strudel.cc/workshop/getting-started/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">strudel.cc/workshop/getting-st</span><span class=\"invisible\">arted/</span></a></p><p>Thank you lovely strudel people!</p>",
+      "bridgyOriginalUrl": "https://mastodon.social/@conniptions/117005858061528808",
+      "createdAt": "2026-07-29T23:28:27Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "$type": "app.bsky.embed.external#external",
+          "description": "Strudel is a music live coding editor that brings TidalCycles to the browser.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreif5vhu7xczwafykab3pvb6mjic6jbpbpmpqojlpfdq3c4jlq3dena"
+            },
+            "mimeType": "image/png",
+            "size": 35958
+          },
+          "title": "Getting Started 🚀 Strudel",
+          "uri": "https://strudel.cc/workshop/getting-started/"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 33,
+            "byteStart": 25
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/workshop/getting-started/"
+            }
+          ],
+          "index": {
+            "byteEnd": 130,
+            "byteStart": 86
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I am working through the #strudel tutorial and srsly where has this been all my life: https://strudel.cc/workshop/getting-started/\n\nThank you lovely strudel people!"
+    },
+    "cid": "bafyreia5u7xt3lpec37g275h3veyvaqea3dloghvfokktxw5aswyitfzzy"
+  }
+}
