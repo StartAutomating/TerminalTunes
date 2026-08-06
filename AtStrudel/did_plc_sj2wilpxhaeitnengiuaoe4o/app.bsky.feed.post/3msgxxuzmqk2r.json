@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:sj2wilpxhaeitnengiuaoe4o",
+  "time_us": 1786051341510266,
+  "kind": "commit",
+  "commit": {
+    "rev": "3msgxxvp2k72x",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3msgxxuzmqk2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-06T21:22:20.259Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding editor that brings TidalCycles to the browser.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiejeb6hbjir763rz2n6zw45ydr4fhmzoyfqnrvcyw4rkxxe3cfcri"
+            },
+            "mimeType": "image/jpeg",
+            "size": 61706
+          },
+          "title": "First Sounds 🚀 Strudel",
+          "uri": "https://strudel.cc/workshop/first-sounds/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/workshop/first-sounds/"
+            }
+          ],
+          "index": {
+            "byteEnd": 256,
+            "byteStart": 230
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I think the Sprudel “First Sounds” tutorial might be one of the all time best coding tutorials.\n\nNot just for the ease with which it can be followed and played around with, but the way it builds up to Bronski Beat is sublime\n\nstrudel.cc/workshop/fir..."
+    },
+    "cid": "bafyreiakxkq6ek4tp4yg37jycgp2fjmuc3b45sj7a5bbmw42ghdfbhufwe"
+  }
+}
