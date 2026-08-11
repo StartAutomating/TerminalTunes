@@ -1,0 +1,52 @@
+{
+  "did": "did:plc:vt3ya7nuzb7ubtjcxntn326t",
+  "time_us": 1786448998166165,
+  "kind": "commit",
+  "commit": {
+    "rev": "3msskcyxfye2d",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3msskcynf7c2z",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-11T11:49:57.625Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc"
+            }
+          ],
+          "index": {
+            "byteEnd": 93,
+            "byteStart": 83
+          }
+        }
+      ],
+      "langs": [
+        "fr"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreiev5d2ykbw7pt4lyab2anr7mg3nd47j3ln37yxxi5v3aix7f3ifom",
+          "uri": "at://did:plc:j6zt7s7ptp472jwhddye6mui/app.bsky.feed.post/3mss2zxh5ss22"
+        },
+        "root": {
+          "cid": "bafyreifqojnwgvdmm6sqrty7w3v7gclabsrpg5ymg5ejdj6hthkxkfq5mu",
+          "uri": "at://did:plc:5aumv6xsxxacaerhrubj322g/app.bsky.feed.post/3msrwri6vb22h"
+        }
+      },
+      "text": "Avec SuperCollider, c'est le langage que je trouve ardu. Et il faut aussi regarder strudel.cc qui a une approche un peu différente, très orientée patterns/séquenceur (c'est le petit frère de TidalCycles dans le browser)"
+    },
+    "cid": "bafyreibe6hcya6l5be2ls3xt4eyhq35qyyszqtoeejlzkknn3mdr4hxfwy"
+  }
+}
