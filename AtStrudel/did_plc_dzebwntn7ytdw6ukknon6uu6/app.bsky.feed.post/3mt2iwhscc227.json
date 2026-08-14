@@ -1,0 +1,52 @@
+{
+  "did": "did:plc:dzebwntn7ytdw6ukknon6uu6",
+  "time_us": 1786722382664569,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mt2iwhv5za23",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mt2iwhscc227",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-14T15:46:21.177Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#Ly8gUHJlYmFrZSBzY3JpcHQKLy8KLy8gVGhpcyBpcyBjb2RlIHRoYXQgaXMgbG9hZGVkIGJlZm9yZSB5b3VyIHBhdHRlcm4gaXMgcnVuLgovLyBZb3UgY2FuIHVzZSBpdCB0byBkZWZpbmUgY3VzdG9tIGZ1bmN0aW9ucyB0byB1c2UgaW4gYW55IHBhdHRlcm4uCi8vIAovLyBUaGlzIGlzIGFuIGluaXRpYWwgZXhhbXBsZSBzY3JpcHQuIFlvdSBjYW4gZWRpdCBpdCB0byBhZGQgCi8vIHlvdXIgb3duIGZ1bnRpb25zLgovLwovLyBUbyB1c2UgYSBzY3JpcHQgc2hhcmVkIGJ5IHNvbWUgb3RoZXIgdXNlciB5b3UgY2FuIHVzZQovLyB0aGUgaW1wb3J0LWJ1dHRvbiBvciBwYXN0ZSB0aGUgc2NyaXB0IGluIHRoaXMgZWRpdG9yLgoKY29uc3QgcmF0Y2hldCA9IHJlZ2lzdGVyKCdyYXRjaGV0JywgKHBhdCkgPT4gcGF0LnNvbWV0aW1lcyhwbHkoMikpKQoKLy8gIm9sc2VuIChib2MgY292ZXIpIiBAYnkgYnJvbWV0aGF6aW5lCgpzZXRjcHMoMC4yNSkKYWxsKHggPT4geC5mc2NvcGUoKSkKCiRfOiAKICBjaG9yZCgiPFtFIF8gXyBGI10gQyM%2BIikudm9pY2luZygpCiAgICAucygiW3pfc2luZSx0cmldIikKICAgIC8vIC5sZm8oe2M6ICdmcmVxJywgCiAgICAvLyAgICAgICBzOiAiNCIsIAogICAgLy8gICAgICAgZHI6IDEwLCAKICAgIC8vICAgICAgIGRhOiA1IH0pCiAgICAub2N0YXZlKC0xKQogICAgLmxwZigzMDApLmxwc2hhcGUoIjAiKQogICAgLnJvb20oc2xpZGVyKDAuNywgMCwgMikpCiAgICAuYXR0YWNrKDAuMDIpLnJlbGVhc2UoMC4xKQogICAgLnBhbigwLjIpCiAgICAuZGlvZGUoc2xpZGVyKDAuNzQ2LDAsMikpCiAgICAuY3VydmUoMikKICAgIC5wb3N0Z2FpbigtMC4xMSkKCiRfOgogIG5vdGUoYDwKICB%2BITcKICBbfkA3IEQjXQogIFtGI0A3IEQjXSAgCiAgW0MjQDcgQSMyXQogIFtHIzJAMTUgRCNdQDIKICBbQyNANyBEI10KICBbQyNANyBBIzJdCiAgW0cjMkAxNSBEI11AMgogIFtGI0A3IEQjXSAgCiAgW0MjQDcgQSMyXQogIFtHIzJAMTUgRCNdQDIKICBbQyNANyBEI10KICBbQyNANyBBIzJdCiAgW0cjMkAxNSB%2BXUAyCiAgPmAuYWRkKDEyKS5lYXJseSgoMS84KSAtIDAuMDA1KSkKICAgIC5zKCJbc2luZV0iKQogICAgLm9jdGF2ZSgxKQogICAgLmF0dGFjaygwLjAyKS5yZWxlYXNlKDAuMikKICAgIC5ocGYoc2xpZGVyKDEzMDAsIDEwMDAsIDIwMDApKS5scGYoc2xpZGVyKDIwMDAsMTAwMCwzMDAwKSkKICAgIC5yb29tKCIwLjY6MC42IikKICAgIC5wb3N0Z2FpbigwLjg5KQogICAgLmZhc3QoMikKCi8vIGNoYW5nZSB0byAkOiB0byBwbGF5IHRoaXMgcGFydAokOiAKICBjaG9yZChgPAogICAgWzxFIEVhZGQ5PiBfIF8gRiNhZGQ5XSAKICAgIDxDIyBDI2FkZDk%2BPgogICAgYCkudm9pY2luZygpCiAgICAucygicGlhbm8iKQogICAgLmNsaXAoIjxbMC4yIDAuNF0gMC4zPiIpCiAgICAubHBmKDE0MDApLmxmbyh7czogOCwgZDogMTIwfSkKICAgIC5ocGYoMTE1MCkKICAgIC5hdHRhY2soMC4wMikucmVsZWFzZSgxLjUpCiAgICAucm9vbShzbGlkZXIoMS42LDEsMykpLnJvb21mYWRlKHNsaWRlcigzLCAxLCA1KSkucm9vbXNpemUoc2xpZGVyKDIuNCwgMSwgMykpCiAgICAucG9zdGdhaW4oMC4zKQogICAgLmRpc3RvcnQoc2xpZGVyKDAuMjUsIDAsIDIpKQogICAgLmRpb2RlKDAuNikubGZvKHtzOiA0fSkubGZvKHtzOiAyfSkKICAgIC5wYW4oMC44KS5sZm8oKQogICAgLmVhcmx5KDAuMSkK"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/#Ly8gUHJlYmFrZSBzY3JpcHQKLy8KLy8gVGhpcyBpcyBjb2RlIHRoYXQgaXMgbG9hZGVkIGJlZm9yZSB5b3VyIHBhdHRlcm4gaXMgcnVuLgovLyBZb3UgY2FuIHVzZSBpdCB0byBkZWZpbmUgY3VzdG9tIGZ1bmN0aW9ucyB0byB1c2UgaW4gYW55IHBhdHRlcm4uCi8vIAovLyBUaGlzIGlzIGFuIGluaXRpYWwgZXhhbXBsZSBzY3JpcHQuIFlvdSBjYW4gZWRpdCBpdCB0byBhZGQgCi8vIHlvdXIgb3duIGZ1bnRpb25zLgovLwovLyBUbyB1c2UgYSBzY3JpcHQgc2hhcmVkIGJ5IHNvbWUgb3RoZXIgdXNlciB5b3UgY2FuIHVzZQovLyB0aGUgaW1wb3J0LWJ1dHRvbiBvciBwYXN0ZSB0aGUgc2NyaXB0IGluIHRoaXMgZWRpdG9yLgoKY29uc3QgcmF0Y2hldCA9IHJlZ2lzdGVyKCdyYXRjaGV0JywgKHBhdCkgPT4gcGF0LnNvbWV0aW1lcyhwbHkoMikpKQoKLy8gIm9sc2VuIChib2MgY292ZXIpIiBAYnkgYnJvbWV0aGF6aW5lCgpzZXRjcHMoMC4yNSkKYWxsKHggPT4geC5mc2NvcGUoKSkKCiRfOiAKICBjaG9yZCgiPFtFIF8gXyBGI10gQyM%2BIikudm9pY2luZygpCiAgICAucygiW3pfc2luZSx0cmldIikKICAgIC8vIC5sZm8oe2M6ICdmcmVxJywgCiAgICAvLyAgICAgICBzOiAiNCIsIAogICAgLy8gICAgICAgZHI6IDEwLCAKICAgIC8vICAgICAgIGRhOiA1IH0pCiAgICAub2N0YXZlKC0xKQogICAgLmxwZigzMDApLmxwc2hhcGUoIjAiKQogICAgLnJvb20oc2xpZGVyKDAuNywgMCwgMikpCiAgICAuYXR0YWNrKDAuMDIpLnJlbGVhc2UoMC4xKQogICAgLnBhbigwLjIpCiAgICAuZGlvZGUoc2xpZGVyKDAuNzQ2LDAsMikpCiAgICAuY3VydmUoMikKICAgIC5wb3N0Z2FpbigtMC4xMSkKCiRfOgogIG5vdGUoYDwKICB%2BITcKICBbfkA3IEQjXQogIFtGI0A3IEQjXSAgCiAgW0MjQDcgQSMyXQogIFtHIzJAMTUgRCNdQDIKICBbQyNANyBEI10KICBbQyNANyBBIzJdCiAgW0cjMkAxNSBEI11AMgogIFtGI0A3IEQjXSAgCiAgW0MjQDcgQSMyXQogIFtHIzJAMTUgRCNdQDIKICBbQyNANyBEI10KICBbQyNANyBBIzJdCiAgW0cjMkAxNSB%2BXUAyCiAgPmAuYWRkKDEyKS5lYXJseSgoMS84KSAtIDAuMDA1KSkKICAgIC5zKCJbc2luZV0iKQogICAgLm9jdGF2ZSgxKQogICAgLmF0dGFjaygwLjAyKS5yZWxlYXNlKDAuMikKICAgIC5ocGYoc2xpZGVyKDEzMDAsIDEwMDAsIDIwMDApKS5scGYoc2xpZGVyKDIwMDAsMTAwMCwzMDAwKSkKICAgIC5yb29tKCIwLjY6MC42IikKICAgIC5wb3N0Z2FpbigwLjg5KQogICAgLmZhc3QoMikKCi8vIGNoYW5nZSB0byAkOiB0byBwbGF5IHRoaXMgcGFydAokOiAKICBjaG9yZChgPAogICAgWzxFIEVhZGQ5PiBfIF8gRiNhZGQ5XSAKICAgIDxDIyBDI2FkZDk%2BPgogICAgYCkudm9pY2luZygpCiAgICAucygicGlhbm8iKQogICAgLmNsaXAoIjxbMC4yIDAuNF0gMC4zPiIpCiAgICAubHBmKDE0MDApLmxmbyh7czogOCwgZDogMTIwfSkKICAgIC5ocGYoMTE1MCkKICAgIC5hdHRhY2soMC4wMikucmVsZWFzZSgxLjUpCiAgICAucm9vbShzbGlkZXIoMS42LDEsMykpLnJvb21mYWRlKHNsaWRlcigzLCAxLCA1KSkucm9vbXNpemUoc2xpZGVyKDIuNCwgMSwgMykpCiAgICAucG9zdGdhaW4oMC4zKQogICAgLmRpc3RvcnQoc2xpZGVyKDAuMjUsIDAsIDIpKQogICAgLmRpb2RlKDAuNikubGZvKHtzOiA0fSkubGZvKHtzOiAyfSkKICAgIC5wYW4oMC44KS5sZm8oKQogICAgLmVhcmx5KDAuMSkK"
+            }
+          ],
+          "index": {
+            "byteEnd": 160,
+            "byteStart": 134
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreihvzgebj2j3vodjib65kxeewq6hrs3swb3ci44al5nurzxhwir7yy",
+          "uri": "at://did:plc:dzebwntn7ytdw6ukknon6uu6/app.bsky.feed.post/3mt2iwhjc7c27"
+        },
+        "root": {
+          "cid": "bafyreihvzgebj2j3vodjib65kxeewq6hrs3swb3ci44al5nurzxhwir7yy",
+          "uri": "at://did:plc:dzebwntn7ytdw6ukknon6uu6/app.bsky.feed.post/3mt2iwhjc7c27"
+        }
+      },
+      "text": "Source code is available here. You can click ‘play’ in the top left and drag some sliders around. Or don’t. I’m not your dad. strudel.cc#Ly8gUHJlYmFr..."
+    },
+    "cid": "bafyreibv5crh2oaz6kwcd6wmqg4e5nu7c2ccn7px2esnllqzmjs46fwkvi"
+  }
+}
