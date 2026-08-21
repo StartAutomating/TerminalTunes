@@ -1,0 +1,52 @@
+{
+  "did": "did:plc:34dyop7bilpx437ofxdtiozj",
+  "time_us": 1787339229874333,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mtmhfy4bpb2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mtmhfxldxc27",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-21T19:07:09.136Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://Strudel.cc"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://Strudel.cc"
+            }
+          ],
+          "index": {
+            "byteEnd": 35,
+            "byteStart": 25
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreicjxafxkhtllbayqivrkimifgorzbev4uooxc42e5on45qiomtozy",
+          "uri": "at://did:plc:jzuwdca4qg4yq3eh4352ic5m/app.bsky.feed.post/3mtmainy4ay2y"
+        },
+        "root": {
+          "cid": "bafyreicjxafxkhtllbayqivrkimifgorzbev4uooxc42e5on45qiomtozy",
+          "uri": "at://did:plc:jzuwdca4qg4yq3eh4352ic5m/app.bsky.feed.post/3mtmainy4ay2y"
+        }
+      },
+      "text": "I was going to point out Strudel.cc is cool but it's free and open source so they're not really selling \"in the browser\" as much as offering it lol"
+    },
+    "cid": "bafyreiednflatfeedprvqk2237cdsbsftwaxg4e4asbx23hiqnkgdwhxma"
+  }
+}
