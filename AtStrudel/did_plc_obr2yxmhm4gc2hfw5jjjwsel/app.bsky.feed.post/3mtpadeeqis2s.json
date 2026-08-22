@@ -1,0 +1,36 @@
+{
+  "did": "did:plc:obr2yxmhm4gc2hfw5jjjwsel",
+  "time_us": 1787434706676498,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mtpadexppd2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mtpadeeqis2s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-22T21:38:24.919Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by santicodes",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibrdiczdwphiaxto4hmps5say7xwnnocpp3imsteqhyq2pmebtzm4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 96713
+          },
+          "title": "Only for the DMG 101",
+          "uri": "https://www.youtube.com/watch?v=JjbiqECv000"
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "My chiptune dnb cover of \"Only for the Weak\" by In Flames.\n\nI'm really getting comfortable with Strudel!"
+    },
+    "cid": "bafyreifhvkzg6u6ymnxt2bodin5tu2qtddzy4qjkrwr4ckz734yesq7e4m"
+  }
+}
