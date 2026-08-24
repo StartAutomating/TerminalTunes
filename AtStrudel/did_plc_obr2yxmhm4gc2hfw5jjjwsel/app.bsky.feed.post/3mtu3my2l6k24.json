@@ -1,0 +1,36 @@
+{
+  "did": "did:plc:obr2yxmhm4gc2hfw5jjjwsel",
+  "time_us": 1787601460080552,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mtu3mzimud2i",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mtu3my2l6k24",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-24T19:57:37.53Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by santicodes",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifrczgteapv4x76zlmbwclqpsgb2xsvsphqwteaiktvliszpmqsuq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 99070
+          },
+          "title": "H8breeder",
+          "uri": "https://www.youtube.com/watch?v=oA7IpSGRKjs"
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "My chiptune cover of Hatebreeder by Children of Bodom in Strudel!"
+    },
+    "cid": "bafyreiblreqp3aetuipqp2dj53lgc7lfy6n3u5jpmgd2jkmoraqsl36nyi"
+  }
+}
