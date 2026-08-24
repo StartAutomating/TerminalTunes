@@ -1,0 +1,36 @@
+{
+  "did": "did:plc:obr2yxmhm4gc2hfw5jjjwsel",
+  "time_us": 1787530389977798,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mtrzgygim32i",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mtrzgwqsak2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-24T00:13:07.874Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by santicodes",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicyqe4tij3s63i47hgmetnjiiddumdmt7x2waqn3b5fzjt3gwjycy"
+            },
+            "mimeType": "image/jpeg",
+            "size": 144389
+          },
+          "title": "Slaughter of the Toad",
+          "uri": "https://www.youtube.com/watch?v=s5GveUFN71M"
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "Okay but what if At The Gates had written the OST for Battletoads in Battlemaniacs?\n\nAnother day, another cover of a melodeath banger in Strudel!"
+    },
+    "cid": "bafyreigsnil5dajrvhe4rlzyzih7qx3ayfhfud7luvnbasecayhoa4trwq"
+  }
+}
