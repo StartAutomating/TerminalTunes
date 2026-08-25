@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:5mjogpegveleswspy24tairm",
+  "time_us": 1787670177269196,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mtw3mxonxn2c",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mtw3mwp3tk2p",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-25T15:02:55.583Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Fall is the perfect time to use apples in cooking. Get inspired with this collection of apple recipes that includes apple dessert recipes, savory apple recipes, breakfast and snack ideas.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreigv3wy43t5zznesvimnuxnekg7wicjuqa7nb2kbmll4l25okkzsru"
+            },
+            "mimeType": "image/jpeg",
+            "size": 810408
+          },
+          "title": "16 Delicious Ways to Use Apples",
+          "uri": "https://www.happyfoodstube.com/delicious-ways-to-use-apples/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.happyfoodstube.com/delicious-ways-to-use-apples/"
+            }
+          ],
+          "index": {
+            "byteEnd": 120,
+            "byteStart": 82
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "🍎 16 ways to use apples, sweet and savory. Which one would you try first? 👉 www.happyfoodstube.com/delicious-wa...\nApple pie, strudel and fried apple rings are all in here. But so are potato salad with apples, sausage stuffing and slow cooker apples with onions."
+    },
+    "cid": "bafyreidtlzp4xnishfjl2zqiikhk4zmygmpgyivi2fff6f6bnato5vhlge"
+  }
+}
