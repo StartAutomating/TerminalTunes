@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:6pzfbqd6wjv4zwv6bzuzk4wl",
+  "time_us": 1788217185124237,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mufz32vtup2h",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mufz2xthh22d",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-31T22:59:41.122Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by CrastinaterPro",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreih6x72uxzsnh44l7i4rxiyd3w46r6qn2yqyzqmklgv2m4nlobt7ka"
+            },
+            "mimeType": "image/jpeg",
+            "size": 32910
+          },
+          "title": "Experimental Lo-Fi Strudel #music #create #strumming #guitar",
+          "uri": "https://www.youtube.com/shorts/_NpWkvNG__c"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/shorts/_NpWkvNG__c"
+            }
+          ],
+          "index": {
+            "byteEnd": 58,
+            "byteStart": 27
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Experimenting with Strudel\nwww.youtube.com/shorts/_NpWk..."
+    },
+    "cid": "bafyreigyh7j4vp6mgs72mzahkwgzs52telywqkryv73bn4fplx6manqdm4"
+  }
+}
