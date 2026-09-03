@@ -1,0 +1,62 @@
+{
+  "did": "did:plc:6pzfbqd6wjv4zwv6bzuzk4wl",
+  "time_us": 1788474353757731,
+  "kind": "commit",
+  "commit": {
+    "rev": "3munilbmlry2p",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3munil67zik2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-03T22:25:48.994Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by CrastinaterPro",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia4kuwegyqlir4y7at4xxxplcymy6d3xzng7gxcu25ipmr5wl6ldy"
+            },
+            "mimeType": "image/jpeg",
+            "size": 69957
+          },
+          "title": "Strudel #LoFi Lead Guitars #improvisation #experiment #diy #music #create #guitar #lead #expression",
+          "uri": "https://www.youtube.com/shorts/jFPZLZ7XMG8"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 13,
+            "byteStart": 5
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/shorts/jFPZLZ7XMG8"
+            }
+          ],
+          "index": {
+            "byteEnd": 57,
+            "byteStart": 26
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "More #Strudel experiments\nwww.youtube.com/shorts/jFPZL..."
+    },
+    "cid": "bafyreiazb2e3rhh23c6oc64asmiuz3czarrxuu675ya7op4k2zr522lroe"
+  }
+}
