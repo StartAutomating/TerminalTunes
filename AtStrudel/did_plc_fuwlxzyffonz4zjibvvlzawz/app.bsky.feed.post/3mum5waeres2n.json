@@ -1,0 +1,60 @@
+{
+  "did": "did:plc:fuwlxzyffonz4zjibvvlzawz",
+  "time_us": 1788428550999407,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mum5wbivfh2m",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mum5waeres2n",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-03T09:42:29.447Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding editor that brings TidalCycles to the browser.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiauvdhnywnik5k5zesd7ovcli3qoyi3fu25vhkv73k27uepmi4w24"
+            },
+            "mimeType": "image/jpeg",
+            "size": 61642
+          },
+          "title": "Getting Started 🚀 Strudel",
+          "uri": "https://strudel.cc/workshop/getting-started/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/workshop/getting-started/"
+            }
+          ],
+          "index": {
+            "byteEnd": 88,
+            "byteStart": 62
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreif6bfna4f7kpw4hlzneni5bplb2czsz7l2ohk5hwlhed2osmrsy4m",
+          "uri": "at://did:plc:iuhltyu5jz2lqqandos5cqpf/app.bsky.feed.post/3mukgi6eun22q"
+        },
+        "root": {
+          "cid": "bafyreif6bfna4f7kpw4hlzneni5bplb2czsz7l2ohk5hwlhed2osmrsy4m",
+          "uri": "at://did:plc:iuhltyu5jz2lqqandos5cqpf/app.bsky.feed.post/3mukgi6eun22q"
+        }
+      },
+      "text": "Speaking of truth, I’m curious as to your thoughts on this: strudel.cc/workshop/get..."
+    },
+    "cid": "bafyreiey77cabfkbzlcuhhno4tsw4kiyloje76z7pxfz2dfsjmnkl36myq"
+  }
+}
