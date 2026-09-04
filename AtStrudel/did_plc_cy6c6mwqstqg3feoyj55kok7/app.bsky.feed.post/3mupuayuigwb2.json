@@ -1,0 +1,59 @@
+{
+  "did": "did:plc:cy6c6mwqstqg3feoyj55kok7",
+  "time_us": 1788555617162741,
+  "kind": "commit",
+  "commit": {
+    "rev": "222223ytsmn22",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mupuayuigwb2",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "bridgyOriginalText": "<p>More <a href=\"https://mastodon.me.uk/tags/Strudel\" class=\"mention hashtag\" rel=\"tag\">#<span>Strudel</span></a> fun. There is a prize if you can tell me the name of the 20-year-old jazz tune I&#39;ve ripped-off here</p><p><a href=\"https://tinyurl.com/5fjrph3c\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/5fjrph3c</span><span class=\"invisible\"></span></a></p>",
+      "bridgyOriginalUrl": "https://mastodon.me.uk/@pikesley/117214780199630155",
+      "createdAt": "2026-09-04T21:00:06Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "$type": "app.bsky.embed.external#external",
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#Ly8gQHRpdGxlIEFDUwovLyBAYnkgcGlrZXNsZXkgCgpzZXRDcHMoMTEwLzYwLzQpCnNldEdhaW5DdXJ2ZSh4ID0%2BIE1hdGgucG93KHgsIDIpKQp1c2VSTkcoJ3ByZWNpc2UnKQoKY29uc3Qga2V5ID0gIjxkMjpwaHJ5Z2lhbj4iCgphbGwoeCA9PiB4LnN3aW5nQnkoMC4yLCA4KS5zY2FsZShrZXkpKQoKY29uc3QgYmFzc0xpbmUgPSBgPAogIDAgIC0gIDcgIC0gIDQgIC0gIDEgIC0gCiAgOCAgNSAgLSAgMiAgLSAgOSAgNiAgLSAKICAzICAtIDEwICAtICA3ICAtICAyICAtIAogIDkgIDYgIC0gIDEgIC0gIDggIDUgIC0gCj5gCgpjb25zdCByaWNoQmFzc0xpbmUgPSBgPAogIDAgIDAgIDcgIDcgIDQgICA0ICAxICA3PyAKICA4ICA1ICAtICAyICAyPyAgOSAgNiAgNj8gCiAgMyAgMyAxMCAxMCAgNyAgIDcgIDIgIDg%2FIAogIDkgIDYgIC0gIDEgIC0gICA4ICA1ICA4PyAKPmAKCmNvbnN0IHdpbGRCYXNzID0gY2F0KGJhc3NMaW5lLCByaWNoQmFzc0xpbmUpCgpjb25zdCBiYXNzRmlsbCA9IGA8CiAgLSAgICAgICAgLSAgICAgICAgLSAgIC0gICAtICAgICAgIC0gICAgICAtICAgIC0gCiAgLSAgICAgICAgLSAgICAgICAxMiAgIC0gIDE2ICAgICAgIC0gICAgIDEyPyAgMTMgCiAgLSAgICAgICAgLSAgICAgICAgLSAgIC0gICAtICAgICAgIC0gICAgICAtICAgIC0gCiAgLSAgIDwtIDE1PiAgPDEzIDE3PiAgIC0gIDE1IDwtIDE0PiAgPC0gMTA%2BICAgMTIgCj5gCgpjb25zdCBjaG9yZHMgPSBgPAogIFsxNCwgMTcsIDE4LCAyMV1AMyAgIFsxNSwgMTcsIDE5LCAyMSwgMjJdQDMgICBbMTYsIDE4LCAyMCwgMjEsIDI0XUAyIAogIFsxNywgMTksIDIxLCAyNF1AMyAgIFsxNiwgMTgsIDIwLCAyMSwgMjRdQDMgICBbMTUsIDE3LCAxOSwgMjEsIDIyXUAyIAo%2BYAoKY29uc3QgYmFzc0FycmFuZ2VtZW50ID0gYXJyYW5nZSgKICBbNjQsIGJhc3NMaW5lXSwKICBbNjQsIGJhc3NMaW5lXSwKICBbNjQsIGJhc3NMaW5lXSwKICBbNjQsIGJhc3NMaW5lXSwKCiAgWzY0LCByaWNoQmFzc0xpbmVdLAogIFs2NCwgcmljaEJhc3NMaW5lXSwKICBbNjQsIHJpY2hCYXNzTGluZV0sCiAgWzY0LCByaWNoQmFzc0xpbmVdLAogIFs2NCwgcmljaEJhc3NMaW5lXSwKICBbNjQsIHJpY2hCYXNzTGluZV0sCiAgCiAgWzY0LCB3aWxkQmFzc10sCiAgWzY0LCB3aWxkQmFzc10sCiAgCiAgWzY0LCByaWNoQmFzc0xpbmVdLAogIFs2NCwgcmljaEJhc3NMaW5lXSwKICBbNjQsIHJpY2hCYXNzTGluZV0sCiAgWzY0LCBiYXNzTGluZV0sCikKCi8vLwpjb25zdCB2b2x1bWVzID0gewogIGJhc3M6ICAgICAiPDEhOCAgICAgICAgICAgMSE4IDEhOCAxITggMSE4ICAgICAgICAgICAgICAgICAgICAgIDEhOCAxITggICAgICAgICAgIDEhOD4iLAogIGJhc3NGaWxsOiAiPDAhOCAgICAgICAgICAgMCE4IDAhOCAxITggMCE4ICAgICAgICAgICAgICAgICAgICAgIDAhOCAxITggICAgICAgICAgIDEhOD4iLAogIGJlbGxzOiAgICAiPDAhOCAgICAgICAgICAgMCE4IDEhOCAxITggMSE4ICAgICAgICAgICAgICAgICAgMSE0IDAhNCAxITggICAgICAgICAgIDEhOD4iLAogIGNob3JkczogICAiPDAhOCAgICAgICAgICAgMSE4IDEhOCAxITggMSE4ICAgICAgICAgICAgICAgICAgICAgIDAhOCAxITggICAgICAgICAgIDEhOD4iLAogIGxlYWQ6ICAgICAiPDAhOCAgICAgICAgICAgMCE4IDAhOCAxITggMSE4ICAgICAgICAgICAgICAgICAgICAgIDAhOCAxITggICAgICAgICAgIDEhOD4iLAogIAogIGRydW1zOiAgICAiPDAhNyBbMCEzIDEhNV0gMSE4IDEhOCAxITggMSE4IFsxITEgMCExNV0gMCE2IFswITMgMSE1XSAxITggMSE3IFsxITUgMCEzXT4iLAp9Ci8vLwoKJGJhc3M6IG5vdGUoYmFzc0FycmFuZ2VtZW50KQogIC5zb3VuZCgid3RfZGlnaXRhbCIpCiAgLmZhc3QoMTYpCiAgLmRlY2F5KDAuNCkKICAuZGVsYXkoMC4xKQogIC5scGYoNDAwKQogIC5sZm8oewogICAgZGVwdGg6IDEsCiAgICBzeW5jOiA0LAogIH0pCiAgLmVudigpCiAgLnBvc3RnYWluKHZvbHVtZXMuYmFzcykKCiRjaDogc3RhY2soCiAgbm90ZShjaG9yZHMpICAKICAgLnNvdW5kKCJ0cmlhbmdsZSIpCiAgIC50cmFuc3Bvc2UoLTcpCiAgIC5zb21ldGltZXNCeSgwLjMsIHggPT4geC5wbHkoMikpCiAgIC5wYW4oc2luZS5yYW5nZSgwLCAxKSksCgogIG5vdGUoY2hvcmRzKSAgCiAgIC5zb3VuZCgic2F3IikKICAgLnRyYW5zcG9zZSgwKQogICAuc29tZXRpbWVzQnkoMC4zLCB4ID0%2BIHgucGx5KDIpKQogICAucGFuKHNpbmUucmFuZ2UoMCwgMSkpLAopIAogIC5scGYoc2luZS5yYW5nZSg0MDAsIDgwMCkuc2xvdygxNSkpCiAgLmRlY2F5KDAuMikKICAuZGVsYXkoMC4xKQogIC5mYXN0KDgpCiAgLnBvc3RnYWluKHZvbHVtZXMuY2hvcmRzKQoKJGJhc3NGaWxsOiBzb3VuZCgic2F3IikKICAubm90ZShiYXNzRmlsbCkKICAuZmFzdCgxNikKICAuZGVsYXkoMC4yKQogIC5scGYoODAwKQogIC5sZm8oewogICAgZGVwdGg6IDEsCiAgICBzeW5jOiA0LAogIH0pCiAgLnBvc3RnYWluKHZvbHVtZXMuYmFzc0ZpbGwpCgokYmVsbHM6IHNvdW5kKCJzaW5lIikKICAuZmFzdCg4KQogIC5ub3RlKCJbLSA8MjMhMyAyNT4gLSAyNF0hMiIpCiAgLmxwZig1MDApCiAgLmxmbyh7CiAgICBkZXB0aDogMSwKICAgIHN5bmM6IDQsCiAgfSkKICAuZm0oMikKICAuZm1oKDUpCiAgLnNvbWV0aW1lc0J5KDAuMSwgeCA9PiB4LnBseSgyKSkKICAucG9zdGdhaW4odm9sdW1lcy5iZWxscykKCiRsZWFkOiBzb3VuZCgid3RfZGlnaXRhbCIpCiAgLm5vdGUoaXJhbmQoNykpCiAgLnRyYW5zcG9zZSgxMikKICAuZmFzdCgxNikKICAuZGVncmFkZUJ5KDAuOCkKICAuZGVjYXkoMC4zKQogIC5kZWxheSgwLjMpCiAgLmxwZig0MDApCiAgLnBvc3RnYWluKHZvbHVtZXMubGVhZCkKCgokZHJ1bXM6IHN0YWNrKCAgCiBzb3VuZCgiYmQ6MCIpCiAgLnN0cnVjdCgieCAtIC0gLSB4IC0gLSAtIHggLSAtIC0geCA8LSE3IHg%2BIC0gPC0hNyB4PiIpCiAgLmJhbmsoInJvbGFuZHRyOTA5IiksCgogc291bmQoImhoIikKICAuc3RydWN0KCJbeCB4IHggeD9dITQiKQogIC5kZWNheSgiWzAuMDEhMiAwLjEgMC4wMl0hNCIpLAoKIHNvdW5kKCJjcCIpCiAgLmJhbmsoInJvbGFuZHRyODA4IikKICAuc3RydWN0KCItIC0gLSAtIHggLSAtIC0gLSA8LSE3IHg%2BIC0gLSB4IC0gLSAtIikKICAuZGVjYXkoMC4yKQogIC5kZWxheSgwLjIpLAoKIHNvdW5kKCJzZDozIikKICAuYmFuaygicm9sYW5kdHI4MDgiKQogIC5zdHJ1Y3QoIng%2FIC0gLSAtIHggLSAtIC0gLSA8LSE3IHg%2BIC0gLSB4IC0gLSAtIikKICAuZGVjYXkoMC4yKQogIC5kZWxheSgwLjIpLAopCiAgLnBvc3RnYWluKHZvbHVtZXMuZHJ1bXMpCgo%3D"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 13,
+            "byteStart": 5
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://tinyurl.com/5fjrph3c"
+            }
+          ],
+          "index": {
+            "byteEnd": 143,
+            "byteStart": 115
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "More #Strudel fun. There is a prize if you can tell me the name of the 20-year-old jazz tune I've ripped-off here\n\nhttps://tinyurl.com/5fjrph3c"
+    },
+    "cid": "bafyreihh5jg2sbubn7jy3xhpzc5rmwzwszby6ppyiawpa43czq56x4q4le"
+  }
+}
