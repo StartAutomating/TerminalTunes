@@ -1,0 +1,62 @@
+{
+  "did": "did:plc:ih4eoq64qvk7toqvi3c2fcxo",
+  "time_us": 1788888640586657,
+  "kind": "commit",
+  "commit": {
+    "rev": "3muzkfyptgg2b",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3muzkfwwhxc2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-08T17:30:37.914Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Mårten Rånge",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreie5fsruvxboyvgejo7phnokjleyq3raevmsyzscq5ouoi6j4tpuva"
+            },
+            "mimeType": "image/jpeg",
+            "size": 87527
+          },
+          "title": "strudel experiment",
+          "uri": "https://www.youtube.com/watch?v=JbHMKs165PQ"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 59,
+            "byteStart": 51
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=JbHMKs165PQ"
+            }
+          ],
+          "index": {
+            "byteEnd": 92,
+            "byteStart": 61
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Experimenting with integration shader effects into #strudel: www.youtube.com/watch?v=JbHM..."
+    },
+    "cid": "bafyreid7vr2jnic2ibfy6tesj7yhvqlsnnnqlm4tki2j4unlpvh2bq3vsi"
+  }
+}
