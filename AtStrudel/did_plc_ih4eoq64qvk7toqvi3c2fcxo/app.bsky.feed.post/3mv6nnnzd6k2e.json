@@ -1,0 +1,62 @@
+{
+  "did": "did:plc:ih4eoq64qvk7toqvi3c2fcxo",
+  "time_us": 1789063916998821,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mv6nnnckeu24",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mv6nnnzd6k2e",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-10T18:11:56.922Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Mårten Rånge",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreid5yetng4cflxxo3cv6fl6dmlz7gxmb2uyy37k77s3b7if3hqaxxm"
+            },
+            "mimeType": "image/jpeg",
+            "size": 83893
+          },
+          "title": "strudel experiment 3",
+          "uri": "https://www.youtube.com/watch?v=OzlqdyCbPV8"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 38,
+            "byteStart": 30
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=OzlqdyCbPV8"
+            }
+          ],
+          "index": {
+            "byteEnd": 70,
+            "byteStart": 39
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Experimenting with shaders in #strudel www.youtube.com/watch?v=Ozlq..."
+    },
+    "cid": "bafyreigmul7h7rgbe657k5szmnhdtss2ywmdbmd4imnl7dkgaklgrstfvu"
+  }
+}
