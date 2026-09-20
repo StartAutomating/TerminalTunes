@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:z4mcpm76jeftwtibzrs4axx2",
+  "time_us": 1789894091178858,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mvwssrszau2j",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mvwssqdrv223",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-20T08:48:09.565Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "",
+          "title": "",
+          "uri": "https://www.youtube.com/watch?v=j_W0dueOJT8"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=j_W0dueOJT8"
+            }
+          ],
+          "index": {
+            "byteEnd": 31,
+            "byteStart": 0
+          }
+        }
+      ],
+      "langs": [
+        "es"
+      ],
+      "text": "www.youtube.com/watch?v=j_W0... TRES LECHES \nSTRUDEL"
+    },
+    "cid": "bafyreied4gsix5d3ozjh7iosbjql57xzfblui2xc5ulz56fi5hmmdiawai"
+  }
+}
