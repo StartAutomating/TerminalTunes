@@ -1,0 +1,52 @@
+{
+  "did": "did:plc:uq2f5qysoly5l2467s5rsndb",
+  "time_us": 1790005167784253,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mw22b4mqn52n",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mw22b4fxf22a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-21T15:39:27.385Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://strudel.cc/"
+            }
+          ],
+          "index": {
+            "byteEnd": 200,
+            "byteStart": 190
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreiecdigsw2pcizwvyc67ximqei7mcwgjssvu2jq4g7xrqvgxtxo4ie",
+          "uri": "at://did:plc:buowlazbbw5y26ccwdtvf2bk/app.bsky.feed.post/3mvzydc75wk2n"
+        },
+        "root": {
+          "cid": "bafyreib4fteborkt2zqua67uk7ftond4kpee2miitcokaegol4unpz3ywa",
+          "uri": "at://did:plc:buowlazbbw5y26ccwdtvf2bk/app.bsky.feed.post/3mvyqs2lmhc22"
+        }
+      },
+      "text": "VirtualBox tends to be totally fine (if annoying since it’s one more surface you have to maintain) - no idea how it will behave with drum sequencing tbh. \n\nYou could always learn Strudel: strudel.cc"
+    },
+    "cid": "bafyreihepc6tmxjazfc4ziqdkwqgyjv3tddmdkf54k5n4lh4nqxvtzw46m"
+  }
+}
