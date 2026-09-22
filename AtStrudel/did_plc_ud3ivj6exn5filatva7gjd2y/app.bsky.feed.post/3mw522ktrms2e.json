@@ -1,0 +1,60 @@
+{
+  "did": "did:plc:ud3ivj6exn5filatva7gjd2y",
+  "time_us": 1790108028669055,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mw522lmixa24",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mw522ktrms2e",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-22T20:13:46.855Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by JOLLY",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidtvzkrttrpquoznnd7lvlhc4u6bpqf6ectj3ug7wucxqla3ecefy"
+            },
+            "mimeType": "image/jpeg",
+            "size": 37148
+          },
+          "title": "Two Brits try Apple Strudel with Arnold Schwarzenegger!",
+          "uri": "https://youtube.com/shorts/x5cs3QtoBNY?is=aiZGWZ9H4dOTh765"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://youtube.com/shorts/x5cs3QtoBNY?is=aiZGWZ9H4dOTh765"
+            }
+          ],
+          "index": {
+            "byteEnd": 78,
+            "byteStart": 51
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreihq3daneclwwsdhhdypeonof3xggd7g4yjmiwkfswharzvmbd6tqm",
+          "uri": "at://did:plc:qobvnkudcv3zlaklxxjduqoi/app.bsky.feed.post/3mfpgb66f7h2y"
+        },
+        "root": {
+          "cid": "bafyreihq3daneclwwsdhhdypeonof3xggd7g4yjmiwkfswharzvmbd6tqm",
+          "uri": "at://did:plc:qobvnkudcv3zlaklxxjduqoi/app.bsky.feed.post/3mfpgb66f7h2y"
+        }
+      },
+      "text": "Strudel and schnapps may be more enticing to him. \nyoutube.com/shorts/x5cs3..."
+    },
+    "cid": "bafyreiarr2sgp5ymv433jeidgklmxekbvvokfn6d6xm5jdkxwy3jqfal34"
+  }
+}
