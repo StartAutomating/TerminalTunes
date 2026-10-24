@@ -1,0 +1,60 @@
+{
+  "did": "did:plc:43mxnwfiyglpvwsatty3zad7",
+  "time_us": 1792861994294839,
+  "cursor": 27338354861,
+  "kind": "commit",
+  "commit": {
+    "rev": "22222457dny22",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3myn6tz47c6o2",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "bridgyOriginalText": "<p><a href=\"https://hachyderm.io/tags/strudel\" class=\"mention hashtag\" rel=\"tag\">#<span>strudel</span></a> is super fun. found an old pattern and played around. added some stuff and got a cute lil jam out of it.</p><p><a href=\"https://esk.to/twin-shop-keepers-v2\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">esk.to/twin-shop-keepers-v2</span><span class=\"invisible\"></span></a></p>",
+      "bridgyOriginalUrl": "https://hachyderm.io/@esk/117497000676703542",
+      "createdAt": "2026-10-24T17:12:28Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "$type": "app.bsky.embed.external#external",
+          "description": "Strudel is a music live coding environment for the browser, porting the TidalCycles pattern language to JavaScript.",
+          "title": "Strudel REPL",
+          "uri": "https://strudel.cc/#Ly8gUHJlYmFrZSBzY3JpcHQKLy8KLy8gVGhpcyBpcyBjb2RlIHRoYXQgaXMgbG9hZGVkIGJlZm9yZSB5b3VyIHBhdHRlcm4gaXMgcnVuLgovLyBZb3UgY2FuIHVzZSBpdCB0byBkZWZpbmUgY3VzdG9tIGZ1bmN0aW9ucyB0byB1c2UgaW4gYW55IHBhdHRlcm4uCi8vIAovLyBUaGlzIGlzIGFuIGluaXRpYWwgZXhhbXBsZSBzY3JpcHQuIFlvdSBjYW4gZWRpdCBpdCB0byBhZGQgCi8vIHlvdXIgb3duIGZ1bnRpb25zLgovLwovLyBUbyB1c2UgYSBzY3JpcHQgc2hhcmVkIGJ5IHNvbWUgb3RoZXIgdXNlciB5b3UgY2FuIHVzZQovLyB0aGUgaW1wb3J0LWJ1dHRvbiBvciBwYXN0ZSB0aGUgc2NyaXB0IGluIHRoaXMgZWRpdG9yLgoKY29uc3QgcmF0Y2hldCA9IHJlZ2lzdGVyKCdyYXRjaGV0JywgKHBhdCkgPT4gcGF0LnNvbWV0aW1lcyhwbHkoMikpKQoKCi8vQGJ5IEVzawovL0B0aXRsZSBUd2luIFNob3BrZWVwZXJzIFdobyBTZWxsIEl0ZW1zIFRoYXQgV2lsbCBQcm9iYWJseSBOb3QgV29yayBBcyBBZHZlcnRpc2VkCgpzb3VuZEFsaWFzKCdSb2xhbmRUUjgwOF9iZCcsICdraWNrJykKCmxldCBwcm9ncmVzc2lvbj1jaG9yZCgiPEM5IEE5IEUxMyBGOSBDOSBBOSBCOSBHNz4iKQoKbGV0IGJhc3NfdjE9IjxbLTUgLTMgLTUgLTJdIFtbNS0gLTMgLTUgLTJdIDxbLTIgLTNdIFstNiAtM10%2BXT4iCmxldCBiYXNzX3YyPSJbLTUgLTMgLTUgPC0yIC0zIC00IC0xPl0iCgpsZXQgbWlkcz0iPC0yIC0zPiBbOC8yIH4hMyA2IDRdIgoKc2V0Y3BzKC43NSkKCnN0YWNrKAogIHMoInNxdWFyZSIpCiAgICAuc2V0KHByb2dyZXNzaW9uKQogICAgLm1vZGUoInJvb3Q6YzMiKQogICAgLnZvaWNpbmcoKQogICAgLmdhaW4oLjUpCiAgICAuZGVjKC44KSwKCiAgbihtaWRzKQogICAgLnNldChwcm9ncmVzc2lvbikKICAgIC5tb2RlKCJkdWNrOmM0IikKICAgIC52b2ljaW5nKCkKICAgIC5zKCJzYXd0b290aCIpLAoKICBuKGJhc3NfdjIpCiAgICAuc2V0KHByb2dyZXNzaW9uKQogICAgLm1vZGUoImR1Y2s6YzQiKQogICAgLnZvaWNpbmcoKQogICAgLnMoInRyaWFuZ2xlIiksCgogIG4oIjEgOCA2IDggNSA4IDYgPDggOCA4IDw3IDk%2BPiIpCiAgICAuc2V0KHByb2dyZXNzaW9uKQogICAgLm1vZGUoImR1Y2s6YzYiKQogICAgLnZvaWNpbmcoKQogICAgLnMoIjxzYXd0b290aCB0cmlhbmdsZT4iKQogICAgLmRlYyguMikKICAgIC5wYW4oc2luZS5zbG93KDIpKSwKCiAgcygiYmQgLSAiKSwKICBzKCItIHNkIikKICAgIC5zcGVlZChjaG9vc2UoIjEiLCAiLjk1IiwgIi45NzUiLCAiMS4wNSIpKSwKICBzKCJzaCo4IikKICAgIC5zcGVlZChjaG9vc2UoIjEiLCAiLjk1IiwgIi45NzUiLCAiMS4wNSIpKSwKICBzKCItIC0gY3AgPC0gLSAtIFstIGNwXT4iKQogICAgLnNwZWVkKGNob29zZSgiMSIsICIuOTg1IikpLAogIHMoIi0gPC0gY3I%2BIC0gLSIpCik%3D"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "strudel"
+            }
+          ],
+          "index": {
+            "byteEnd": 8,
+            "byteStart": 0
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://esk.to/twin-shop-keepers-v2"
+            }
+          ],
+          "index": {
+            "byteEnd": 150,
+            "byteStart": 115
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "#strudel is super fun. found an old pattern and played around. added some stuff and got a cute lil jam out of it.\n\nhttps://esk.to/twin-shop-keepers-v2"
+    },
+    "cid": "bafyreiggydlgcmokui7oxy3al6ixc2v3jok4lrikq53jb3iiqnv5q27eda"
+  }
+}
