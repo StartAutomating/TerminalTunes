@@ -1,0 +1,99 @@
+{
+  "did": "did:plc:vzgpy3yuq62d4jbjoniujtfk",
+  "time_us": 1793617464791042,
+  "cursor": 27648926149,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mzd6hxdlux2j",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mzd6hu7tq22q",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-11-02T11:04:21.176Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Mute",
+          "thumb": {
+            "$type": "blob",
+            "mimeType": "image/jpeg",
+            "ref": {
+              "$link": "bafkreiarf2isyeo3flqneagb7m3673zownqyh4xzcfrxbgksmqf72lps2i"
+            },
+            "size": 26376
+          },
+          "title": "Laibach - My Favorite Things (Official Video)",
+          "uri": "https://www.youtube.com/watch?v=EavTye99eZA"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "BreakingKindSongs"
+            }
+          ],
+          "index": {
+            "byteEnd": 18,
+            "byteStart": 0
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MusicChallenge"
+            }
+          ],
+          "index": {
+            "byteEnd": 34,
+            "byteStart": 19
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MusicSky"
+            }
+          ],
+          "index": {
+            "byteEnd": 44,
+            "byteStart": 35
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "music"
+            }
+          ],
+          "index": {
+            "byteEnd": 51,
+            "byteStart": 45
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=EavTye99eZA"
+            }
+          ],
+          "index": {
+            "byteEnd": 209,
+            "byteStart": 178
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "#BreakingKindSongs\n#MusicChallenge\n#MusicSky #music\n\nNov 2: a song contains any ingredient found in baking\n\napple\nas in\n\"crisp apple strudels\"\nas in\nLaibach - My Favorite Things\nwww.youtube.com/watch?v=EavT..."
+    },
+    "cid": "bafyreib6swo6odi2zxjfxgahh34yrbzvnuo3tfksuymv5tr6i6b5qwxxd4"
+  }
+}
