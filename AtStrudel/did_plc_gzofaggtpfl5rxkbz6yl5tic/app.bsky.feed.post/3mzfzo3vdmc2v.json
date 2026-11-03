@@ -1,0 +1,52 @@
+{
+  "did": "did:plc:gzofaggtpfl5rxkbz6yl5tic",
+  "time_us": 1793715382793898,
+  "cursor": 27689789998,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mzfzo4lfyo2f",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mzfzo3vdmc2v",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-11-03T14:16:21.053Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by Yiddish Songs with Translation by Arye",
+          "thumb": {
+            "$type": "blob",
+            "mimeType": "image/jpeg",
+            "ref": {
+              "$link": "bafkreicwi3itqbncesbeu6oueh7oyrfs6yrrdglbr2u232k3z2uhx6xotq"
+            },
+            "size": 48159
+          },
+          "title": "ARON LEBEDEFF sings \"Hoodle with her strudel\" HUDL MITN SHTRUDL [subtitled, translated]",
+          "uri": "https://www.youtube.com/watch?v=Htv5l7yYbXw"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:kl5r455soboertmt7sbjuw25"
+            }
+          ],
+          "index": {
+            "byteEnd": 302,
+            "byteStart": 285
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Choosing more Yiddish songs for the West Philly klezmorim and from the raunchiness of \"I Like She,\" I remembered this other Aaron Lebedeff song \"Hudl Mitn Strudel\" of which the hoity-toity translation of the song ends the chorus with \n\n\"Oh Hudl, Hudl, serve the strudel. Serve it!”\n\n@joshuaraclaw.com"
+    },
+    "cid": "bafyreie7jawlmwv62x7kckgilnpnngmqofl7skgoxtevvla2rgwck5wpw4"
+  }
+}
