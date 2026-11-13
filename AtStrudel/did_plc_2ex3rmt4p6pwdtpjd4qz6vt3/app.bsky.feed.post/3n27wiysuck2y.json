@@ -1,0 +1,61 @@
+{
+  "did": "did:plc:2ex3rmt4p6pwdtpjd4qz6vt3",
+  "time_us": 1794605338979970,
+  "cursor": 28095428978,
+  "kind": "commit",
+  "commit": {
+    "rev": "3n27wiuxkz42k",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3n27wiysuck2y",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-11-13T21:29:02.026Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by DJ_Dave",
+          "thumb": {
+            "$type": "blob",
+            "mimeType": "image/jpeg",
+            "ref": {
+              "$link": "bafkreibz4ah6l4xvnbj7bw5ia7rhpwasdayuceyj3hxroznvyezec6qzpe"
+            },
+            "size": 140383
+          },
+          "title": "DJ_Dave - Music is Code you can Hear (Visualizer)",
+          "uri": "https://www.youtube.com/watch?v=Y_2LY7TZmUU"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=Y_2LY7TZmUU"
+            }
+          ],
+          "index": {
+            "byteEnd": 83,
+            "byteStart": 52
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreiagnt3zlodktjpzg6gp4xqjilz3bi5qcapqkkj5agmaf6rm3muvjq",
+          "uri": "at://did:plc:alf6455aaiuqbkxk7sfq6wpu/app.bsky.feed.post/3n27w7mecc224"
+        },
+        "root": {
+          "cid": "bafyreid6lluoifdqbauixrijzfpdnk33o76bq6idu3v6dh7havjnf65nwy",
+          "uri": "at://did:plc:2ex3rmt4p6pwdtpjd4qz6vt3/app.bsky.feed.post/3n27td5cquc2f"
+        }
+      },
+      "text": "i heard a much better song involving code recently \nwww.youtube.com/watch?v=Y_2L...\nshe actually programmed the song live in this music programming language called Strudel"
+    },
+    "cid": "bafyreigpey7mikyor2qu7k2wakfnyzptrfsrqxl24fp7gbuny54gieygui"
+  }
+}
