@@ -1,0 +1,61 @@
+{
+  "did": "did:plc:sbm4yvf5ueaanyrjnguz33v3",
+  "time_us": 1794572705676252,
+  "cursor": 28079944945,
+  "kind": "commit",
+  "commit": {
+    "rev": "3n26y4echsl2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3n26y4dn6o225",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-11-13T12:25:04.912Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by TodePond",
+          "thumb": {
+            "$type": "blob",
+            "mimeType": "image/jpeg",
+            "ref": {
+              "$link": "bafkreiedjyax45n3r4az4gev6ecbul7cg3nktn3qg7ifm67jhej6stdmuq"
+            },
+            "size": 44023
+          },
+          "title": "From Scratch STRUDEL TUTORIAL",
+          "uri": "https://www.youtube.com/watch?v=SsUbCq7yoxo"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=SsUbCq7yoxo"
+            }
+          ],
+          "index": {
+            "byteEnd": 93,
+            "byteStart": 62
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreid5wjhwj7j2ggbqs7q4r5rfcd4sow6hcq6fvnq7m46dvr4bpl7uhy",
+          "uri": "at://did:plc:fhn6qndj2feano4o3b5toaa3/app.bsky.feed.post/3n26wysyjuc2e"
+        },
+        "root": {
+          "cid": "bafyreiety5gi6mpjbs6lr2i45sqje3ee3oiag65b7kj6shhs3r6opip7rq",
+          "uri": "at://did:plc:sbm4yvf5ueaanyrjnguz33v3/app.bsky.feed.post/3n26tr32css25"
+        }
+      },
+      "text": "hehe cool thanks\nhere's a strudel intro in case youre curious\nwww.youtube.com/watch?v=SsUb..."
+    },
+    "cid": "bafyreiauxxot5ui6km7kvpxwbyioet26vcb6viprpke4drdfkidvmec7mm"
+  }
+}
