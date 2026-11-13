@@ -1,0 +1,61 @@
+{
+  "did": "did:plc:7mah66ssztuitj7mq652m3ji",
+  "time_us": 1794542927713326,
+  "cursor": 28070807643,
+  "kind": "commit",
+  "commit": {
+    "rev": "3n264evizca2c",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3n264eudto22s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-11-13T04:08:46.097Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by The Midwest TV Guys",
+          "thumb": {
+            "$type": "blob",
+            "mimeType": "image/jpeg",
+            "ref": {
+              "$link": "bafkreieucexujd2krumol4ht7zup6vbpqznqbdz4ungai6lrs2nicn6bk4"
+            },
+            "size": 56405
+          },
+          "title": "Hans Strudel   Welcome to Breakfürg",
+          "uri": "https://m.youtube.com/watch?v=CQQPms3EL8A&pp=0gcJCVgCo7VqN5tD"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://m.youtube.com/watch?v=CQQPms3EL8A&pp=0gcJCVgCo7VqN5tD"
+            }
+          ],
+          "index": {
+            "byteEnd": 83,
+            "byteStart": 54
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreic4xjb3lnxdbnfdzhofx4fuwz4372jaov4577zuhjuy7gah4qk2wu",
+          "uri": "at://did:plc:tdxfwsu2ijkvy3ur5ekzsfjg/app.bsky.feed.post/3mo2ntdsfl223"
+        },
+        "root": {
+          "cid": "bafyreicxregsclv4acjibtl22jbmuwksuxwsiuwgnghot7fap2qu6gsz6e",
+          "uri": "at://did:plc:tdxfwsu2ijkvy3ur5ekzsfjg/app.bsky.feed.post/3mo2n3pncwk23"
+        }
+      },
+      "text": "I'd prefer my strudel delivered the old fashioned way\nm.youtube.com/watch?v=CQQP..."
+    },
+    "cid": "bafyreiby5fwd3bq6ye25t74n5apbl6caq4c4vusordw5cwufgtwgdf2qrq"
+  }
+}
